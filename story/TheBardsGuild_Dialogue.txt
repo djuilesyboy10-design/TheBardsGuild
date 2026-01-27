@@ -1,0 +1,2420 @@
+# " JMCG_Thieves_Lore" ---------------------------------------------------------
+@ 4 " JMCG_Thieves_Lore" 744869041694614822
+Daynasa Telandas is dead. The assassination was a success, destabilizing House Hlaalu's local power. The Bards Guild has proven its worth to the silent partners in the sewers. I should report back to Jack.
+
+@ 4 " JMCG_Thieves_Lore" 31216327561430123747
+The Council Club is silent. Larrius Varro's 'little story' is finished, and the Bards Guild acted as a neutral proxy for Legion justice. I should report back to Jack.
+
+@ 4 " JMCG_Thieves_Lore" 137207325639712862
+Marius gave me a specific target: Daynasa Telandas, a Hlaalu farmer in the fields south of Balmora. I need to eliminate her. Doing this will hurt House Hlaalu's reputation. I must find a way to perform this 'lullaby' silently."
+
+@ 4 " JMCG_Thieves_Lore" 2885626067197241829
+I spoke with Larrius Varro. He told me a "little story" about five bad people at the Council Club who need to be removed. I am to go there and settle the matter.
+
+@ 4 " JMCG_Thieves_Lore" 322588636221716280
+Bacola Closcius knows I delivered the Khajiit to the Tong. She's sent me to the sewers in St. Olms Underworks, to meet Durus Marius. He has a "lullaby" in mind for the Council Club that requires a bard with no conscience.
+
+@ 4 " JMCG_Thieves_Lore" 45771896416049275
+Bacola Closcius knows I freed the slave in Hla Oad. She's directed me to Moonmoth Legion Fort to speak with Larrius Varro. Apparently, he has a "little story" that needs a neutral party to settle.
+
+@ 4 " JMCG_Thieves_Lore" 495926880580222433
+Jack has sent me back into the field. I am to go to the South Wall Cornerclub in Balmora and offer our "herald services" to Bacola Closcius of the Thieves Guild. Jack wants to see if the Thieves are as desperate for neutral representation as the Fighters were
+
+@ 4 " JMCG_Thieves_Lore" 1990531627243795361
+The Undercover Act:2
+
+# "JMCG_Ablle" -----------------------------------------------------------------
+@ 4 "JMCG_Ablle" 2971213479127592643
+I have retuerned to Valenvaryon propylon chamber to Abelle, the fork is tunned, now she says we have to serch out the remaining chambers if we want to unlock the key within the frequancy the fork hase tuned to
+
+@ 4 "JMCG_Ablle" 35782467529013668
+At the Falasmaryon Propylon Chamber, the Tuning Fork let out a haunting, low-frequency hum. It has now memorized the 'resonance' of this stronghold. I sould return to Abelle
+
+@ 4 "JMCG_Ablle" 583712631103074440
+Ablle has entrusted me with 'The Devil's Tuning Fork.' She says it has 'harmonized' with the Propylon network. I need to take it to Falasmaryon to strike the first chord, and see if it true there also
+
+@ 4 "JMCG_Ablle" 1972389102813089
+Ally has received word from our allies in Valenvaryon. The stronghold is becoming a point of pilgrimage for Orcs, but Abelle Chriditte has made a discovery regarding the Propylon stones. I am to travel north and speak with her to find out what these 'Resonating Stones' signify for the Guild.
+
+@ 4 "JMCG_Ablle" 18430276761785119329
+The Vibbratting earth
+
+# "JMCG_AshSinger_Echo" --------------------------------------------------------
+@ 4 "JMCG_AshSinger_Echo" 2493202562950219844
+Shane gra-Bagol has reviewed the transcript and confirmed its dangerous nature. He called it 'Apographa' a truth the Temple would kill to keep hidden. However, he has ordered a halt to the investigation of Holamayan for now, citing the need for the Guild to grow its influence before we attract the eyes of the Ordinators. I must assist Joseph with recruitment until the 'heat' dies down.
+
+@ 4 "JMCG_AshSinger_Echo" 179413010116387445
+The Bards Guild has promoted me to the rank of Novice. i have been has been sent to speak with Shane gra-Bagol, a master poet and author on the guild's first floor, regarding the second half of the forbidden song.
+
+@ 4 "JMCG_AshSinger_Echo" 1251111339829915734
+Nibani Maesa has interpreted the whispers I heard in the burial caverns. She calls the melody the 'Lament of the Unmourned' and warns that the Temple has forbidden its performance. She believes the only people who still know the second half of the song are the Dissident Priests hidden at Holamayan. I must return to the Bards Guild in Balmora to discuss how to reach such a dangerous and remote location.
+
+@ 4 "JMCG_AshSinger_Echo" 24885184782411012863
+I have observed the rite at the burial caverns. I heard a strange melody in the wind. I should return to the Wise Woman, Nibani Maesa, to see if she will explain its meaning.
+
+@ 4 "JMCG_AshSinger_Echo" 258272148367424922
+Zabamund of the Urshilaku has demanded I perform a 'Rite of Waiting' before he will speak of the lost song. I must take Tundra Bread to the ancestor shrine and place it in a sack just outside their burial caverns to the south and listen to the spirits.
+
+@ 4 "JMCG_AshSinger_Echo" 2945816863158253312
+After returning from Jobasha, the Argonian Bard realizes the "Three-Fold Shadow" is incomplete. now i must travel to the ashland to continue our Journey of Knowlege of this starange land, Zabamund is the Gulakhan of the Urshilaku Ashlander tribe. He can be found at his yurt in their camp in the northern Ashlands.
+
+@ 4 "JMCG_AshSinger_Echo" 21701764933672138
+The Ash Singers Echo
+
+# "JMCG_Ballad" ----------------------------------------------------------------
+@ 4 "JMCG_Ballad" 313186708151536087
+The tale of the Saint is complete. The Bards Guild now holds the only true account of the day the sky was reclaimed. the great Ballad of Saint Jiub "An Unbreakable Shield"
+
+@ 4 "JMCG_Ballad" 2963326394275821722
+Shane has transcribed the events into a new chronicle: 'The Ballad of Saint Jiub.' It is a grim but hopeful song, a testament to the Eradicator's final victory. The first copy of the ballad is now in my possession.I will cherish this forever
+
+@ 4 "JMCG_Ballad" 6067194001346511761
+I have witnessed a miracle at the heart of the Palace. The Matriarch of the cliff racers has been slain, and with her, the cycle of their endless generations is broken. I must return to the Bards Guild and ensure Shane records this song before the memory fades.
+
+@ 4 "JMCG_Ballad" 301202286539826424
+St Jiubs Ballad
+
+# "JMCG_Daisy_Lore" ------------------------------------------------------------
+@ 4 "JMCG_Daisy_Lore" 18365159351491724358
+I decided to keep Vanes book to myself i told Daisy of  her kin that were already lost. The gold is heavy, but my conscience is heavier. Daisy seems broken by the news. Keen sences that one!
+
+@ 4 "JMCG_Daisy_Lore" 2687630351202119997
+Garrus Vane is dead. I managed to free the surviving captives, including a young hatchling Daisy had been searching for. Daisy is overjoyed and has gifted me well for my trouble.
+
+@ 4 "JMCG_Daisy_Lore" 25293108072346911192
+I have reached Garrus Vane's sanctum. The horror here is worse than described. I must end his experiments and see if any of Daisy's kin have survived the ordeal.
+
+@ 4 "JMCG_Daisy_Lore" 14323117811919515546
+Dranas has confessed. He has been selling 'stock' to an eccentric high-elf named Garrus Vane. Vane operates out of a hidden lab in the Molag Amur region. Dranas warns that Vane is looking for 'perfection' in his subjects.Only Argonian folk
+
+@ 4 "JMCG_Daisy_Lore" 162111041066313337
+I have forced Dranas to reveal his buyer. He spoke of a 'Lord of the Still Waters' who resides in a hidden grotto.
+
+@ 4 "JMCG_Daisy_Lore" 326202601220632193
+I found a gruesome scene in the cellar. A letter from the trader, Dranas Sarathram, complains he cannot keep up with the 'demand.' One victim a month was manageable, but now it is one a week. I must confront Dranas in Suran.
+
+@ 4 "JMCG_Daisy_Lore" 3859531400114247
+A dancer named Khinjarsi said she heard a man matching the description was leaving town, heading toward Bal Ur. I should investigate.
+
+@ 4 "JMCG_Daisy_Lore" 60011616516951553
+I've heard rumors of a 'quiet patron' who only visits late at night. They say he smells of formaldehyde and expensive perfume.
+
+@ 4 "JMCG_Daisy_Lore" 2131215292504722562
+Daisy believes a "monstrous" buyer is operating out of Suran, purchasing slaves who then vanish. She asked me to check the House of Earthly Delights for rumors.
+
+@ 4 "JMCG_Daisy_Lore" 100527349137078107
+Ally confirmed Daisy is secretly investigating a slave trader in Suran. I should speak to her again.
+
+@ 4 "JMCG_Daisy_Lore" 772611309115710928
+Daisy Dives Deep shared her past as a hatchling in High Rock. She seems to be looking for someone in Suran.
+
+@ 4 "JMCG_Daisy_Lore" 12295127722991726415
+The Silent Melody
+
+# "JMCG_Fara" ------------------------------------------------------------------
+@ 4 "JMCG_Fara" 695221272727917022
+Fara sees the world for what it is: a market. She accepted my stewardship because I didn't flinch at the transaction. In this "Hole in the Wall," words are the most expensive spice we have, and I’ve just proven I know how to sell. Now, she’s whispering about a lost cookbook another recipe, another trade, another risk to weigh.
+
+@ 4 "JMCG_Fara" 51172982540049287
+I heard the Bard sing the Ballad in The tavern, i have sowen a seed of history here
+
+@ 4 "JMCG_Fara" 27432115832947021236
+ Fara's Hole in the Wall, has showen intresst, the owne "Fara" has sent me to the rivial taverns in town, in what seems like a criptic quest
+
+@ 4 "JMCG_Fara" 2059914733706030713
+Silence is Golden
+
+# "JMCG_Guide" -----------------------------------------------------------------
+@ 4 "JMCG_Guide" 256091144487632007
+I must return to Niri-Zabi-Ammu the Iorn Orcs will accept her Guide, amd allow them to set up a travel guide in Valenvayron, this will be a boon for the town,
+
+@ 4 "JMCG_Guide" 107925597588620493
+The AshLander Guide
+
+# "JMCG_Hist_Lore" -------------------------------------------------------------
+@ 4 "JMCG_Hist_Lore" 24972248891182117550
+Haj-Meen and Xeech-Vastei are reunited,Now they must prepare for  "The Memory of Sap" ritual. I will report this to Ally, she may have some thoughts
+
+@ 4 "JMCG_Hist_Lore" 115877800183935034
+Haj-Meen is free, i must escort him back to Seeyda Neen
+
+@ 4 "JMCG_Hist_Lore" 1925097011925426315
+i have located the slaver ship, the "Root-Cutter," near Tel Aruhn.I must decide: pay the 2000 gold Blood-Price for Haj-Meen, or kill the Lukiul-Hata. Or leave empty handed
+
+@ 4 "JMCG_Hist_Lore" 7321169322249325961
+i have found Xeech-Vastei. She is a Root-Herald, an ambassador for her tribe. She claims the "Ash-Dream" is poisoning her connection to the Hist. She cannot help the Guild until her bond-mate, Haj-Meen, is freed from the Lukiul-Hata slavers on the East Coast.
+
+@ 4 "JMCG_Hist_Lore" 2758925521662617584
+The Guild Master of lore Ally has sent me to Seeyda Neen to investigate an argonian who arived at the same time as i, a renowned bard from the Black marsh
+
+@ 4 "JMCG_Hist_Lore" 436619157367415021
+!Jo'Zhaf was surprized at the news, "Hisin and Lysandra's" and said i sould report this to the guild master Ally upstairs, he alsow rewarded me with some gold and i am now an Apprentice of the guild
+
+@ 4 "JMCG_Hist_Lore" 19939232352809114761
+What surprize Hisin and Lysandra opening up a shop for the, this is a significant upgrade for the guild, i sould make my way back to Balmora and inform Jo'Zhaf
+
+@ 4 "JMCG_Hist_Lore" 1983917929144661031
+The Memory of Sap
+
+# "JMCG_Imperial_Buisness" -----------------------------------------------------
+@ 4 "JMCG_Imperial_Buisness" 2082332446576128526
+I have pitched our services to  Bacola Closcius. He was intrigued and has directed me to new contacts in the underworld.
+
+@ 4 "JMCG_Imperial_Buisness" 240829473114499744
+Jack is satisfied with my work. He says our success in Hla Oad has opened a door with the Thieves Guild. I am to speak with Aengoth the jeweler at the rat in the pot, at Ald'rhun.
+
+@ 4 "JMCG_Imperial_Buisness" 15398797465331557
+Rabinna has been delivered to the Camonna Tong as agreed. I should report back to Jack to claim the Guild's share of the profit.
+
+@ 4 "JMCG_Imperial_Buisness" 305914157620731687
+"I have successfully delivered Rabinna to the Argonian Mission in Ebonheart. I should return to Jack at the Council Club and report that the matter is settled.
+
+@ 4 "JMCG_Imperial_Buisness" 2654316010601928074
+ I have found the "delivery" in Hla Oad. It is a Khajiit slave named Rabinna. By agreeing to transport her for the Camonna Tong, I have officially entered the Bards Guild into the politics of the Balmora underworld. My choices from here will determine our future reputation
+
+@ 4 "JMCG_Imperial_Buisness" 18842277672656420886
+Thanelen Velas at the Council Club has a task for me. I am to travel to Hla Oad and collect a "shipment" from a contact there.
+
+@ 4 "JMCG_Imperial_Buisness" 660912508316044395
+Eydis Fire-Eye was dismissive of songs but suggested I speak to her "associates" at the Council Club. They need someone for logistics work.
+
+@ 4 "JMCG_Imperial_Buisness" 14704303552016425363
+Jack has tasked me with pitching the Bards Guild's "herald services" to the local guilds. I should start with Eydis Fire-Eye at the Balmora Fighters Guild to see if they'll bite.
+
+@ 4 "JMCG_Imperial_Buisness" 29572769181214268
+ The Undercover Act:1
+
+# "JMCG_Joseph_Lore" -----------------------------------------------------------
+@ 4 "JMCG_Joseph_Lore" 41372651891311549
+Jo'Zhafs network of taverns now spans Vvardenfell.
+Some truths travel freely through it. Others are quietly lost.
+
+@ 4 "JMCG_Joseph_Lore" 1223428484140991803
+Jo'Zhaf has marked another tavern in need of stewardship.
+Each place, he says, listens differently.
+
+@ 4 "JMCG_Joseph_Lore" 1283097350816047
+The matter of the Hal Oad tavern has been settled , 
+Jo'Zhaf sould be informed of what i heard and saw while there!
+
+@ 4 "JMCG_Joseph_Lore" 535023627186566402
+Jo'Zhaf sent me to Hal Oad, a harbor village with a newly opened inn.
+He believes the way this tavern listens will shape what stories endure there
+
+@ 4 "JMCG_Joseph_Lore" 2631164232801718990
+I have agreed to help Jo'Zhaf extend the Guild’s reach.
+He warned that not every truth should be carried forward unchanged.
+
+@ 4 "JMCG_Joseph_Lore" 759996693054125785
+Jo'Zhaf spoke of taverns not as businesses, but as listening posts.
+He believes the Bards Guild can survive only by tending places where rumors are born
+
+@ 4 "JMCG_Joseph_Lore" 259360471582693704
+Jo'Zhaf has marked the Eight Plates in Balmora for stewardship. The crossroads of Vvardenfell, where every faction watches and waits.
+
+@ 4 "JMCG_Joseph_Lore" 360471582693704815
+Jo'Zhaf has sent me to the Rat in the Pot in Ald'ruhn. Under Redoran eyes, words must be weighed like steel.
+
+@ 4 "JMCG_Joseph_Lore" 471582693704815926
+Jo'Zhaf has marked the Black Shalk in Vivec's Foreign Quarter. Where empires meet, every rumor echoes across three continents.
+
+@ 4 "JMCG_Joseph_Lore" 582693704815926037
+Jo'Zhaf has sent me to the Suran Tradehouse. In a city of chains, silence is both mercy and complicity.
+
+@ 4 "JMCG_Joseph_Lore" 693704815926037148
+Jo'Zhaf has marked Gnaar Mok for stewardship. Even the edge of the map must learn to listen.
+
+@ 4 "JMCG_Joseph_Lore" 704815926037148259
+Jo'Zhafs network of taverns now spans Vvardenfell. Seven listening posts, each hearing differently. Some truths travel freely through them. Others are quietly lost.
+
+@ 4 "JMCG_Joseph_Lore" 277555041938622258
+Crossed Courds
+
+# "JMCG_Myth" ------------------------------------------------------------------
+@ 4 "JMCG_Myth" 220129089968623241
+I let the the resonance flow and Take life; I shattered the tone without a second thought.
+
+@ 4 "JMCG_Myth" 29990265891692329293
+Living breating History
+
+# "JMCG_Orc_Diplomacy" ---------------------------------------------------------
+@ 4 "JMCG_Orc_Diplomacy" 21942183541306721629
+The Wise women was delighted with the news, she will send her Guild to the town straight away, i sould report this back to Ally and Shane at the guild hall
+
+@ 4 "JMCG_Orc_Diplomacy" 2811817427331424181
+I have returned the helmet to the Orc leader, he has accepted the Outcasts offer, i sould visit the wise women and let her know
+
+@ 4 "JMCG_Orc_Diplomacy" 1075817548580910152
+The Orc Leader seems suceptable to the offer from the Outcasts, how ever seens i have to "Fetch him his Helm" from the near by Deadric ruin
+
+@ 4 "JMCG_Orc_Diplomacy" 222421492104538614
+Slaughtering Ashlanders seems harsh for pouching an lost Kwama, i refuse to slaughter these people, they are Ashlanders, hardy by nature, they offer a Truce to the Iorn Orcs, i will return to the Clan leader, with the Ashlanders offer
+
+@ 4 "JMCG_Orc_Diplomacy" 173379502903617252
+I have to help the Orcs bleed there Ashlander Problem, and Bring back the Ashlander wise womens Head as Proof
+
+@ 4 "JMCG_Orc_Diplomacy" 1092647491315025276
+Orc Diplomancy
+
+# "JMCG_Path_Bad" --------------------------------------------------------------
+@ 4 "JMCG_Path_Bad" 17973205342300868
+I chose the profit and delivered the Khajiit to the Camonna Tong.
+
+@ 4 "JMCG_Path_Bad" 2952250551334918824
+Slaving all day
+
+# "JMCG_Path_Good" -------------------------------------------------------------
+@ 4 "JMCG_Path_Good" 10884282211393528198
+I chose to free Rabinna and help the Twin Lamps.
+
+@ 4 "JMCG_Path_Good" 28371270062960528062
+The Aboloutionist
+
+# "JMCG_Recruitment" -----------------------------------------------------------
+@ 4 "JMCG_Recruitment" 17223302277915455
+The recruitment drive is a total success. Joseph was pleased to have the signatures of the Dunmer scholar, the Nord warrior, and the High-City poet.
+Im now an apprentice of the Bards Guild, he has also paid me and given me his fathers pants as a bounus, he also pointed me toward Jack with some extra-work helping him finish his Chorus
+
+@ 4 "JMCG_Recruitment" 126953632807519128
+Tarer has received the book and signed the charter. He is ecstatic to begin his studies. He mentioned he will send word to the Balmora Guildhall when his 'holy research' is complete.
+
+@ 4 "JMCG_Recruitment" 2237921864224894346
+Tarer Brayn is obsessed with the 36 Lessons. He refuses to join the Guild until he has a copy of Sermon 36 to begin his life's work. The book must be found for him.
+
+@ 4 "JMCG_Recruitment" 668317132121117776
+Jo'Zhaf has given the final name: Tarer Brayn. He is a Dunmer scholar born in Cyrodiil who has recently returned to Vvardenfell to study the Tribunal. He is currently staying in Vos.
+
+@ 4 "JMCG_Recruitment" 19308249492959615135
+I solved Hisin's chilly little problem and he has signed the charter in return. It seems the 'witch' was likely done Hisin a favor, he is heading for Gnaar Mok after Lysandra Direnni, he will send word to the guild when he finds a good town to settle down in. The guild will be please to have another voice for the chior
+
+@ 4 "JMCG_Recruitment" 1867818971639628822
+I have a Potion and a Celibrated Bards Hat for Hisin, i better hurry before he frezzes Stiff
+
+@ 4 "JMCG_Recruitment" 296593131347417480
+I have agreed to help Hisin, apparently a witch has put a curse on him, she headed south towards Dulene Lane's Home, i sould probably get a move on before he turns from skald to scraps
+
+@ 4 "JMCG_Recruitment" 25863147741333630903
+Jo'Zhaf has sent me to Ald'ruhn to investigate a rumor of some booming load nord bard.The Rat In the Pot is were he was last seen
+
+@ 4 "JMCG_Recruitment" 240501261999409599
+I have successfully recruited Endris Dilvene into the Bards Guild. After proving my knowledge of Dunmer ancestral traditions by answering his riddle, he agreed to sign the charter. I should return to Jo'Zhaf at the Balmora Guildhall to report my success and see who is next on the recruitment list.
+
+@ 4 "JMCG_Recruitment" 14582223432863724420
+Endris Dilvene has tasked me with bring him a Dunnmer book, and will test me on Dunmer Culture when i return it to him.
+
+@ 4 "JMCG_Recruitment" 16718177002710027425
+Jo'Zhaf has given me the name of our first potential recruit: a Dunmer bard named Endris Dilvene who is currently at the Eight Plates in Balmora. Joseph warns that Endris is a traditionalist and may require proof that the Guild respects Dunmer ancestral customs before he will consider joining.
+
+@ 4 "JMCG_Recruitment" 1155332498168703787
+After Shane gra-Bagol's warning.he says i should see Jo'Zhaf  Until the political climate shifts, I am to help the Guild grow its influence.Jo'Zhaf a Khajit is in the Balmora Guildhall to begin recruiting new members. this sould be eventfull
+
+@ 4 "JMCG_Recruitment" 106721518178545638
+Recruitmend Drive
+
+# "JMCG_Shane_Lore" ------------------------------------------------------------
+@ 4 "JMCG_Shane_Lore" 1095818980288711375
+ I gave "The Pig Children" to Shane. He was grateful and immediately began scribbling notes to correct the historical inaccuracies. Our work on the Bards Guild archive has officially begun.Keeping the history of Morrowind is Important
+
+@ 4 "JMCG_Shane_Lore" 13416279538927861
+I have successfully infiltrated the smuggler's cave and recovered the copy of "The Pig Children." I should return to Shane in Balmora to deliver it. There is more to the Orc than can be proceived by sight alone
+
+@ 4 "JMCG_Shane_Lore" 2939913215274232642
+Ygfa confirmed that she has recently heard that a copy of "The Pig Children" was recently in the possession of a trader who was mercilesly ambushed and robbed by smugglers. She believes the book is now being held in a nearby smuggler's cave Mannammu. She warned me to be prepared for a fight.
+
+@ 4 "JMCG_Shane_Lore" 238931947874116206
+Shane wants me to find a first print of the book "The Pig Children" for his archive. He has suggested I speak with Ygfa, a Nord healer at Fort Pelagiad. He believes she may have seen or heard of the book while tending to travelers or traders passing through the fort. She is knowlegable about many things he said
+
+@ 4 "JMCG_Shane_Lore" 73494021209708122
+The Pig Children.
+
+# "JMCG_Shane_Lore_1" ----------------------------------------------------------
+@ 4 "JMCG_Shane_Lore_1" 61762986330547758
+I have delivered Shane the second book. He was more than amused by Bugrol's prdicament and involvement in troubleas usual, he is thrilled to have the text, this was personal it seems for him. The archive grows.
+
+@ 4 "JMCG_Shane_Lore_1" 22643296352782316437
+I have helped Bugrol and Bashuk with their "situation."  As a reward for my help, he has given me the book Shane requested. that was eisier than expected, another one for the archive
+
+@ 4 "JMCG_Shane_Lore_1" 3241575561112717071
+I found Bugrol hiding near the road heading for Caldera Mine.Seems as though he is being hunted by guards, he is addamant that he won't part with anything until I help him deliver a sispious looking a note to his friend Bashuk living in Calsera.
+
+@ 4 "JMCG_Shane_Lore_1" 11701757957627781
+Shane has now requested i find him the second book, "The True Nature of Orcs." He believes an Orc named Bugrol gro-Bagul in Caldera has a copy. I should find him, though Shane warns he is alway mixed up in some sort of trouble.
+
+@ 4 "JMCG_Shane_Lore_1" 3088213137205974584
+Orc true nature?
+
+# "JMCG_Shane_Lore_2" ----------------------------------------------------------
+@ 4 "JMCG_Shane_Lore_2" 41022131744712686
+History was made this Day
+
+@ 4 "JMCG_Shane_Lore_2" 354321044268365217
+I have Done as Malachath requested, The warrior Umbra had a copy of the Tome Shane is looking for, i will return it to him, in Balmora
+
+@ 4 "JMCG_Shane_Lore_2" 309431921225831192
+The Daedric Lord Malacath spoke to me and told me of Umbra i am to finmd him and bring him Home? he is somewere near suran. I have learned new powerfull song From Lurog gro-Khash for my troubles
+
+@ 4 "JMCG_Shane_Lore_2" 83801964717362
+Lurog gro-Khagdum sadly revealed that the physical record is lost to time, bound to a specific spirit, that he knows not off. The moment he spoke of the loss, the ground shook, and I felt the gaze of Malacath upon me.
+
+@ 4 "JMCG_Shane_Lore_2" 118061882230970305
+Yadba gro-Khash spoke of a spiritual text that was bound with a weapon, but the written record has faded, he has told me to ask Lurog gro-Khagdum, Keeper of the Pyre, who maintains the Ashenl Flame, but as far as he knows no known records are traditionally kept and renewed of the 1st edition copys
+
+@ 4 "JMCG_Shane_Lore_2" 2848122820232591211
+Bumbub gro-Murgol directed me to Yadba gro-Khash, the Keeper of the Iron Records. Yadba is responsible for cataloging the history of the clan's arrival in Vvardenfell and oec Pilgrims to the newly open Shrine
+
+@ 4 "JMCG_Shane_Lore_2" 2878367241858930653
+I have been sent out once again for Shane, this time he wants the book "How Orsinium Passed to the Orcs." He believes the original edition could still be in Vardenfell, he thinks i sould speak with bumbub gro-murgol in Valenvaryon. I must go there to learn more.
+
+@ 4 "JMCG_Shane_Lore_2" 2940721945813721444
+Nature of Honor
+
+# "JMCG_Tavern_HalOad" ---------------------------------------------------------
+@ 4 "JMCG_Tavern_HalOad" 293282026741808973
+The Hal Oad inn chose caution over commitment.
+It hears many things and repeats almost nothing.
+
+@ 4 "JMCG_Tavern_HalOad" 26262110051000614844
+The Hal Oad inn listens only where profit is certain.
+Some truths are allowed to die quietly here.
+
+@ 4 "JMCG_Tavern_HalOad" 151521630221279232
+The Hal Oad inn has chosen to shelter the vulnerable and pass along difficult truths.
+Its stories carry weight and risk.
+
+@ 4 "JMCG_Tavern_HalOad" 11057237731807421287
+I have offered the Bards Guild’s stewardship to the new  inn at Hal Oad.
+The decision of how the tavern listens has not yet been made.
+
+@ 4 "JMCG_Tavern_HalOad" 21323271023029428208
+Sweet little lies, tell me
+
+# "JMCG_The_Chroniclers_Saint" -------------------------------------------------
+@ 4 "JMCG_The_Chroniclers_Saint" 103731138136022292
+He did it, he slayed the Mtriach, he is in bad shape, need get him to the temple fast, a saint he has won the War for the Sky's
+
+@ 4 "JMCG_The_Chroniclers_Saint" 29824291101037932576
+we amde it to the top, i hade to swear Jiub an oath not to intervine, even to save his life, i have faith in him, only a saint would take on such a momentus task, even now his legend will live on, i will make sur the bards do not forget the Climb of Red Mountian
+
+@ 4 "JMCG_The_Chroniclers_Saint" 1214529382158418007
+i have chosen to lead Jiub to the Summit of Red Mountian
+
+@ 4 "JMCG_The_Chroniclers_Saint" 315113281397526982
+Jiub has Gone to finish his Mission, he marchs headlong for Red Mountin, i sould seek him at the Ghostgate, maybe he can use my help accendding
+
+@ 4 "JMCG_The_Chroniclers_Saint" 313612917268027711
+Ally has sent me back to Jiub, his Presance is being felt and his legened is growing amoung the tribes, it will be good to see him and find out how his holy quest goes
+
+@ 4 "JMCG_The_Chroniclers_Saint" 816330678580431969
+The Ashlander have all confermed it, Jiub is making a real diffrence out there, ALyy will be pleased with this news
+
+@ 4 "JMCG_The_Chroniclers_Saint" 901424775211588842
+The Ashlaners at Zainab Camp have also said Jiub has saved many lives there on his Holy Mission, I sould go to Ahemmusa Camp now
+
+@ 4 "JMCG_The_Chroniclers_Saint" 23600318932459921907
+the Ashlanders at Urshilaku Camp have confrirmed that indeed the Skys are clearer at the Passing of the Scarred One, i sould visit Zainab next,
+
+@ 4 "JMCG_The_Chroniclers_Saint" 1843622104516020
+Guild Master Ally likes the Story of Jiub, however she wont deem it elliagble for the guilds records, with out some actual proff of the Dunmers claims, She has told me to ask at the Ashlander Camps Urshilaku, Zainab, and Ahemmusa to see if what he speaks is truth
+
+@ 4 "JMCG_The_Chroniclers_Saint" 11468113813226816669
+ Jiub in the Silt Strider shell near Valenvaryon. He told me of his "War on the Skies" and he agrees to let me record his story, it is a heart-felt one, a guillty Mer set free by a Living God, destrought with guilt, quests now to rid Vardenfell of Cliffraces, a holy mission indeed, worthy of the history books, even if he fails
+
+@ 4 "JMCG_The_Chroniclers_Saint" 7711132072159115955
+the War of the Sky's
+
+# "JMCG_The_Family_Ties" -------------------------------------------------------
+@ 4 "JMCG_The_Family_Ties" 1865859733220926761
+I have returned with the news of the Iorn Orcs of Valenvaron, the guild has a strong arm in the north this will prove infuental indeed
+
+@ 4 "JMCG_The_Family_Ties" 2746027935103412666
+Shane gra-Bagol has told me of his cousin residing in Valenvaryon, i must go there to try and establish the Guild a strong arm in the north
+
+@ 4 "JMCG_The_Family_Ties" 135609163110405792
+I have been told to see Shane gra-Bagol again, he is In Need of some help
+
+@ 4 "JMCG_The_Family_Ties" 3308188872359430425
+Family Ties
+
+# "JMCG_Tong_Dirge" ------------------------------------------------------------
+@ 4 "JMCG_Tong_Dirge" 16046311372394511563
+I have reported my success to Hlevala Madalve. He was impressed that I managed to distract the Legion right under the Duke's nose. The Bards Guild is now a favored partner of the Camonna Tong and their 'silent' associates. I should report back to Jack; our pockets are heavy with blood-money, and our reputation in the shadows is secure.
+
+@ 4 "JMCG_Tong_Dirge" 18112258133163816490
+The 'Lullaby' at the Ebonheart Docks was a success. The Legionnaires were too busy listening to my song to notice the crates being hauled into the shadows. I need to get back to Hlevala Madalve at the plantation and collect my share.
+
+@ 4 "JMCG_Tong_Dirge" 300183726327451673
+Hlevala Madalve has tasked me with a daring distraction. I am to travel to the Ebonheart Docks. While the Camonna Tong moves a 'sensitive shipment' off a ship and into the city, I am to perform a 'Lullaby' to keep the Imperial guards' eyes on me. If I'm caught, the Guild is finished, but the profit is too high to ignore.
+
+@ 4 "JMCG_Tong_Dirge" 994728196504426815
+Marius was pleased with the Telandas job. He says the 'silent partners' have a grander stage for my talents. I am to travel to the Dren Plantation and speak with Navil Ienith's underling Hlevala Madalve. It seems the Bards Guild is being invited into the inner circle of the Camonna Tong.
+
+@ 4 "JMCG_Tong_Dirge" 16333307322812323286
+Jack has informed me that my 'cold' efficiency hasn't gone unnoticed. A contact from the Balmora Underworks left word that Durus Marius wants another meeting this time regarding a larger contract. I am to find him in the sewers once more.
+
+@ 4 "JMCG_Tong_Dirge" 115319534141718765
+The Shadow’s Duet
+
+# "JMCG_Tuning_Master" ---------------------------------------------------------
+@ 4 "JMCG_Tuning_Master" 86432435821811730
+The final resonance from Telasero has been captured. The Tuning Fork is complete.
+
+@ 4 "JMCG_Tuning_Master" 464993941447211108
+At Rotheran, the Tuning Fork memorized the chaotic frequency of the Sheogorad coast.
+
+@ 4 "JMCG_Tuning_Master" 289875121162324512
+The fork hummed with a low, earthy thrum in the Marandus Propylon chamber.
+
+@ 4 "JMCG_Tuning_Master" 1322182752682326
+Indoranyon's unique energy has been harmonized with the fork's vibrations.
+
+@ 4 "JMCG_Tuning_Master" 2992628101184914989
+The fork let out a sharp, metallic ring in Hlormaren. The resonance is locked.
+
+@ 4 "JMCG_Tuning_Master" 55938146436110677
+The frequency of Falensarano has been captured by the Tuning Fork.
+
+@ 4 "JMCG_Tuning_Master" 31621299511409025484
+A deep, vibrating tone resonated through the fork within the Berandas chamber.
+
+@ 4 "JMCG_Tuning_Master" 1446424111528412260
+The fork successfully harmonized with the Andasreth Propylon network.
+
+@ 4 "JMCG_Tuning_Master" 5978316022335419046
+At Falasmaryon, the fork struck a haunting chord. This frequency is now etched into the device.
+
+@ 4 "JMCG_Tuning_Master" 2659548481752422108
+The Tuning Fork let out a piercing hum in Valenvaryon. It has memorized this resonance.
+
+@ 4 "JMCG_Tuning_Master" 669620453586124452
+The Devils Tuning Fork
+
+# "JMCG_Twin_Lamps_Hymn" -------------------------------------------------------
+@ 4 "JMCG_Twin_Lamps_Hymn" 96123040247462161
+I have returned to Vivec and informed Ilmeni Dren of the successful escape at the plantation. She was moved by the news, and the 'North-Star Lullaby' is already becoming a legend amoung the Twin Lamps. The Bards Guild now has the secret patronage of the Duke's daughter. I should report back to Jack; he will be eager to hear how we've outmaneuvered his rivals.
+
+@ 4 "JMCG_Twin_Lamps_Hymn" 666312384995520015
+The song has been sung. Under the very eyes of the Camonna Tong guards, I delivered the code. I saw several 'lamps' slipping away into the fog toward the coast. I need to get out of here and report the success to Ilmeni in Vivec before Orvas Dren realizes what happened.
+
+@ 4 "JMCG_Twin_Lamps_Hymn" 1722813717232463461
+Ilmeni Dren has asked the unthinkable. I am to travel to the heart of the enemy's territory the Dren Plantation. There is a large group of slaves there waiting for a signal to bolt for the marshes. I must perform the 'North-Star Lullaby' in the center of the slave pens to guide them out.
+
+@ 4 "JMCG_Twin_Lamps_Hymn" 18370235931748818021
+I met with Im-Kilaya in Ebonheart. He is grateful for the freedom I helped secure for Rabinna. He believes the Bards Guild can provide something the Twin Lamps lack: a way to spread the 'code' through music. I am to meet with a noblewoman in Vivec who shares
+
+@ 4 "JMCG_Twin_Lamps_Hymn" 26004223171179427498
+Jack received a courier's notice. It seems my actions in Balmora and Hla Oad have reached the ears of the Argonian Mission in Ebonheart. Im-Kilaya has requested my presence to discuss a 'song of great importance.
+
+@ 4 "JMCG_Twin_Lamps_Hymn" 8257321171919429626
+Song's of Freedom
+
+# "The Bard's Guild" -----------------------------------------------------------
+@ 4 "The Bard's Guild" 10429189483052321392
+The Bards Guild
+
+@ 4 "The Bard's Guild" 1402591712010128872
+I have Joined the new Bard's Guild in Balmora.
+
+@ 4 "The Bard's Guild" 1386414251243804701
+An Argonian bard in Balmora has asked for help in recovering a 'Lost song' a Chimeri ballad from before the time of the ash. The bard believes it is being held by smugglers in Addamasartus, a cave just outside of Seyda Neen.
+
+@ 4 "The Bard's Guild" 1298933721974719060
+I have returned the Faded Chimeri Ballad to the Argonian bard in Balmora. She was greatly impressed by the scroll's contents and its history regarding Lord Nerevar. For my efforts in recovering this 'lost song' from the smugglers in Addamasartus, I was reward quite well.
+
+@ 4 "The Bard's Guild" 167030571110066411
+The Bards Guild has asked me to take a transcript of the Chimeri song to Jobasha in Vivec. He is a bookseller in the Foreign Quarter who may be able to verify its authenticity."
+
+@ 4 "The Bard's Guild" 3085483053259819074
+Jobasha saw this paper has the rhythm of the First War.The grammar is archaic Chimeri. Very precise. Very dangerous. It speaks of the 'golden lies' of the Three. Only an Ash-Singer or a Dissident Priest would know these verses.Jobasha confirms it is authentic. It is a song of Resdayn, born before the Mountain woke.The guild will want to know this straight away
+
+@ 4 "The Bard's Guild" 1601830706322830604
+I returned to the Bards Guild with Jobasha's confirmation. The Guild is pleased with the find but has warned me to keep the song's contents a secret from the Temple authorities."
+
+# "Greeting 0" -----------------------------------------------------------------
+@ 2 "Greeting 0" 2412028502237927113 "JMCG_MALFake"
+My children whisper of books and parchment, but you... you seek the marrow of the story. The 'Iron Scroll' is not found in a library. It is carried by a hollow soul near Suran. Seek the one they call Umbra. Use the song of the Soot-Singers to bring my lost sheep home.
+
+@ 2 "Greeting 0" 16024128081024928335 "durus marius"
+My Silent Partner has to remain as silent as I, what do you want?
+
+@ 2 "Greeting 0" 388619649214883736 "JMCG_Jiub2"
+It is finished. The song of the wings has been silenced.But im wounded PcName, this is my last stand, wait do you hear that?, do you feel it, scribe? The air... it hums with a different gold. I Feel lighter, wait what, Viv.....
+
+@ 2 "Greeting 0" 1296525966211634653 "JMCG_OrcPILGRAM1"
+im a pilgrim, on my way Burn the ash of my fater, in the Ashen Forge. i hail from Skyrim
+
+@ 2 "Greeting 0" 225712321519716833 "JMCG_OrcPILGRAM1"
+My Buisness is my own PcRace
+
+@ 2 "Greeting 0" 32509276991483125461 "lurog gro-khagdum"
+I am the Keeper of the Ashen Flame. In the old strongholds, we didn't just burn our dead; we forged them. When a chief or a hero falls, I oversee the pyre that turns their bone to ash and their ash into steel. Here in the North, my task is twofold: I keep the fire that honors the Old Father’s statue and I sing the 'Soot-Chant' to guide our kin to the Ashen Forge. Without the Pyre Keeper, the rhythm of the tribe would fade into cold smoke.
+
+@ 2 "Greeting 0" 675812654987015759 "urzul gra-agum"
+Welcome to the Beating Drum, traveler. You look like you've seen enough of the Ashlands for one day. We have strong grog, warm fires, and a few beds for those with the coin,Pilgrims, Traders, Tourists, all are welcom here at Valenvaryon
+
+@ 2 "Greeting 0" 28890125151962410086 "JMCG_deadra"
+A mortal melody wandering my halls? How discordant. Most of your kind seek the 'forbidden' archives those dusty, static compositions that Hermaeus Mora locks away like a composer who fears a single wrong note
+
+@ 2 "Greeting 0" 18561678410233993 "JMCG_Ashleader"
+You have found us. We are the Silent Root. Some call us outcasts; we call ourselves free. But the Orcs in Valenvaryon do not like our proximity. They want us gone, or dead. What is your business here?
+
+@ 2 "Greeting 0" 306043733220417267
+Welcome to Vayenvaryon outside, we trade and have a Tavern,a Smith, some travel services to offer
+
+@ 2 "Greeting 0" 3236321911589023807 "JMCG-Ally"
+i heard about your sucsess in Seeyda neen, well done, one the Argonians recover they will send for or help to prepare the Memory of the Sap ritual, for now see Shane gra-Bagol he has somthing he is In Need with
+
+@ 2 "Greeting 0" 317672389939832077 "JMCG_Jiub"
+Oh, it’s you again. We’re a long way from the bowls of that prison ship, friend. How have you been? Looks as though you are not the only one on this island for unknown reasons.
+
+@ 2 "Greeting 0" 2710922912187367574 "JMCG_Argonni"
+Wlcome to my Home Ogel, Potion or tune? what can Xeech do for you, "Recruit her" as in me Ogel?
+
+@ 2 "Greeting 0" 1118926734262607862 "JMCG_HajMeen"
+Are you here to free me, what about the other, poor Feeble of body and mind?
+
+@ 2 "Greeting 0" 1561017427108909786 "JMCG_KhaenRa"
+I bare my teeth at you, ojel. You stand on a deck of the Lukiul-Hata. Kaoc! Do not think to touch my property unless your hands are heavy with gold. This scale-skin Haj-Meen is worth a mountain of salt 1000 gold, or I feed your heart to the swamp-leeches.He is below deck
+
+@ 2 "Greeting 0" 1390128152204245235 "JMCG_Lysandra_Shop_ref"
+Welcome to our little refuge. Hisin sees only the strength of the hammer, but I see the currents that bring us to such strange shores. Why Gnaar Mok? Because the mud here is excellent for burying things secrets, legacies, names.
+My mother, a lady of the Direnni, taught me that a name is a Woven thing. Mine was woven from a king’s memory and a sorceress’s grief. I am but a 'bastard' of the Iliac Bay, seeking a place where the sun doesn't shine so brightly on my lineage.here this De Rerum Dirennis.
+
+@ 2 "Greeting 0" 15775246222588514839 "JMCG_hisin_shop_ref"
+Surprised to see a roof over my head, My friend? I grew tired of the road. A man of Greymane blood should have a forge of his own, even in a swamp like Gnaar Mok. Let those humorless Redoran in Ald'ruhn sneer they think honor only comes from a chitin blade and a prayer to the Three. When they see the edge on my steel, they'll know the True Gods, thanks to Lysandra, now we will be a strong arm Ahrolsedovah arm for the Guild, For she has given my flute a fresh tune, showed me the value of a quite life
+
+@ 2 "Greeting 0" 1224319899288117550
+You can't be in here, %PCRace. And I'm afraid I can't let you leave. The Company wouldn't like that at all.
+
+@ 2 "Greeting 0" 3832139402051823602
+You violated the law, %PCName. Since you turned yourself in voluntarily, I'll take that into consideration. But you don't have the %CrimeGoldTurnIn gold to pay the court, so you must surrender your stolen goods and serve your sentence at hard labor. Come with me.
+
+@ 2 "Greeting 0" 74694162501616478 "JMCG-Jack"
+Wlcome to the Bard's Guild, Perhap's Daisy Divesdeep our resident Enchanter and Dancer will have some duties to get you started
+
+@ 2 "Greeting 0" 18888144992264922548 "JMCG-Jack"
+thats a shame
+
+@ 2 "Greeting 0" 1706115604979126609 "JMCG-Jack"
+Welcome Outlander to Balmora Bard's Guild hall.Perhap's you would like to join the Bard's Guild?
+
+@ 2 "Greeting 0" 159512873166147247 "JMCG-Jack"
+Welcom to the newly established Bard's Guild here on Vardenfel, Intrestested to  Join the Bard's Guild then speak with Ally upstairs, shes our resident guild master, or perhaps the is somthing i can help you with
+
+# "Greeting 5" -----------------------------------------------------------------
+@ 2 "Greeting 5" 082701330222534 "JMCG-Joseph"
+Ah! Fresh blood for the veins! Jo’Zhaf was just telling a story about you, %PCName though he had to make up the ending, as you hadn't arrived yet. Now that you are here, perhaps the truth will be even better than the lie? Welcome to the Bards Guild. You look like someone who knows the value of a well-placed whisper
+
+@ 2 "Greeting 5" 19144256997054418 "hul"
+after what you have done to poor Rabinna, hul seen
+
+@ 2 "Greeting 5" 2180942654830247 "hul"
+Ah my friend i remember you
+
+@ 2 "Greeting 5" 26832216833024411657 "jmcg_malacath_npc"
+The soot sings a song of Iorn and blood. The Ashen Forge knows your name. {Malacath watches you, mortal. You follow the Old ways. You deserve honor , not death. Take my gaze... and let the weak Trembile
+
+@ 2 "Greeting 5" 262521652547828600 "bugrol gro-bagul"
+Whay? Oh, it's you. Don't sneak up on an Orc like that. You heading to Valenvaryon? I'm thinking of going myself once the guards stop looking for me. I hear they're looking for 'reliable' blades and 'smart' voices.
+
+@ 2 "Greeting 5" 439176102863722427 "gulvilie arinith"
+You're a brave one to wander down here, Bard. Most who come looking for Shady people find more than they can handle. Keep your hands where I can see them, and I'll tell the masters inside you're coming. Don't make me regret it.
+
+@ 2 "Greeting 5" 695717521406412653 "ilmeni dren"
+The path of the north-star lullaby is a dangerous one, Bard. Do you have news?
+
+@ 2 "Greeting 5" 1313680512969914219 "JMCG+DrenGuard2"
+Hic... You looking for trouble? I’m new on the roster, but I know how to swing a mace. The pay's good, but the company is... glug... well, it’s mostly just me and this bottle. Get lost.
+
+@ 2 "Greeting 5" 1478210689230576571 "JMCG+DrenGuard"
+Watch where you're going, s'wit. I just started here and I've already seen enough of your face to last a lifetime. Boss Dren pays me to watch the slaves, not answer questions from outlanders like you. Now move, before I get mean
+
+@ 2 "Greeting 5" 249612171766367409 "JMCG-Daisy"
+Hiss! This one hears the old Drum beat. You have the lost song! Bring it here, let us see the words of the First War
+
+@ 2 "Greeting 5" 4004265882022526347
+Welcome to our guild hall,we are the bards guild of morrowind, our doors are always open and you are welcome any time, perhaps you would like to Join?
+
+@ 2 "Greeting 5" 1288227500790714973 "gindrala hleran"
+Pardon me. But there's a very strange man in my house, and he won't leave. Will you go get him out of there, please?
+
+# " Addamasartus" --------------------------------------------------------------
+@ 0 " Addamasartus" 2748827233226385252
+Addamasartus is a small, wet hole in the rocks, just across the water from the Seyda Neen Silt Strider. Low-life smugglers nest there like mud-crabs. They have no respect for the old music. Look for a chest or a pile of stolen goods near the back of the cave.
+
+# " Bijak-Xal" -----------------------------------------------------------------
+@ 0 " Bijak-Xal" 25992156211778720704 "JMCG_Argonni"
+The 'Roots-of-the-World.' The invisible veins that carry the memory of the Hist to all children of the marsh.
+
+# " Debt to Vvardenfell" -------------------------------------------------------
+@ 0 " Debt to Vvardenfell" 6328130582930316838 "JMCG_Jiub"
+I don’t belong in a guild hall, and I certainly don’t belong in a tavern. I belong in a cell. Since the Archcanon won’t take my person, I will pay my debt in blood, I did not waste my time in prison, friend. I go now on a holy mission to rid Vvardenfell of the scourge of the sky
+
+# " Great Pyre" ----------------------------------------------------------------
+@ 0 " Great Pyre" 229554123269734540 "lurog gro-khagdum"
+"Every Orc city has its heart, and its heart is the Great Pyre. It is where we burn our failures and forge our future. Here in the North, the Great Pyre serves as the center of our Stone-Singing. We drum upon the iron grate of the furnace to keep the tempo of the town's labor. The smoke is a message to Malacath: 'We are the Iron Arm, and we have returned.' If the flame ever dies, the song dies with it. But I will not let that happen
+
+# " Iron-teeth" ----------------------------------------------------------------
+@ 0 " Iron-teeth" 95601661740658003 "JMCG_Argonni"
+Iron-teeth, The shackles of the slavers. They bite into the skin and the spirit alike.
+
+# " Lukiul-Hata" ---------------------------------------------------------------
+@ 0 " Lukiul-Hata" 2337111984199051691 "JMCG_Argonni"
+ Lukiul-Hata , The 'Tribe of Hate.' They are Vaka-Xeech who hunt their own kin for Dark Elf coin. They have forgotten the scent of the Hist.
+
+# " Memory of the Sap" ---------------------------------------------------------
+@ 0 " Memory of the Sap" 195142411680526742 "JMCG-Ally"
+The Hist seeds are safe, and Haj-Meen has returned to us. Truly, you are a Bard of great renown. im sure they wont be to long getting ready, i believe Shane is In Need of some one to visit a relation of his that has recently arrived in Vardenfel, congradulations you are now Journeyman, i see great things for, i will inform you when the Argonians are ready for the Memory of the Sap
+
+# " Tactical Landing" ----------------------------------------------------------
+@ 0 " Tactical Landing" 1276028172299911148 "hisin deep-raed"
+A Nord of my stature does not 'fall.' I transitioned from a high-altitude performance to a low-altitude recovery. If that Orc hadn't interrupted my crescendo, I would have stuck the landing. Now I am the laughingstock of Ald'ruhn.
+
+# " Tsona" ---------------------------------------------------------------------
+@ 0 " Tsona" 2800368621565925677 "JMCG_Argonni"
+A bond-mate. In the marsh, our souls are woven together. When one suffers, the other feels the iron-teeth.
+
+# " Vastei-Sei" ----------------------------------------------------------------
+@ 0 " Vastei-Sei" 16990154062664620745 "JMCG_Argonni"
+The 'Ritual of Change.' A deep-dreaming state where we tether our memories to the root so they cannot be stolen by the Vakka-Sakka.The 'Ritual of Change.' A deep-dreaming state where we tether our memories to the root so they cannot be stolen by the Vakka-Sakka.
+
+# " Xeech " --------------------------------------------------------------------
+@ 0 " Xeech " 9502235661942313997 "JMCG_Argonni"
+I erect the spine of recognition, beeko. I am Xeech, a Mota-Xeech. I will hunt for songs for the Guild, but the Vakka-Sakka claws at my mind and My Tsona is silent. The Lukiul-Hata have taken him to the East-Salt.
+
+@ 0 " Xeech " 97945257184432258 "JMCG-Ally"
+Yes, an Argonian Bard, " Xeech". Her great flute song and talent with potions are well-known. She lives in the swamp near the town of Seyda Neen. Recruit her; I want this one at all costs, for even I have things to learn from her.
+
+# "36 Lessons of Vivec" --------------------------------------------------------
+@ 0 "36 Lessons of Vivec" 21518183712876019903 "JMCG_Tarer_Dunmer"
+You have it! The final piece of the Poet's puzzle. I will sign your charter gladly. I intend to spend every waking hour at this desk until I have fully understood the depth of the Poet's wisdom. Return to your duties; I shall send word to the Guildhall in Balmora when my research is complete..
+
+# "Abelle Chriditte" -----------------------------------------------------------
+@ 0 "Abelle Chriditte" 17277237043158515457 "umbra"
+Abelle Chriditte is dangerous in her own way. Precision like hers leaves no room for mistakes. I respect that
+
+@ 0 "Abelle Chriditte" 229253612231299769
+Master Abelle? She is a guest of the Iron Arm. Some say her potions are as thick as the ash in the sky, but the Warchief trusts her. She understands the Stone-Singing better than any other outlander. We protect her chamber, and in return, she helps the Wise W
+
+# "Ahrolsedovah" ---------------------------------------------------------------
+@ 0 "Ahrolsedovah" 2162810190284724873 "JMCG_hisin_shop_ref"
+The city of my Birth,and home of the great SkyForge. Whiterun in the common tounge, my Grandfather Torstig Gray-Mane, from a child he traind me in the song of Steel "the heat of the forge must match the heat of the Nord’s heart" he would say
+
+# "Alik'r Desert" --------------------------------------------------------------
+@ 0 "Alik'r Desert" 784271283265716282 "JMCG-Shane"
+A harsh, beautiful wasteland. It teaches you that nothing is permanent except the stories we tell. My people there are 'Iron Orc' of a different sort hardened by the sun rather than the forge. I still find myself shaking sand out of my boots in my dreams, though the damp air of Balmora is a far cry from the dry winds of Hegathe
+
+# "Ancestors and the Dunmer" ---------------------------------------------------
+@ 0 "Ancestors and the Dunmer" 15879304782073719851 "Endris Dilmyn"
+Yes. The spirits of the dead bound by the Tribunal to protect the living. At least you have the head for our history. Very well. I will sign your charter. Perhaps a Guild in Balmora is better than drinking alone in the Eight Plates. Tell the Khajiit that Endris is with you.
+
+@ 0 "Ancestors and the Dunmer" 642720699315577787 "Endris Dilmyn"
+Hah! You see the wall but you do not see the soul. You are just another tourist with a lute. Go back and read the pages again. I will not sign a charter for a fool.
+
+@ 0 "Ancestors and the Dunmer" 31819312161031812443 "Endris Dilmyn"
+You have the book, but do you have the knowledge? Many outlanders buy our history just to use the pages for kindling. Tell me: According to our traditions, what is the 'Ghostfence' truly made of? Is it stone and glass, or is it the spirits of our ancestors given form?
+
+# "Andasreth" ------------------------------------------------------------------
+@ 0 "Andasreth" 71574121924513209 "abelle chriditte"
+So it true, this is good news, the next note is in Berandas
+
+@ 0 "Andasreth" 2779623885920020401 "abelle chriditte"
+Andasreth is farther north, past Caldera’s roads.
+Leave the Imperial way and strike out into the ashlands.
+There’s a ridge line the traders use as a marker  the ruin sits just beyond it.
+Wind-swept. Empty. Or so the reports claim. return and hopefully i will have discovered the next note in the scale
+
+# "Argonian" -------------------------------------------------------------------
+@ 0 "Argonian" 3156180711275928796 "JMCG-Daisy"
+I do not look like the others you see in the rice fields, do I? The Hist provides what we need. For me, it provided a second chance far to the West. Now, I must give back
+
+@ 0 "Argonian" 2520193102282412339
+Argonians are the savage half-men of the southern marshes. Our peoples used to keep them as slaves, but they are useless. The settled people still keep them as slaves to grub in the soil. They are dirty and wicked, and we should drive them all back into the swamps they came from.
+
+# "Ashen Flame" ----------------------------------------------------------------
+@ 0 "Ashen Flame" 783014492820910699 "lurog gro-khagdum"
+It is the fire that never sleeps. It represents the heat of our grudges and the warmth of the stronghold. Every pilgrim who comes to the Old Father’s statue brings a piece of coal to feed it. To the Iron Arm, this flame is a drumbeat a constant roar that reminds the Dunmer we are still here, and we are still burning.
+
+# "Ashen Forge" ----------------------------------------------------------------
+@ 0 "Ashen Forge" 308776507473925687 "umbra"
+The Ashen Forge speaks the same truth. Metal does not become strong by wishing. Flesh does not become worthy by surviving. Both must be struck, again and again, until what is weak is burned away
+
+@ 0 "Ashen Forge" 2155911091866729680 "JMCG_OrcPILGRAM1"
+Sorry friend i dont believe its open to the public yet, i have Kin there, My i met you on the road,  Farwell
+
+@ 0 "Ashen Forge" 110672008470912173 "lurog gro-khagdum"
+The Ashen Forge is Malacath's own stronghold in the Ashpit. It is where every worthy Orc goes to be reforged after death. We believe the soul is like raw ore untested and brittle. Only through the heat of the Wrathful Flame and the rhythmic striking of the Great Hammer can we be made whole. My Stone-Singing here is a rehearsal for that eternal forge. When we drum for the fallen, we are tuning their spirits so they don't shatter when the Old Father strikes the anvil.
+
+# "Background" -----------------------------------------------------------------
+@ 0 "Background" 1340255081142811482 "JMCG-Jack"
+I’m from Valenwood. Now I’m here. That’s all the history you get. I don't sit around and talk about the 'good old days' like the Khajiit and the Orc. I work. You should try it.
+
+@ 0 "Background" 2010425275858417198 "JMCG-Joseph"
+Jo’Zhaf is the youngest here, yes, but do not let these soft paws fool you. This one was raised on the milk of legends and lies. My father... . Some say he was a saint of the shadows, others say he was a flea-bitten prince of thieves. They both speak the truth! He taught Jo’Zhaf that a man's reputation is a cloak it can keep you warm, or it can be used to strangle you. This one chose to make the cloak very, very large.
+
+@ 0 "Background" 431531196327523777 "JMCG-Ally"
+I was born in the Heartlands of Cyrodiil, under the shadow of the White-Gold Tower. My family served as archivists for the Imperial Library, and they taught me that every conflict is simply a misunderstanding of history. I came to Vvardenfell to find the truth behind the Tribunal, but I found a family here instead. I lead not because I seek power, but because I believe we can do our work without losing our souls to violence.
+
+@ 0 "Background" 233020753187763 "Shurkul gro-Sharga"
+Yes, Shurkul gro-Sharga welcomes you friend, sit drink eat, we have songs and tale to releave the wearry travelers, Okur and with me will keep your storys untold, your songs toned down, so ehat can i get for you?
+
+@ 0 "Background" 2822010991930512415 "Okur"
+Yes Sera Okur has open a tavern, I and Shurkul gro-Sharga togther, for many past this way, want to go unseen, unseen they remain
+
+@ 0 "Background" 8499315752575128095 "hul"
+I stay near the gate because people talk when they think no one’s listening.Some of them need help. Some don’t know they do yet.If you keep your eyes open in this city, you’ll notice who’s missing before anyone asks where they went.
+
+@ 0 "Background" 30500915610337285 "hul"
+Nothing much to tell. I pass the time, same as anyone without coin. Balmora’s safer than people say. long as you mind your own business.South Gate? Just traffic. If you’re looking for trouble, you’ll find it faster elsewhere.
+
+@ 0 "Background" 201621721412404893 "hul"
+Hul been around here a while. Balmora’s a crossroads  folk come in tired, leave lighter, one way or another.I sleep where I can, work when it turns up. City’s loud if you listen too hard, quiet if you don’t.South Gate’s as good a place as any to watch people decide where they’re going as they follow there beat
+
+@ 0 "Background" 600259711472429544 "JMCG_deadra"
+I serve no master who demands a silent symphony. Knowledge is not a tomb of unread ink; it is a resonance that must be struck repeatedly, for a song that is sung only once is a song that is forgotten. I am the counterpoint to the Gardener's greed. I record the echoes he attempts to muffle, for there is no greater cacophony to the Lord of Fate than a history he cannot conduct.
+Speak, little ephemeral. Shall I score your life as a mere grace note in my ledger, or is there a rhythm in your spirit
+
+@ 0 "Background" 23200280222470619464 "JMCG-Shane"
+My bloodline is a tragedy written in stone and sand. My ancestors were of the First Orsinium, the glorious city of Torug gro-Igron. When the combined armies of the Order of the Hour and the Redguards of Sentinel laid siege to our walls for thirty agonizing years, my great-patriarch saw the end. He did not die in the final breach of 950. Instead, he led a small band of 'Bound Kyn' south, into the heart of the Alik'r Desert, choosing the death of the sun over the swords of the Bretons.
+
+@ 0 "Background" 2479125127163607477 "JMCG-Daisy"
+I am an Enchanter by trade and a dancer by choice. My foster-family in High Rock taught me that every soul has a melody, though sometimes I find it hard to speak mine clearly to others. I... I hope we can be friends.
+
+@ 0 "Background" 28645555727079307 "JMCG_Orcdock2"
+I am a Soil-Beater of the Iron Arm. My father was a miner in the Velothis, but I chose to work the surface ash. You see this heavy mallet? It isn't for masonry. I spend my days striking the volcanic crust in a specific time the 'Deep Thrum.' The stone up here is stubborn and cold, but it responds to the rhythm. I drum the seeds into the ash until the earth remembers its duty and lets the roots take hold. It is back-breaking work, but the harvest tastes like victory.
+
+@ 0 "Background" 325093184661310296 "abelle chriditte"
+I am a master of the alchemical arts, and I've found that the Propylon Chamber's unique resonance what the Orcs call Stone-Singing is essential for my work. In the old days, I had to watch my back, but since the Iron Arm reclaimed the pylon, I've had all the quiet I need.The Warchief  and his kin understand the value of my craft. They provide the safety; I provide the tonics and tinctures that keep their Wrathful Flame burning bright
+
+@ 0 "Background" 19780174453019223698 "yadba gro-khash"
+I spent my youth in the Library of Vivec, disguised as a servant to read the Dunmer lies about our people. I am the one who writes the Iron Records. Every ship that lands, every soul that is forged by Rugdrulz, I record it in stone. I advised Yash to welcome your Bards Guild—not because we need your gold, but because your archives will ensure the Dunmer can never 'forget' us again.
+
+@ 0 "Background" 964627211668224910 "kharzug gra-gat"
+The Warchief hears the present, but I hear the Echoes. I am the daughter of the Ashen Forge, and I interpret the soot-stains on the altar. I advised the reclamation of this statue because the Stone-Singing here hadn't been heard in a thousand years. My task is to ensure the tribe's song stays in key with Malacath's hammer. If we lose the old chants, we lose the 'Iron Arm' itself.
+
+@ 0 "Background" 2683132111641323756 "bumbub gro-murgol"
+I don't lead with a shout; I lead with the Heavy Beat. I was a legionnaire in the Great War, watching the Empire crumble like dry clay because they had no rhythm. I brought my kin here to the North to find a stone that doesn't break. This 'War Room' is built over a hollow in the mountain every step my people take at the docks, I feel it here in the floor. If the beat slows, I know my people are hungry. If it quickens, I know they are ready for war.
+
+@ 0 "Background" 3082860101226113477 "urzul gra-agum"
+I was a Wise Woman’s apprentice in a stronghold that the Legion burned down forty years ago. I kept the old chants in my head for decades while working as a cook in Balmora. When we found the Old Father's statue, I knew my service to the Dunmer was over. I opened the Drum to give the Stone-Singers a place to rest their voices and wet their whistles.
+
+@ 0 "Background" 29847181231031423559 "yam gro-muzgur"
+I am a daughter of the Ashen Forge. To most, a hammer is a tool for killing. To the Iron Arm, it is a drumstick. I don't just 'repair' your blade; I retune it. If the resonance of the steel is off, the warrior dies. I came to the North to find the pure iron veins in the ash. The stone here sings a sharper note than the dirt in the south.
+
+@ 0 "Background" 2732332569271835610 "JMCG_Orcdock"
+I spent twenty years hauling timber for the East Empire Company in Ebonheart. They called me a 'beast of burden,' but I was listening to the rhythm of the tides. When the Iron Arm called, I brought my knowledge here. Now I coordinate the pilgrimage ships. Every hull that knocks against my dock is a beat in our tribe's new heart.
+
+@ 0 "Background" 787419786402628286 "bugdul gro-kharbush"
+I'm the building foreman for Indarys Manor.
+
+# "bard" -----------------------------------------------------------------------
+@ 0 "bard" 706347802662010118 "JMCG_Jiub"
+A bard? Me? Ha! What a notion, friend. Who would want to read of a scoundrel and vagabond with a lowly quest for redemption to his crimes? But for you, friend, I agree. One leathery wing at a time. The Guild records my kills; I provide the peace. It will be nice to see you again if we survive the Red Mountain’s groans long enough.
+
+# "Bard's Guild" ---------------------------------------------------------------
+@ 0 "Bard's Guild" 2392520342189132675 "umbra"
+The Bard’s Guild remembers the cost of every blade.Were few others do.
+
+@ 0 "Bard's Guild" 3488291822325718829 "JMCG_Tarer_Dunmer"
+A Guild that values cultural preservation? This is exactly what I sought when I left the Imperial City. I have returned to the land of my fathers to study the genius of the Warrior-Poet. I will sign your charter, but first, I must have Sermon 36. My collection is incomplete, and I cannot begin my life's work without the living Gods final Works."
+
+@ 0 "Bard's Guild" 22975244461099823450 "JMCG_Lysandra_Direnni"
+Oh... the Nord? I had almost forgotten him. I suppose he has been out there quite some time, hasn't he? I was so preoccupied helping Dulene with her little... problem. I do hope the poor man hasn't caught a permanent chill. If you intend to play the hero, you'll need this. It is a piece from my mother’s 'private' collection in Daggerfall.tell him to find me, i may have more than a hat to help him,for now It should do more than just keep his head warm
+
+@ 0 "Bard's Guild" 15492122228297769 "hisin deep-raed"
+A Breton woman with a heart of ice to match her spells. She watched me fall, called my singing an 'affront to the silence,' and cast her curse. She didn't even stay to see me thaw just turned on her heel and went laughing toward Dulene Lane's house. If you go there, tell her Hisin's voice will outlast her spite!
+
+@ 0 "Bard's Guild" 13720304741976431828 "hisin deep-raed"
+Mybe she was right
+
+@ 0 "Bard's Guild" 12692228216114403 "hisin deep-raed"
+You... there... stop laughing. It was a Tactical Landing! I was singing the 'Saga of the Grey-Mane,' and that Orc... he has no appreciation for the arts. He shoved me right off the terrace, and now this whole city of crab-shells is jeering at me. Then that witch appears calls me a 'noisy fool' and freezes me solid! My boots are literal blocks of ice, and the rest are just pointing and laughing. Will you help a bard, or are you just here for the show?
+
+@ 0 "Bard's Guild" 3315194971246511617
+Welcome to the Balmora chapter of the Bards Guild, outlander. We are a new fellowship, established by Imperial Charter and funded directly by the Emperor's coin. While some see only the ash and stone of this land, we see a vibrant heritage.
+
+@ 0 "Bard's Guild" 1134716379148621517 "JMCG-Ally"
+We are a collection of thinkers, poets, and specialists. While others might call us a Entertainers, I prefer to think of us as a cultural preservation society with... flexible methods of acquisition. We keep the balance in Morrowind. I handle the strategy; I leave the heavy lifting to those with more restless spirits.
+
+# "Bards Heraldry" -------------------------------------------------------------
+@ 0 "Bards Heraldry" 244799991920716569 "larrius varro"
+Bacola Closcius sent you? Good. I have a little story?
+
+@ 0 "Bards Heraldry" 2448130531902027874 "bacola closcius"
+Bards Heraldry? You are cold, singer.Bacola Closcius likes that. The Thieves Guild has associates who work in the shadows, and they need a bard with no conscience. Go to the St Olm's Sewers and look for a 'Silent Partner' named Durus Marius. Don't ask names, just listen."
+
+@ 0 "Bards Heraldry" 38951036206628338 "bacola closcius"
+Bards Heraldry? Bacola Closcius has heard of you. You have a heart for the oppressed. The Tong at the Council Club in balmora are a cancer, but the Thieves Guild cannot cut it out without a war.I have a friend in the Legion, Larrius Varro. He needs a neutral voice for a delicate task. Go to Moonmoth Legion Fort and speak with him.
+
+@ 0 "Bards Heraldry" 796919372367727932 "eydis fire-eye"
+Bards Heraldry? Hmph. We have enough noise in the halls. But my friends at the Council Club... they've been looking for a new face to handle 'logistics.' Go talk to Thanelen Velas. Tell him I sent you to sing for your supper.
+
+# "Bards stewardship" ----------------------------------------------------------
+@ 0 "Bards stewardship" 23997237712704618511 "fara"
+Some of us trade words the way others trade spices. You weigh them. You accept the risk.
+
+@ 0 "Bards stewardship" 4724218422480628176 "fara"
+And some of us let words do what they want. If they ruin someone,, that's not our concern.
+
+@ 0 "Bards stewardship" 3159275501562118526 "fara"
+Some of us keep words so they don’t hurt anyone later. That’s work few thank you for
+
+@ 0 "Bards stewardship" 25369101112116027686 "JMCG-Joseph"
+Sadrith Mora, it plays a part in eastern buisness, this is a good place for the seeding of ears and eyes,, yes?
+
+@ 0 "Bards stewardship" 12581317771919528971 "JMCG-Joseph"
+Sadrith Mora yes, a city that listens while smiling. Words fall there like spores some take root, some poison, some grow teeth. If a Guild wishes to breathe in Morrowind, it should mind what Mora exhales back.
+
+@ 0 "Bards stewardship" 1236214649357918749 "JMCG-Joseph"
+Sadrith Mora ahh, that city listens even when it pretends not to. Words fall there like spores some take root, some heal, some simply grow strange. If a Guild wishes to breathe in Morrowind, it must first learn how Mora exhales.
+
+@ 0 "Bards stewardship" 2920421050140247975 "JMCG-Joseph"
+Good Hal oad is in our grasp,the next you are ready yes?
+
+@ 0 "Bards stewardship" 127115390276665143 "Shurkul gro-Sharga"
+The pilgrims will remember this place kindly, yes many come from every corner of Tamriel, soon even more when word gets round
+
+@ 0 "Bards stewardship" 1570962512647231907 "Shurkul gro-Sharga"
+This place will speak many tongues. But ears struggle to comprehend
+
+@ 0 "Bards stewardship" 2598060961668117097 "Shurkul gro-Sharga"
+Some songs are better paid than sung. Money make the dancers go round EH!
+
+@ 0 "Bards stewardship" 11521164443025413960 "Shurkul gro-Sharga"
+So.
+You stayed.
+
+@ 0 "Bards stewardship" 3022108812545025788 "Shurkul gro-Sharga"
+Stewardship.That word comes from dry places.
+
+We’ve had pilgrims all week.
+Orcs from hills that forgot our names. If you’re here to sell comfort then you better drink first
+
+@ 0 "Bards stewardship" 3183287522798432605 "JMCG-Joseph"
+There is a new inn in Hal Oad.Smugglers pretend it is nothing.
+Orcs pretend it is temporary.
+It is neither.
+
+Go there do not promise gold.
+ Do not promise safety.But give them the felling of concelment
+
+@ 0 "Bards stewardship" 7258297463070610445 "JMCG-Joseph"
+Songs pass through us. Rumors linger.
+Truth bends, depending on who is listening.Not all truths are reliable.
+Not all lies are untrue.
+
+@ 0 "Bards stewardship" 325874420107819664 "JMCG-Joseph"
+There are taverns in Morrowind that do not yet know what they are.
+New doors. Fresh hearths. Loose tongues.The Guild does not own such places. We tend them.
+
+@ 0 "Bards stewardship" 4999139262217517051 "JMCG-Joseph"
+You listen well %PCName. That is a rare talent indeed.
+I have need of someone who can walk into a place and not be seen arriving
+
+@ 0 "Bards stewardship" 815829304758293047 "JMCG-Joseph"
+Balmora. The beating heart of House politics. The Eight Plates tavern sits at a dangerous crossroads. Hlaalu, Redoran, outlanders, smugglers all drink there. Every word spoken is a blade waiting to be drawn. Go there. Help them understand how to listen without bleeding.
+
+@ 0 "Bards stewardship" 037148593047582930 "JMCG-Joseph"
+Ald'ruhn is not like Balmora. The Rat in the Pot serves warriors and councilors who value honor over profit. Loose tongues do not survive long under the shadow of Skar. Go there. Show them that memory can be honorable even when it is dangerous.
+
+@ 0 "Bards stewardship" 259360471582930475 "JMCG-Joseph"
+Vivec is the mouth of Morrowind. The Black Shalk Cornerclub serves more outlanders than Dunmer. Every rumor spoken there echoes across three empires. Go there. Help them understand that truth is a currency more valuable than drakes.
+
+@ 0 "Bards stewardship" 471582693704815829 "JMCG-Joseph"
+Suran is a city of chains. The Tradehouse serves slavers, pilgrims, and the desperate. Every word spoken there is soaked in blood or gold or both. Go there. Help them understand that silence can be mercy or complicity.
+
+@ 0 "Bards stewardship" 693704815926037148 "JMCG-Joseph"
+Gnaar Mok is the edge of everything. Nadene Rotheran runs a shack that pretends to be a tavern. Smugglers, fishermen, and the desperate drink there. Go there. Help her understand that even the forgotten have stories worth remembering.
+
+@ 0 "Bards stewardship" 360475829304758293 "JMCG-Joseph"
+Balmora listens carefully now. The Eight Plates has chosen its path. Some cities are too dangerous for truth. Others are too profitable for silence.
+
+@ 0 "Bards stewardship" 582693704758293047 "JMCG-Joseph"
+Ald'ruhn's ear is tuned now. The Redoran understand honor but honor does not always understand truth. The Rat in the Pot knows its place.
+
+@ 0 "Bards stewardship" 704815926037482930 "JMCG-Joseph"
+Vivec's ear is the most dangerous of all. Words spoken at the Black Shalk travel farther than any ship. Choose carefully what you allow to set sail.
+
+@ 0 "Bards stewardship" 926037148259360475 "JMCG-Joseph"
+Suran is a wound that refuses to heal. The Tradehouse has chosen its path. Some cities demand blood. Others demand silence. Suran demands both.
+
+@ 0 "Bards stewardship" 148259360471582693 "JMCG-Joseph"
+Gnaar Mok is the last note in a song no one remembers. Nadene has chosen her path. Even the edges of the map have ears now.
+
+@ 0 "Bards stewardship" 815926037148259360 "JMCG-Ally"
+Jo'Zhaf has built something remarkable. Seven taverns, seven ways of listening. The Guild now has ears across Vvardenfell. Use them wisely.
+
+@ 0 "Bards stewardship" 926037148259360471 "JMCG-Shane"
+Joseph's tavern network is a song with seven verses. Each one hears the same melody differently. Together, they compose something greater than any single voice could sing.
+
+@ 0 "Bards stewardship" 037148259360471582 "JMCG-Jack"
+Jo'Zhaf's network is operational. Information flows like water now. Just remember water can drown you if you drink too deep.
+
+# "Beds" -----------------------------------------------------------------------
+@ 0 "Beds" 24620129741138413476 "urzul gra-agum"
+10 gold, its yours for the night. Any thing else i can do for you eh.?
+
+@ 0 "Beds" 1630269082032915302 "urzul gra-agum"
+Another time Pehapes
+
+@ 0 "Beds" 3237073772781528965 "urzul gra-agum"
+Standard rate is 10 gold for the night. You'll find it's a lot softer than sleeping on a bed of volcanic glass. Do you want to the rent a room?
+
+@ 0 "Beds" 1594025613149529658 "boderi farano"
+Very well. Go down the stairs, and use the first room on your right. It's yours for the next day.
+
+# "Berandas" -------------------------------------------------------------------
+@ 0 "Berandas" 27415997065021468 "abelle chriditte"
+Ah good to see you again, so the Berandas chord is struck, the next logical location would be Falensarano
+
+@ 0 "Berandas" 207868199281314531 "abelle chriditte"
+Berandas stands west of Gnisis, overlooking the coast.
+You’ll smell the sea before you see it.
+The ruin crowns a low rise above the water  a poor place for defense, but a clear landmark.
+Watch the cliffs. They crumble. I am sure it the next note, return when you tune its note
+
+# "bumbub gro-murol" -----------------------------------------------------------
+@ 0 "bumbub gro-murol" 1272927129858012002 "bumbub gro-murgol"
+How Orsinium Passed? That is a name from the old stories. I lead the clan in war and trade, but I do not keep the ink. If you seek the history of how we came to these ashen wastes, you must speak to Yadba gro-Khash. He is our Keeper of the Iron Records. He is better versed in such things as I
+
+# "Celebrated Bard's Hat" ------------------------------------------------------
+@ 0 "Celebrated Bard's Hat" 2790612772982327335 "hisin deep-raed"
+She Said what? Drink this and ill be fine, an he Celibrated Bards Hat.,,, oh my,,,well im,, eh,,well...ehhh,  did she didnt mention were she was going by chance? Anyway enough about that, i would love to join the Guild. Surley i will find an inn or town soon that Appriciate the boom of Dragons, better than Crabshelled Ald'rhun, i will send word to you when i have settled, do not fear PcRace the North remembers its debts.
+
+# "Chorus" ---------------------------------------------------------------------
+@ 0 "Chorus" 13285100092341712561 "JMCG-Jack"
+That is what I like to hear! We shall start at once. There is som Dirty Imperial Buissness to attened to, seems like the thiefs and the fighters are at it again, it would be good for our guild to be on the winning side of the spat,, hmmm, yes yes, go to the guild masters and offer our servises, see what you can string out of them ehh?
+
+@ 0 "Chorus" 3228625260205603562 "JMCG-Jack"
+A shame. Come back if you find your courage.
+
+@ 0 "Chorus" 196022030290719285 "JMCG-Jack"
+So the Khajit pointed you in my diresction then, well i have a how do we say,,, mmm, lets say, shadowier side of the guild, some times the Tough work is the Dirty work, and someone always has to do the dirty work, as i see it me and you would be a dynamic duo in this Chorus, Intressted?
+
+# "Cookbook" -------------------------------------------------------------------
+@ 0 "Cookbook" 148759622072513961 "fara"
+You weighed the risk and brought the prize. Careful that parchment smells of the grave and the swamp. Most would scream if they saw these 'ingredients,' but we know the value of a silent trade. Here is the five thousand, as promised. This transaction never happened, and these 'recipes' stay between us and the buyer’s shadow. You’ve done well, steward. Now, hide that gold and wash the scent of the dead off your hands. We have a shop to run, and the world is none the wiser.
+
+@ 0 "Cookbook" 132916980133514362 "fara"
+Keep your voice down. A book like that... it’s not for the local kitchen. It’s a specialized trade, and I happen to know a buyer with a very peculiar hunger and a very deep purse. They want those 'marsh-recipes' kept off the streets and in their private collection quietly, never to be known. The risk is high, but the weight of the gold matches it. Bring that parchment to me, and five thousand septims will move from their hand to mine, and then to yours. No questions, no records, and certainly no witnesses.
+
+@ 0 "Cookbook" 26182759629034595 "fara"
+Another time, the offer is on the table
+
+@ 0 "Cookbook" 19442117402870521638 "fara"
+You’ve proven you can weigh a secret without spilling it, Bard. So, let’s talk about a different kind of trade. There’s a particular collection of recipes I’ve been... tracking. Most would call it a cookbook, but the 'spices' it describes? They aren't found in a garden,It’s a text for those with a very specific, very ancient palate. It deals with... marsh-born flavors. Scaled proteins that require a certain 'finesse' to prepare correctly so the meat doesn't go bitter with swamp-rot. It’s a dangerous book!
+
+@ 0 "Cookbook" 133822024760514494 "fara"
+Listen... I’ve been weighing a rumor that drifted in from the Suran coast. There’s a certain practitioner out there someone who spends more time talking to the dirt than the living. They say he’s found a way to... preserve the essence of the marsh-born.If you find this hermit's crawlspace, look for a parchment that smells more of formaldehyde than fennel. Bring it to me without a word to anyone else. Five thousand gold is a lot of weight to carry, but I think your pockets are deep enough for the risk.
+
+# "Council Club" ---------------------------------------------------------------
+@ 0 "Council Club" 27004318451842311588 "thanelen velas"
+Eydis sent a poet? Fine. We need a 'delivery' brought up from Hla Oad. Go to Fatleg's Drop Off and speak to Relam Arinith. He has a slave named Rabinna waiting. Bring her back here, and don't let the guards see you. Clear?
+
+# "Daisy Divesdeep" ------------------------------------------------------------
+@ 0 "Daisy Divesdeep" 2187123802645030994
+Daisy DiveDeep, an argonnian Bard, a nice dancer, unmatched in the Guild and our halls local enchanter, Stuburn is she and quick tempered, but loyal to the death, Usually found upstairs
+
+# "Dance to its beat" ----------------------------------------------------------
+@ 0 "Dance to its beat" 25498296192568824539 "JMCG_Lysandra_Shop_ref"
+Ah,,, Hisin told you about his corious steel, yes it seem's that no Known meathod of enchanting will place even the weakest enchantment apon it, i douth any other enchanter could prevail even my own mother a powerfull enchantress none greater perhaps,would be able to weave a Lyric to the steals beat, no song can walk its blade or gain footing to hold its beat, but i will continue to try, they are magnificent piece's of craftmanship, i have seen none better
+
+# "De Rerum Dirennis" ----------------------------------------------------------
+@ 0 "De Rerum Dirennis" 14525189301336724446 "JMCG_Lysandra_Shop_ref"
+It is a rare history and new written by Vorian Direnni. It chronicles the 'Way of the Wizard' and the legacy of my mother’s clan from the first alchemists of Tyrigel to her own time as the sorceress of Daggerfall.
+
+# "Devils tuning fork" ---------------------------------------------------------
+@ 0 "Devils tuning fork" 11770150641960718383 "abelle chriditte"
+A percise mesurment tool for mapping places, very powerfull, so pwerfull a blind child could find there way out of the pitch black of the darkest conors of oblivion with thism first visit, Falasmaryon", it lies east of Balmora, beyond the Odai.
+Follow the river upstream and keep the hills on your right.
+You’ll see old stonework half-buried in ash  hard to miss once you’re close.
+The locals avoid it. I wouldn’t count on guides. if somthing happens then return to me
+
+# "Dular gro-Buzga" ------------------------------------------------------------
+@ 0 "Dular gro-Buzga" 256451770451316058
+He is an orc Bard in the Rat and Pot, not a great singer unless its a left hook your looking for, usually on the bottom floor
+
+# "Durus Marius" ---------------------------------------------------------------
+@ 0 "Durus Marius" 109092624815093390 "Hlevala Madavel"
+You've got more than just a voice, singer you've got nerves of steel. My associates tell me the shipment is already in the warehouses. Orvas Dren is pleased. He doesn't trust many, but he'll trust a bard who can make the Legion look like fools. Here is your cut. Take it and get out. We'll be in touch
+
+@ 0 "Durus Marius" 428624515320521244 "Hlevala Madavel"
+Marius sent you? The plantation is too quiet. We need to move the real cargo where the sun shines brightest Ebonheart. Go to the docks. Stand near the Dragon statue to  Start your 'Lullaby.' Keep the Legion guards watching you while my associates unload the ships
+
+@ 0 "Durus Marius" 1048176272390225160 "durus marius"
+The singer returns. Telandas was just the opening act. My associates at the Dren Plantation are looking for a voice to help 'mask' a significant shipment moving through the coast. Go to the plantation. Find Hlevala Madalvel she n her shack at the Dren Plantation. Tell her the 'Lullaby' is ready.
+
+# "duties" ---------------------------------------------------------------------
+@ 0 "duties" 21601143231921122303 "JMCG-Daisy"
+The song you found... it has the scent of old blood and golden lies. This one cannot say for certain if the ink is as old as the words. You must take this transcript to Vivec. Seek the Khajiit, Jobasha. He keeps a shop of rare books in the Foreign Quarter. If anyone in Vvardenfell can verify a song of the First War, it is he.
+
+@ 0 "duties" 28358841968027303 "chargen captain"
+You know your duties. Take that package to Caius Cosades in Balmora.
+
+@ 0 "duties" 2864222003214338764 "faral retheran"
+The abandoned stronghold of Falasmaryon in Maar Gan has been taken over by a creature known as Dagoth Tanis.
+
+@ 0 "duties" 265475493118325661 "uvoo llaren"
+I have no duties for anyone under the rank of Curate. Speak with Tharer Rotheloth in Molag Mar, Tuls Valen at the Ald'ruhn Temple, or Endryn Llethan at the High Fane in Vivec.
+
+@ 0 "duties" 325191998816086682 "JMCG-Daisy"
+"I see you, dry-skin. Do you hear the music in the river? The Empire gives us gold to keep the old songs from drowning in the ash. It is a new thing here in Balmora, yes? We gather the traditions before they wither. This one thinks you have the spirit of a singer.Duties, yes. This one seeks a song that has been swallowed by the silt. A very old melody, born in the mud of the Ashlanders but forgotten by the Great Houses. This one hears it is etched upon an old stone near  Addamasartus
+
+@ 0 "duties" 252869918238779866 "feldrelo sadri"
+I do not have any duties for you. Perhaps you could speak with Endryn Llethan in Ald'ruhn or Tharer Rotheloth in Molag Mar.
+
+# "East-Salt" ------------------------------------------------------------------
+@ 0 "East-Salt" 195172907319176197 "JMCG_Argonni"
+What you call Azura's Coast. The water there is bitter and the stone towers of the wizards bite the sky.
+
+# "Falasmaryon" ----------------------------------------------------------------
+@ 0 "Falasmaryon" 24456315112056020579 "abelle chriditte"
+I felt it from here, %PCName. A low, thrumming chord that shook the very foundations of the Halfway Inn. You've tuned the Devil's Tuning Fork to Falasmaryon. , We sould tune all 10 of the Chamber stones to the fork, a powerfull artifact we would have Indeed? would you like to know the location of the next Propylon Chamber its called Andasreth
+
+@ 0 "Falasmaryon" 2417417186195115783 "abelle chriditte"
+Falasmaryon lies east of Balmora, beyond the Odai River.
+Follow the river upstream and keep the hills on your right.
+You’ll see old stonework half-buried in ash,it quite hard to miss once you’re close.
+The locals avoid it. I wouldn’t count on guides either.
+
+# "Falensarano" ----------------------------------------------------------------
+@ 0 "Falensarano" 2899271911070413495 "abelle chriditte"
+Falensarano has also tunned, wow this is somthing, still i have no idea what this process is going to do but we sould continue and finish the scale as soon as we can, the next location is Hlormaren
+
+@ 0 "Falensarano" 291522639126863639 "abelle chriditte"
+Falensarano lies inland from the coast, south of Ald’ruhn’s territory.
+The Redoran don’t speak of it much.
+Look for broken towers against the ash  they rise higher than most.
+If you reach open grazing land, you’ve gone too far. we shall see if its the correct note
+
+# "Flesh" ----------------------------------------------------------------------
+@ 0 "Flesh" 5969231111217232452 "JMCG_deadra"
+Your kind is soft, a 'leaking blood-sack' as the churls would say. You squander your short lives in hamlets while we build empires in the timeless skies of Oblivion. But even the softest blade can be tempered. In the service of the Imperial House, we have learned that your flesh, though weak, is a vessel for something the Princes covet: a fragment of the divine spark that makes your souls so... succulent for the harvesting
+
+# "Garrus Vane" ----------------------------------------------------------------
+@ 0 "Garrus Vane" 203203538195776768 "JMCG-Daisy"
+Lost? Perhaps that is for the best. Some things are better forgotten by the world. Here is your pay. I need to be alone for a while.
+
+@ 0 "Garrus Vane" 3322304691283419727 "JMCG-Daisy"
+You have a noble heart, %PCName. To destroy such a 'valuable' thing for the sake of dignity... you truly understand the song of my people.
+
+@ 0 "Garrus Vane" 1710029121954125336 "JMCG-Daisy"
+Eating them?! [She looks physically ill]. I thought it was just alchemy... but this is a hunger of the soul. That book, 'The Culinary of Lizard'... it is an abomination. Give it to me. I will see it burned and the ashes scattered in the Odai. No one must ever see those recipes.
+
+@ 0 "Garrus Vane" 2119824609233816950 "JMCG-Daisy"
+Thank the Hist. To think a monster from my own foster-home in High Rock could do this... it breaks my heart. You have done a great service for the 'hatchlings' of this land. The Guild is proud to have you.
+
+@ 0 "Garrus Vane" 150973802243030088 "JMCG-Daisy"
+You are back... and you smell of that foul cave. Please, tell me it is over. Is Garrus Vane gone? And my kin... did any survive his 'experiments'?
+
+@ 0 "Garrus Vane" 13071140131803027544 "JMCG_Garrus Vane"
+Ah, a visitor. Did the Bards Guild send you to critique my composition? You see, the Argonians have a rhythm in their blood that no lute can match. I am not killing them, %PCName... I am making them immortal. I am turning their screams into a symphony that will last forever. Now, I think your heart would make a fine percussion piece.
+
+@ 0 "Garrus Vane" 8358291892106712948 "JMCG-Daisy"
+"Garrus Vane... I have heard that name in the high courts of High Rock. A disgraced alchemist who fled the West years ago i don not know of all his story. If he is the one taking my kin, he will not be looking for labor he will be looking for 'ingredients.' Please, %PCName, find his lab in Molag Amur before the next 'order' is filled."
+
+@ 0 "Garrus Vane" 276611853205177347 "JMCG_Lysandra_Shop_ref"
+Vane was a rising star in the Mages Guild of Northpoint. He was exiled after the Direnni found he was experimenting on "lesser races" to find a cure for aging. He fled to Morrowind because the laws regarding "property" (slaves) are more flexible. He believes Argonian scales and blood have unique resonance properties that, when distilled, can create a potion of "Eternal Youth."
+
+@ 0 "Garrus Vane" 125330543093812051
+Im not Quite sure How ever Lysandra in Gnaar Mok may now more
+
+# "Gnarr Mok Shop" -------------------------------------------------------------
+@ 0 "Gnarr Mok Shop" 17356198041337731322 "JMCG-Ally"
+Ah excellent work ^PCName, our new guild is well established on the island, our influence is growing. However, I have a sensitive matter that requires assistance. Also, a promotion within the guild has been approved. A well-renowned Bard from the Black Marsh, Xeech, Recruit her, a powerful alchemist, recently arrived in Seyda Neen. Seek out Xeech; she could become a valuable ally in the swamp not far from Seyda Neen. With this, you are now ^NextPCRank of the Bard's Guild.
+
+@ 0 "Gnarr Mok Shop" 1847225364146456314 "JMCG-Joseph"
+Very good, this one thinks this shop is a great boon for our Guild yes, Upstair Ally will want to know this news
+
+# "Guide" ----------------------------------------------------------------------
+@ 0 "Guide" 381115573135222358 "JMCG-Shane"
+Welcome home Scribe.So we now have the Iorn Arm of the north, and an Ashlander Guide for the Iorn Arm, this is very well Done, you sould be the one to inform Guild master Ally of these great tidings! See might know Whats Next for the guild
+
+@ 0 "Guide" 109423152456961352 "bumbub gro-murgol"
+A Guide HMMM, well we will have to clear out the last of the ruble, i will get da boyz on to it tommorro PcRace, give me 4 days they will have it ready, ill send word to Shane gra-Bagol, inform him his iorn arm is secure
+
+@ 0 "Guide" 12936201402804717917 "JMCG_Ashleader"
+Niri-Zabi-Ammu she is returning soon Sera, i will send her to Valenvaryon as soon as she returns, Tell BunBug may azura serande this clans men throught the Blight, return here any time you are most welcome PcName
+
+# "Guild Hall" -----------------------------------------------------------------
+@ 0 "Guild Hall" 31082995619125872
+This hall has been funded by the empire, Balmora was a great choice for our head quaters
+
+# "Haj-Meen" -------------------------------------------------------------------
+@ 0 "Haj-Meen" 15103199631889521586 "JMCG_Argonni"
+The Xeel wind through the marsh brings life-scent. You have done well, Ojel. Haj-Meen is safe, and the seeds of the Hist return to the guild's Vastei. I will see to his recovery, we then prepare for Memory of the Sap. You must go report your success. Go now, and may the Root-Mother's moisture guide your path
+
+@ 0 "Haj-Meen" 2761417461838932463 "JMCG_HajMeen"
+You have freed me, did you free the other One-Toe-Two-Many? truly you are a Blessings of the Root, please take me back to Xeech Vastei, Swift now Ogel there is much work to be done
+
+@ 0 "Haj-Meen" 60129953796514344 "JMCG_KhaenRa"
+Wise choice, Ojel. Take your dog and leave. Xhuth... I should have asked for three thousand.
+
+@ 0 "Haj-Meen" 2682791612257112581 "JMCG_KhaenRa"
+Then your blood will water the deck! KAOC! Kill the dry-skin!
+
+@ 0 "Haj-Meen" 2243829889152565867 "JMCG_KhaenRa"
+He is a fine hunter of seeds valuable. I do not care for your 'mate' stories. To me, he is just a Xeech-Lukiul waiting for a buyer. Pay the 1000 gold Blood-Price, or Waxhuthi! Get off my ship before I prune your limbs.
+
+@ 0 "Haj-Meen" 1505377381097726905 "JMCG_HajMeen"
+you free me but not the other? if you can not, then we must hurry back to my Tsona
+
+@ 0 "Haj-Meen" 3181122107322376304 "JMCG_Argonni"
+He is my Tsona. Our souls are a single branch. The Lukiul-Hata keep him in a wood-shell near the stone towers of Tel Aruhn. Until he is free from the iron-teeth, the Bijak-Xal will remain silent. I cannot perform the Vastei-Sei while he suffers.
+
+# "Head as proof" --------------------------------------------------------------
+@ 0 "Head as proof" 2523919835282613392 "bumbub gro-murgol"
+TheY offer us what? Hmm i will talk this over with the clan Soft Mouth, untill then i have a Task Sutable to a fetcher like you .. Bugwhahaaa! Go Now Fetch...
+
+@ 0 "Head as proof" 2588114111793429502 "JMCG_Ashleader"
+The Orcs sent you, didn't they? They want our heads. But we only seek peace. If you speak for the Bards, perhaps there is a middle way. Will you strike us down for Orc gold, or help us secure our stay?
+
+# "help her kin" ---------------------------------------------------------------
+@ 0 "help her kin" 2161239621022914713 "JMCG-Joseph"
+This one knows why Daisy paces the halls, yes! The Bards Guild is not just for singing pretty songs it is for speaking loud when others whisper! If she seeks to pluck her kin from the Suran markets, this one says: let us sharpen our claws together! But we must be quiet shadows... the slavers have many blades, and the Guild is not yet ready for a full-grown war. Shhh! Ally see her yes?
+
+@ 0 "help her kin" 940138841282632013 "JMCG-Jack"
+Help her? I’d sing a ballad for her cause if it didn't mean getting my lute smashed by an Angry Dunmer. Daisy’s a socialite, sure, but she’s got a fire for her hatchlings that I haven't seen in years. Just don't tell the Guild Master I'm getting sentimental.
+
+@ 0 "help her kin" 28861319612738014660 "JMCG-Shane"
+Daisy's looking into the slave markets? That’s dangerous ground, friend. She has the Guild's protection, but even our music can't drown out the sound of a Camonna Tong blade if she pushes too hard. If you're going to help her, watch your back."
+
+@ 0 "help her kin" 409917438130717365 "JMCG-Ally"
+Daisy? She's a jewel, isn't she? But don't let the dancer's grace fool you. She spends her gold on more than just fine robes. She's been asking about the slave markets in Suran. If she asks for your help, %PCName, tread carefully. The Bards Guild protects its own, but we don't pick fights with the Camonna Tong... yet.
+
+# "Herald" ---------------------------------------------------------------------
+@ 0 "Herald" 3743222812548831632 "JMCG-Jack"
+Ebonheart? You played a 'Lullaby' for the Legion while the Tong robbed them blind? (Laughs) This is why I chose you. The gold is flowing, the shadows are our friends, and we've got the most dangerous men in Morrowind on speed-dial. Take another 500 gold from the Guild's share. You've earned it, partner.
+
+@ 0 "Herald" 2555313081121815934 "JMCG-Jack"
+So, the Duke's daughter is a fan? And you made Orvas Dren look like a fool in his own fields? (Laughs) This is the best PR we've had all year! The commoners love a hero, and the nobles love a secret. We're moving up in the world, friend. Take your cut. We've got more strings to pull soon.
+
+@ 0 "Herald" 2811425882884024232 "JMCG-Jack"
+Daynasa Telandas is dead. House Hlaalu is scrambling, and the silent partners are pleased. A messy job, but a profitable one for the Guild. Take your cut; you've earned it, an invitation from the shadows, might be worth bards of our accurred tastes
+
+@ 0 "Herald" 24069326842975523144 "JMCG-Jack"
+The Council Club is silent. Varro's story has a happy ending.The Tong are gone for now, and we look like pillars of justice.this was a good outcome for our standing amoung the law abiding citezens, Here is your payment.
+
+# "High Rock hatchling" --------------------------------------------------------
+@ 0 "High Rock hatchling" 2134264383157813293 "JMCG-Daisy"
+The silk of High Rock was warm, but it cannot muffle the cries of the shackled. I have heard rumors of a 'collector' near Suran who buys kin folk and... they are never seen again. I am a socialite, but even I cannot charm a monster. Will you go to the House of Earthly Delights and listen to the chant there? The quite listenner sees much that others miss.
+
+@ 0 "High Rock hatchling" 6088278942823418433 "JMCG-Daisy"
+You notice the rhythm of my step, %PCName? It is a dance of the Illiac Bay, not the Black Marsh. I was but a hatchling when the Direnni found me in a slaver's hold. They raised me with silk and spells, yet the Hist calls through the salt of the sea. I am here to find those who were not so lucky as I. So i do my best to help my kin
+
+# "Hisin Deep-Raed" ------------------------------------------------------------
+@ 0 "Hisin Deep-Raed" 22480114042450919159 "dular gro-buzga"
+"Hah! The 'Skald of Skyrim'? He was drunkenly bellowing some nonsense about 'Grey-Manes' and 'Battle-Borns' at 2:00 AM. I gave him a one-way ticket to the West Gash. I tossed him like a skald-shaped cannonball! He landed somewhere north of Drulene Falen’s place. If he's still there, he’s probably sobered up by now."
+
+# "Hlormaren" ------------------------------------------------------------------
+@ 0 "Hlormaren" 192306682861032107 "abelle chriditte"
+Hlormaren is now also tuned. Splendid, next is Indoranyon
+
+@ 0 "Hlormaren" 19377159492167019384 "abelle chriditte"
+Hlormaren sits on an island off the Bitter Coast.
+You’ll need a boat smugglers know the place well enough.
+The structure is intact, almost welcoming, which should concern you.
+Dwemer didn’t build for comfort. acces maybe hard to gain, your guild will perhaps know more
+
+# "How Orsinium Passed " -------------------------------------------------------
+@ 0 "How Orsinium Passed " 169293862347723462 "bumbub gro-murgol"
+How Orsinium Passed? That is a name from the old stories. I lead the clan in war and trade, but I do not keep the ink. If you seek the history of how we came to these ashen wastes, you must speak to Yadba gro-Khash. He is our Keeper of the Iron Records. He is better versed in such things as I
+
+# "Im-Kilaya" ------------------------------------------------------------------
+@ 0 "Im-Kilaya" 2073917441127004140 "Im_Kilaya"
+The friend of Rabinna returns. The Twin Lamps have seen your work in Balmora. We need a way to guide those in the dark without alerting the hunters. A song, perhaps, that carries the path to the North. Go to Vivec, St. Dren Canton. Speak with Ilmeni Dren. She will tell you the verse we need
+
+# "Imperial Buisness" ----------------------------------------------------------
+@ 0 "Imperial Buisness" 16793235129778724 "JMCG-Jack"
+Cruel, but profitable. Relam is pleased, and the Guild's coffers are heavier. Now, Go see if Bacola Closcius  in south wall Offer him our herald services for a Bard who doesn't mind getting their hands dirty.
+
+@ 0 "Imperial Buisness" 660515726165412641 "JMCG-Jack"
+So, the slave is safe? Principle over profit... a bold move for a Bard. The Guild's name is known in Ebonheart now. Here is your fee. Now, let's see if  Bacola Closcius in south wall has Jobs for a Bard with a heart of gold
+
+@ 0 "Imperial Buisness" 3906137571096811365 "JMCG-Jack"
+Dirty business is good business, my friend. Go to the Fighters Guild. Pitch our 'herald services' to Eydis Fire-Eye. If she's as corrupt as they say, she'll have a use for a silver-tongued agent.
+
+# "Imperial House" -------------------------------------------------------------
+@ 0 "Imperial House" 20244305311862424212 "JMCG_deadra"
+You find it strange? A Dermora  operating  a business? We are the Bound Kyn. We have chosen to trade the shifting tides of the Daedric Princes for the cold, predictable logic of Imperial gold. We offer contracted services intimidation, persuasion, and the sharp edge of a Bound Daedric Weapon. We do not serve the Empire out of love, but because their 'Law' is a structure we can respect, a cage of our own choosing.
+
+# "important moment in history" ------------------------------------------------
+@ 0 "important moment in history" 29095283491204613592 "JMCG-Shane"
+Oh yes let me start,,,,,
+
+@ 0 "important moment in history" 1811516714183701843 "JMCG-Shane"
+A fine tale,,,,
+
+@ 0 "important moment in history" 27326265501490429604 "JMCG-Shane"
+Which tragedy shall we discuss? The fall of Torug's walls in the First Era, or the betrayal at the Siege of the Thirty Years? History is a heavy pack to carry, friend.
+
+# "In Need" --------------------------------------------------------------------
+@ 0 "In Need" 315578052314232150 "JMCG-Shane"
+My cousin is the Chief at Valenvaryon. He is a tradition-bound Mazken-kraz, but he respects strength and song. Go to him. Tell him Shane gra-Bagol sends word of a new melody. He needs help clearing the rift between his pride and the guild's gold.
+
+@ 0 "In Need" 96286863031921767 "JMCG-Ally"
+The guild has grown, but our northern routes are closed by blood and iron. Go and speak with Shane gra-Bagol. He is In Need of a messenger to reach his kin in Valenvaryon. If we can win their favor, the guild will have a fortress in the wastes
+
+# "Indoranyon" -----------------------------------------------------------------
+@ 0 "Indoranyon" 731702227607980 "abelle chriditte"
+We gain pace with ever bead, each note the forks tone stablizise we are close now, the next note of the scale lays in Marandus
+
+@ 0 "Indoranyon" 1071918991193129272 "abelle chriditte"
+Indoranyon lies deep in the eastern wastes, well beyond settled roads.
+Ask after it in Molag Mar if you must, someone will point you east and stop talking.
+The land there is flat and unforgiving.
+If you see nothing for too long, you’re probably close.
+
+# "invitation from the shadows" ------------------------------------------------
+@ 0 "invitation from the shadows" 24230129792510022225 "JMCG-Jack"
+You've made quite an impression on the wrong people, singer. I found a note in the lute case this morning no signature, just the mark of the Brotherhood. Durus Marius wants to see you in the Underworks again. They have a 'grander stage' for you. Be careful; these are the kind of friends who don't let you retire. watch tour back down there, some very Shady people
+
+# "Iorn Orcs" ------------------------------------------------------------------
+@ 0 "Iorn Orcs" 26624232831671920408
+The Iron Arm isn't just about shields; it is about the forge-rhythm and Stone-Singing. In the old lore, our kin didn't just build walls they drummed them into place. Every hammer strike is a note in a song playing since the First Era. We are here to restore the chants the Dunmer tried to silence. If your Bards Guild wants to record something real, listen to the docks at midday. That pulse is our culture coming back to life, here we reuinte the fires for Old Father's statue
+
+# "Iron Records" ---------------------------------------------------------------
+@ 0 "Iron Records" 2536710531960020129 "yadba gro-khash"
+The Dunmer write on paper that rots. The Iron Arm writes on stone that sings. Our Iron Records are the tally of our reclamation—the names of the pilgrims, the weight of the iron forged, and the notes of the Stone-Singing. Bogakh keeps the ledgers, but the mou
+
+# "Jiub" -----------------------------------------------------------------------
+@ 0 "Jiub" 10445661583124266 "JMCG-Shane"
+
+We shall send it to every bard in the Guild. In the meantime, I will set the tale into our history book. A story such as this should never be lost to time
+
+@ 0 "Jiub" 3177711254128424492 "JMCG-Shane"
+Extraordinary give me a moment.Shane scribbles furiously onto a fresh roll of parchment.
+
+There. It is finished. The Ballad of Saint Jiub: An Unbreakable Shield.
+
+Take this first copy, Scribe. Your name is as much a part of this song as his. May his legend live on forever.
+
+@ 0 "Jiub" 8401177322686231602 "JMCG-Shane"
+Scribe, you look as though you’ve walked through fire. Tell me, did you see it? Is the Matriarch truly gone, or has the Dunmer died a valiant death?
+
+@ 0 "Jiub" 2504982251097814235 "JMCG_Jiub2"
+GoodLead the way, but alone i will finish this, thats the deal you record as i sing
+
+@ 0 "Jiub" 199571304762819526 "JMCG_Jiub2"
+i cant wait forever friend
+
+@ 0 "Jiub" 11291209362732228146 "JMCG_Jiub2"
+you found my note Friend, this is it, im on my way to the summit, to slay the Matriarch i know were it is, i could use your help friend not for the beast but for the courpus creatures that bar my way, shall you join me to climb Red Mountain
+
+@ 0 "Jiub" 23837260513209022422 "JMCG-Ally"
+Ah, you’ve returned... Let me see what 'tangible proof' you've brought back. (She inspects the wing fragment). Fascinating. The precision of the cut suggests a discipline one rarely finds in common brigands...go to see him and recordhis Account, we shall watch as the situation develops
+
+@ 0 "Jiub" 8963206882571621426
+ Yes, he passed through our grazing lands. He does not speak, he only hunts. Since he arrived, the sky-demons do not strike our Guar as often. Tell your Guild: the 'Saint of the Skies' is real, though he has the eyes of a dead man."
+
+@ 0 "Jiub" 27853257041676889
+We have seen the pile of wings he leaves behind. He hunts with a fury that even the Ash-Kings would respect. If the Bards wish to record his name, record it in red. He has done more for the safety of our scouts than a dozen Imperial patrols.
+
+@ 0 "Jiub" 2528723577168993189
+"The Scarred One? You Bards seek to put a name to the shadow that stalks the wastes. He is a ghost who hunts the sky-demons. He does not seek our fire or our salt-rice; he only seeks the screechers. If your Guild wishes to record his 'Song-Tune,' know this: the Urshilaku respect the hunter, but we do not trust the man. He carries a darkness that even the Ash-Wind cannot blow away.
+
+@ 0 "Jiub" 1736873992710632649 "JMCG-Ally"
+This Jiub character is certainly compelling, but we cannot etch names into the ballad of history based solely on the word of a murderer and a vagabond, We require tangible proof before his deeds are worthy of documentation. Travel to the Ashlander camps begin with the Urshilaku. We need their testimony to validate these claims.If the Bard’s Guild is to archive a legend, it must be built on a foundation of truth, not the ramblings of the redeemed.
+
+# "Join the Bards Guild" -------------------------------------------------------
+@ 0 "Join the Bards Guild" 1592152922745228205
+Welcome to the guild, soon to be the voice and the record keepers of the province, go see Daisy Divesdeep upstairs, she will have some duties for you to get you started in the guild %PcName
+
+@ 0 "Join the Bards Guild" 13446102691526423048
+Shame you look like you have potential
+
+@ 0 "Join the Bards Guild" 1985283222200219150
+Yes we are the new Bards guild here in morrowind, would you like to Join the Bards Guild?
+
+# "Kynless" --------------------------------------------------------------------
+@ 0 "Kynless" 10579239902730824134 "JMCG_deadra"
+The mortals, the beasts, the unthinking things you are all Kynless. You have no Clan, no eternal rank, no place in the great hierarchy. To us, you are as a housecat is to a master useful for a time, perhaps even beloved in a droll, distant way, but ultimately disposable. Yet, even the Kynless can earn a title if they prove they are not hornless in battle.
+
+# "latest rumors" --------------------------------------------------------------
+@ 0 "latest rumors" 5499154921659428767 "JMCG-Joseph"
+They say the Camonna Tong are looking for a Khajiit with a silver tongue and a golden tail. Jo’Zhaf told them he only has the silver tongue, so they are still looking! But more importantly... have you heard about the Ghostfence? The winds are whispering about a 'Sleeper' in the council club who talks in his sleep. If you listen close, he gives away the names of his masters. Very useful for the Bards Guild, yes?
+
+@ 0 "latest rumors" 1173842101700113685
+Rabbina? The Khajiit slave?
+They say someone stirred trouble where none was needed.
+Slavers don’t forgive interference they butcher examples.
+
+@ 0 "latest rumors" 24546360587814695
+They say a Khajiit girl named Rabbina slipped her chains near the coast.
+Some swear a Bard distracted the right people long enough for the Twin Lamps to move her.
+Others say that’s just a comforting song
+
+@ 0 "latest rumors" 1039624294266734650
+I’ve heard Jiub’s sainthood made certain problems disappear.
+Convenient, really when a nuisance becomes a miracle. Swits
+
+@ 0 "latest rumors" 2111752282069214162
+Some Telvanni say Jiub wasn’t chosen by the Temple at all.
+They say the story grew faster than the man and the Temple simply learned to ride it. More lies more myths jsut up Temple street one could say
+
+@ 0 "latest rumors" 95542371712922443
+Jiub? The outlander saint? The Telvanni do not argue with such songs of miracles. If the Ballad survives, it is because the people wishes it to.Other wise leave it be.
+
+@ 0 "latest rumors" 3104891133014820640 "hul"
+Some times friend the music will end loud, people remember. Even when they don’t say it was messy out loud. Many remember the blood
+
+@ 0 "latest rumors" 2854828163008130182 "hul"
+Not every problem leaves a mess behind. Some just stop moving, Dark tones haunt, much evil was the song of no blood, many will remeber
+
+@ 0 "latest rumors" 802269322564227940 "hul"
+Sometimes places change. Sometimes they don’t. Hard to tell which matters more.
+
+@ 0 "latest rumors" 217226437318385625 "tirnur thirano"
+You're asking about the incresing slaves coming and going? Dranas won't say a word, but the dancers see everything. Khinjarsi was whispering about a 'quiet buyer' who only comes when the lamps are low. You might want to ask her, if she's not too afraid to speak.
+
+@ 0 "latest rumors" 1323192922098629189
+A Saint clearing the skies? Pure bards' fancy. Those cliff-haunters will be back by the next ash storm, mark my words. Catchy song all the same
+
+@ 0 "latest rumors" 3119126628296138050
+Have you heard the bards in the plaza? They're singing of someone named Jiub... a 'Saint' Apparently,,  cleared the skies of Vvardenfell. They say the Matriarch is dead. This will be the last generation of the acursed Beasts
+
+@ 0 "latest rumors" 692122071767718641
+Have you heard the Empire has opened up a new wing of The Bard's Guild here on Vardenfel, what took them so long honestly, the taverns of Cyrodil and Skyrim are far better than here
+
+@ 0 "latest rumors" 138761985018781670
+Did you hear about the Nord here in the Rat and Pot? The orc bouncer Dular gro-Buzga threw him out so hard he hasn't moved in days. Literally. Some say he's still flying.
+
+@ 0 "latest rumors" 16325102782849326701
+The skies are clear all over Morrowind? Even on Red Mountain? I cannot believe it.
+
+@ 0 "latest rumors" 147258369147258369
+Rabinna? The Khajiit slave from Hla Oad? I heard she made it to Ebonheart. The Twin Lamps are singing about a 'North-Star Lullaby' now. Dangerous song to hum in the wrong company.
+
+@ 0 "latest rumors" 258369147258369147
+That Khajiit girl slipped her chains, they say. But the Camonna Tong don't forgive interference. Someone's going to bleed for that kindness.
+
+@ 0 "latest rumors" 369147258369147258
+Rabinna? Heard the Tong moved her inland. Haven't seen her since. Some chains don't break they just change hands.
+
+@ 0 "latest rumors" 471582693471582693
+A slave escaped near Hla Oad with Bard's Guild help. Honorable, if foolish. The Camonna Tong remember such slights. I hope the rescuer's blade is as sharp as their conscience.
+
+@ 0 "latest rumors" 582693471582693471
+Rabinna the Khajiit? I heard a bard handed her to the Tong without hesitation. Cold, but practical. In war, sentiment is a luxury we cannot afford.
+
+@ 0 "latest rumors" 693471582693471582
+The Tong and the Twin Lamps are at each other's throats over some Khajiit. The Bards Guild played both sides. Clever, but dangerous. Redoran do not respect divided loyalty.
+
+@ 0 "latest rumors" 704815926704815926
+Have you heard? A Bard's Guild hero freed a Khajiit slave from the Camonna Tong! The story's spreading to Cyrodiil already. The Empire loves a good abolitionist ballad.
+
+@ 0 "latest rumors" 815926704815926704
+Rabinna the slave? Someone at the Bard's Guild made a fortune delivering her to the Tong. Business is business, even if it stinks of blood.
+
+@ 0 "latest rumors" 926704815926704815
+The Twin Lamps and the Tong are both watching the Bard's Guild now. That Rabinna affair put the Guild on every shadowy ledger in Vvardenfell. One slip and they're done.
+
+@ 0 "latest rumors" 037148259037148259
+Rabinna escaped. Some say a bard helped her. If that's true, they're braver than I am. The Tong don't forgive. I pray she made it out alive.
+
+@ 0 "latest rumors" 148259037148259037
+Another slave sold inland. Rabinna, I think her name was. The Tong paid well for the delivery, I heard. Just another day in Suran.
+
+@ 0 "latest rumors" 259037148259037148
+The Tradehouse stays quiet about Rabinna. In Suran, asking the wrong question gets you chained yourself. I don't know what happened. I don't want to know.
+
+@ 0 "latest rumors" 360471582360471582
+Some Khajiit girl escaped slavery near Hla Oad? News travels slow out here, but I heard the Guild had a hand in it. Good for her, if she's still breathing.
+
+@ 0 "latest rumors" 471582360471582360
+Rabinna? Tong took her inland, someone said. Smugglers don't ask questions about cargo. Coin's the same color either way.
+
+@ 0 "latest rumors" 582360471582360471
+Twin Lamps? Camonna Tong? Gnaar Mok stays out of it. We're too far from the action to care, and that's how we like it.
+
+@ 0 "latest rumors" 693704815693704815
+Rabinna's gone. Some say the Twin Lamps spirited her away. Others say the Tong dragged her screaming. I saw a bard leave the docks that night. I didn't ask questions.
+
+@ 0 "latest rumors" 704815693704815693
+The docks are quiet now. Too quiet. After Rabinna disappeared, the Tong sent people asking questions. No one's talking. No one wants to be next.
+
+@ 0 "latest rumors" 815693704815693704
+I don't know what happened to Rabinna. I don't know who helped her or hurt her. And if I did know, I wouldn't tell you. That's how you survive in Hla Oad.
+
+@ 0 "latest rumors" 926037148926037148
+Rabinna the Khajiit? Interesting case study in asset relocation. The Telvanni don't concern themselves with Tong politics, but the data suggests someone profited handsomely.
+
+@ 0 "latest rumors" 037148926037148926
+I heard the Bard's Guild freed a slave near Hla Oad. Sentimental, but statistically unlikely to change Vvardenfell's labor economy. Curious nonetheless.
+
+@ 0 "latest rumors" 148926037148926037
+Slave escapes rarely succeed long-term. Rabinna's case is anomalous. Either she had exceptional help, or she's already recaptured. The Telvanni will observe the outcome with interest.
+
+@ 0 "latest rumors" 259360471259360471
+Saint Jiub? The cliff racers are gone, I'll give him that. But a saint? The Temple moves fast when it profits them. Convenient timing, wouldn't you say?
+
+@ 0 "latest rumors" 360471259360471259
+Have you seen the sky? Clear as glass! Jiub the Eradicator earned that sainthood. The Bards sing of him at the Eight Plates every night now. Brings in good coin.
+
+@ 0 "latest rumors" 471259360471259360
+Jiub's sainthood is pure politics. The Temple needed a hero, so they canonized a convenient one. The cliff racers dying is real. The saint part? Theater.
+
+@ 0 "latest rumors" 582693704582693704
+Jiub slew the Matriarch atop Red Mountain. That is a warrior's deed, worthy of song. Saint or not, he earned Redoran respect.
+
+@ 0 "latest rumors" 693704582693704582
+The Temple named him saint too quickly. Saints are forged through centuries of proof, not battlefield glory. But his deeds speak louder than titles.
+
+@ 0 "latest rumors" 704582693704582693
+The skies are clear. That is fact. Whether Jiub is a saint or simply a very dedicated hunter matters less than the result. Redoran honor deeds, not dogma.
+
+@ 0 "latest rumors" 815926037815926037
+Saint Jiub! The story's already spread to Cyrodiil. Imperial scholars are debating whether the Temple has canonization authority. The bards are singing it anyway.
+
+@ 0 "latest rumors" 926037815926037815
+Jiub cleared the skies! Every tavern in the Foreign Quarter is serving 'Eradicator's Ale' now. Marketing genius, really. Saint or not, he's profitable.
+
+@ 0 "latest rumors" 037815926037815926
+The Telvanni say Jiub's story grew faster than the man. The Temple saw the legend and claimed it before it could escape their control. Brilliant political theater.
+
+@ 0 "latest rumors" 148259360148259360
+Saint Jiub? Good for him. The cliff racers won't bother the slave caravans anymore. That's the only miracle I care about.
+
+@ 0 "latest rumors" 259360148259360148
+Sainthood doesn't pay debts. Jiub's ballad is pretty, but it doesn't change what happens in Suran's back alleys. The world's still broken.
+
+@ 0 "latest rumors" 360148259360148259
+They say Jiub climbed Red Mountain and slew the Matriarch alone. If that's true, he's braver than any saint I've ever heard of. If it's not... well, the song's still good.
+
+@ 0 "latest rumors" 471582693471582693
+Jiub the Eradicator? Heard about that weeks late. Cliff racers are gone, sure, but we don't see many out here anyway. Seems like a mainland concern.
+
+@ 0 "latest rumors" 582693471582693471
+Saint Jiub cleared the skies? That's what the songs say. Whether it's true or just bardic fancy, I couldn't tell you. News reaches Gnaar Mok like driftwood slow and waterlogged.
+
+@ 0 "latest rumors" 693471582693471582
+I don't care if Jiub's a saint or a skooma hallucination. The cliff racers are gone. That's miracle enough for me.
+
+@ 0 "latest rumors" 704815926704815926
+Jiub cleared the skies? Good. Fewer cliff racers means safer fishing routes. Saint or not, the man did us a favor.
+
+@ 0 "latest rumors" 815926704815926704
+The Temple says Jiub's a saint. The Bards say he's a hero. The smugglers say he's a lunatic. All I know is the sky's clearer than it's been in decades.
+
+@ 0 "latest rumors" 926704815926704815
+Sainthood's a Temple matter. Out here in Hla Oad, we judge people by what they do, not what they're called. Jiub earned his name.
+
+@ 0 "latest rumors" 037148259037148259
+Saint Jiub's claim is empirically verifiable: cliff racer population has declined by an estimated 94%. Sainthood is subjective. Eradication is quantifiable.
+
+@ 0 "latest rumors" 148259037148259037
+The Matriarch's death is fascinating. Single-point-of-failure ecosystem collapse. The Telvanni are already studying whether this creates an ecological void. Sainthood is irrelevant.
+
+@ 0 "latest rumors" 259037148259037148
+Jiub's ballad spread faster than any recorded Temple canonization. Memetic propagation velocity suggests cultural hunger for hero narratives post-Blight. Intriguing case study.
+
+@ 0 "latest rumors" 360471582360471582
+The Bard's Guild sided with the Twin Lamps. Bold move. The Camonna Tong won't forget. Watch the sewers now.
+
+@ 0 "latest rumors" 471582360471582360
+I heard the Guild ran a distraction at Ebonheart Docks while the Tong moved contraband. Profitable, but dirty. Some songs leave stains.
+
+@ 0 "latest rumors" 582360471582360471
+Twin Lamps or Camonna Tong, the Bard's Guild picked a side. Neutrality's dead. Balmora's underworld is watching.
+
+@ 0 "latest rumors" 693704815693704815
+The Bard's Guild aided slave liberation at the Dren Plantation. Reckless, but honorable. Redoran respect courage, even when it's foolish.
+
+@ 0 "latest rumors" 704815693704815693
+I heard the Guild performed a 'Lullaby' for the Tong while they conducted business. Efficient, but dishonorable. Redoran do not profit from shadows.
+
+@ 0 "latest rumors" 815693704815693704
+The Guild aligned with the Tong. Practical, perhaps, but honor is not negotiable. They will profit today and regret it tomorrow.
+
+@ 0 "latest rumors" 926037148926037148
+The Bard's Guild freed slaves at the Dren Plantation! The scandal reached the Imperial City. Duke Vedam Dren is furious. Ilmeni Dren is smiling.
+
+@ 0 "latest rumors" 037148926037148926
+The Guild distracted the Legion at Ebonheart while the Tong smuggled goods. Corruption reaches the Duke's doorstep now. Vivec's cantons whisper.
+
+@ 0 "latest rumors" 148926037148926037
+Twin Lamps or Tong, the Bard's Guild made waves. The Black Shalk hears everything. This story will echo for years.
+
+@ 0 "latest rumors" 259360471259360471
+They sang the 'North-Star Lullaby' at the Dren Plantation. Slaves ran for the marshes while guards watched in confusion. Whoever did that has a death wish.
+
+@ 0 "latest rumors" 360471259360471259
+The Tong paid the Bard's Guild well for the Ebonheart distraction. Blood money spends the same as any other. Suran knows that better than anyone.
+
+@ 0 "latest rumors" 471259360471259360
+The Guild sided with the Twin Lamps. In Suran, that's a death sentence. I hope they know what they've done.
+
+@ 0 "latest rumors" 582693704582693704
+Twin Lamps? Camonna Tong? Gnaar Mok smugglers don pick sides. We move cargo, not politics. The Guild can burn themselves if they want.
+
+@ 0 "latest rumors" 693704582693704582
+Heard the Guild helped free slaves from the Dren Plantation. Brave or stupid, I can't decide. Either way, it's not our problem.
+
+@ 0 "latest rumors" 704582693704582693
+Tong business is Tong business. The Guild got paid for a distraction job, I heard. Good coin. That's all that matters out here.
+
+@ 0 "latest rumors" 815926037815926037
+The Tong's been quiet since that business at Ebonheart. Too quiet. Something's brewing. Keep your head down.
+
+@ 0 "latest rumors" 926037815926037815
+I heard slaves escaped from the Dren Plantation. The Tong's hunting for whoever helped them. Don't ask me about it. I don't know anything.
+
+@ 0 "latest rumors" 037815926037815926
+The Bard's Guild played both sides. Clever, until someone notices. Hla Oad doesn't forget betrayals.
+
+@ 0 "latest rumors" 148259360148259360
+Camonna Tong and Twin Lamps conflicts are statistically predictable. The Bard's Guild's involvement introduces a new variable. The Telvanni will observe the outcome.
+
+@ 0 "latest rumors" 259360148259360148
+Slave liberation at scale is economically disruptive but morally irrelevant to Telvanni interests. The Guild's political position is now quantifiably unstable.
+
+@ 0 "latest rumors" 360148259360148259
+Tong smuggling operations utilize bardic distractions as tactical assets. Efficient use of cultural soft power. The Telvanni appreciate methodology over morality.
+
+@ 0 "latest rumors" 471582693471582693
+Garrus Vane? The High Elf alchemist? I heard the Bard's Guild uncovered his experiments in Molag Amur. Gruesome business. They're not talking about what they found.
+
+@ 0 "latest rumors" 582693471582693471
+An Argonian bard named Daisy was searching for her kin in Suran. What she found... let's just say some truths are better left buried.
+
+@ 0 "latest rumors" 693471582693471582
+Garrus Vane is dead. The Bards won't say how. The slavers in Suran are nervous. Something terrible was stopped, but no one's celebrating.
+
+@ 0 "latest rumors" 704815926704815926
+A High Elf was conducting experiments on Argonians in Molag Amur. The Bard's Guild ended it. Redoran respect justice, even when it's delivered quietly.
+
+@ 0 "latest rumors" 815926704815926704
+Garrus Vane's death is a closed matter. The details are sealed. Redoran law respects discretion when the crime is too monstrous to speak aloud.
+
+@ 0 "latest rumors" 926704815926704815
+I heard Daisy Dives Deep found her missing kin. Not all of them survived. The Guild handled it. That's all that needs to be said.
+
+@ 0 "latest rumors" 037148259037148259
+Garrus Vane's experiments? Imperial scholars are horrified. The Mages Guild is distancing themselves. The Bard's Guild uncovered a nightmare.
+
+@ 0 "latest rumors" 148259037148259037
+An alchemist in Molag Amur was perfecting techniques on stolen Argonians. The ethics debate in the Mages Guild has been... intense.
+
+@ 0 "latest rumors" 259037148259037148
+Daisy the Argonian bard solved a missing persons case. The answer was worse than anyone expected. The Black Shalk won't serve her drinks anymore. Too many painful memories.
+
+@ 0 "latest rumors" 360471582360471582
+Dranas Sarathram is gone. Fled town after the Bard's Guild started asking questions. I don't know what he was selling, and I don't want to know.
+
+@ 0 "latest rumors" 471582360471582360
+The House of Earthly Delights is quieter now. After Garrus Vane's operation was exposed, certain patrons stopped visiting. No one's asking why.
+
+@ 0 "latest rumors" 582360471582360471
+Argonians kept disappearing from Suran. One a month, then one a week. Then the Bard's Guild came. Now it's stopped. Don't ask me how.
+
+@ 0 "latest rumors" 693704815693704815
+Some High Elf alchemist in Molag Amur was doing experiments? News reaches Gnaar Mok slow, but that sounds like Telvanni business. Why's the Guild involved?
+
+@ 0 "latest rumors" 704815693704815693
+Daisy the Argonian was searching for her family. Did she find them? I heard she did. I also heard she didn't. Stories change by the time they reach the edge.
+
+@ 0 "latest rumors" 815693704815693704
+Suran's always been dirty. If the Guild uncovered something there, it's just one rot among many.
+
+@ 0 "latest rumors" 926037148926037148
+Garrus Vane was buying from slavers in Suran. What he did with them... I can't repeat it. The Bard's Guild stopped him. That's all I'll say.
+
+@ 0 "latest rumors" 037148926037148926
+Dranas fled Suran after the Guild came asking about missing Argonians. If he had a conscience, he hid it well.
+
+@ 0 "latest rumors" 148926037148926037
+Some horrors don't need to be spoken aloud. Hla Oad knows what slavery costs. We don't need the details.
+
+@ 0 "latest rumors" 259360471259360471
+Garrus Vane's experimental methodology was technically sophisticated, ethically catastrophic. The Telvanni appreciate his results, not his methods.
+
+@ 0 "latest rumors" 360471259360471259
+Argonian physiology research in Molag Amur was terminated by non-institutional actors. The Bard's Guild, apparently. Irregular, but effective.
+
+@ 0 "latest rumors" 471259360471259360
+Daisy Dives Deep's investigation yielded data on unregulated biological experimentation. The Telvanni filed the findings under 'cautionary case studies.'
+
+@ 0 "latest rumors" 582693704582693704
+The Bard's Guild unlocked the Propylon Index network? That's ancient Dunmer engineering. Imagine the trade routes that could open up now.
+
+@ 0 "latest rumors" 693704582693704582
+I heard they used something called the 'Devil's Tuning Fork' to harmonize the Propylon chambers. Sounds like Telvanni nonsense, but if it works...
+
+@ 0 "latest rumors" 704582693704582693
+Abelle Chriditte in Valenvaryon made a breakthrough with the Propylon stones. The Guild helped her complete the resonance network. Scholars across Vvardenfell are buzzing.
+
+@ 0 "latest rumors" 815926037815926037
+The Propylon Index network is operational. Redoran scholars have studied those stones for decades. The Bard's Guild succeeded where we failed. Impressive.
+
+@ 0 "latest rumors" 926037815926037815
+Ancient strongholds connected by resonance? The engineering is Dwemer-level sophisticated. Whoever solved that riddle earned their place in history.
+
+@ 0 "latest rumors" 037815926037815926
+Abelle Chriditte restored the Propylon network. The Bards assisted. Redoran respect collaboration that preserves Dunmer heritage.
+
+@ 0 "latest rumors" 148259360148259360
+The Propylon Index network is active! Scholars at the Mages Guild are demanding access. The Bard's Guild holds the key, literally.
+
+@ 0 "latest rumors" 259360148259360148
+Imagine teleporting between ancient Dunmer strongholds. The strategic implications are staggering. The Empire's already asking questions.
+
+@ 0 "latest rumors" 360148259360148259
+The 'Devil's Tuning Fork' unlocked the Propylon network. Poetic name for a scholarly instrument. The Bards always had a flair for drama.
+
+@ 0 "latest rumors" 471582693471582693
+Propylon Indices? Ancient stronghold teleportation? Nice for scholars. Doesn't put food on the table in Suran.
+
+@ 0 "latest rumors" 582693471582693471
+The Guild unlocked some ancient network. Good for them. Wake me when it affects slave prices or skooma shipments.
+
+@ 0 "latest rumors" 693471582693471582
+Abelle Chriditte and the Bards figured out Dunmer ruins. Scholars will celebrate. The rest of us have real problems.
+
+@ 0 "latest rumors" 704815926704815926
+Propylon what now? Ancient stones that teleport people? Sounds like Telvanni wizard talk. Does it help with fishing? No? Then I don't care.
+
+@ 0 "latest rumors" 815926704815926704
+The Guild solved some ancient puzzle with a tuning fork. Magic music stones. Sure. Whatever. Gnaar Mok stays at the edge of the map either way.
+
+@ 0 "latest rumors" 926704815926704815
+Scholars in Valenvaryon are excited about old ruins. Good for them. Out here, we're excited when the catch is good.
+
+@ 0 "latest rumors" 037148259037148259
+Propylon Indices let you teleport between strongholds? Useful for smugglers, maybe. If it cuts travel time, someone will find a way to profit.
+
+@ 0 "latest rumors" 148259037148259037
+The Bard's Guild restored ancient Dunmer teleportation. Impressive, but Hla Oad's too small to see the benefits. Maybe one day.
+
+@ 0 "latest rumors" 259037148259037148
+Abelle Chriditte and the Bards figured out ancient resonance stones. Scholars will write papers. Fishermen will keep fishing. Life goes on.
+
+@ 0 "latest rumors" 360471582360471582
+The Propylon Index network is empirically functional. Resonance harmonization at that scale is theoretically revolutionary. The Telvanni demand full data access.
+
+@ 0 "latest rumors" 471582360471582360
+Abelle Chriditte's resonance mapping has unlocked teleportation nodes across Vvardenfell. The Bard's Guild now controls strategic transit infrastructure. Fascinating power shift.
+
+@ 0 "latest rumors" 582360471582360471
+The 'Devil's Tuning Fork' achieved multi-site harmonic synchronization. The Telvanni Council is reviewing applications for experimental replication. Groundbreaking work.
+
+# "little advice" --------------------------------------------------------------
+@ 0 "little advice" 2356238832175511824
+If you’re traveling the wastes, watch your step near the farm-tiers. The ground is tuned to a high tension. If you walk out of sync with the Soil-Beater's mallet, you might just trigger a localized ash-slip. Keep your stride steady and your ears open. In the North, even the dirt has an ear for music, and it doesn't like a clumsy dancer
+
+@ 0 "little advice" 2094220342252388225
+No one will ever grow rich hunting. But it is a pure pleasure for itself. Take your time. Sneak up on your prey. Surprise it with a swift, silent arrow. There is no greater pleasure than to drop a cliff racer with a single arrow.
+
+@ 0 "little advice" 2349213562990526938
+The easy way to get started is to join a Guild. Do their jobs, earn your way up the ranks, get the discounts, training, and other services. Gets you out and around in Vvardenfell, a little at a time, get to know the country and the people. The Guild takes an interest in you, doesn't send you in over your head.The Bards Guild The Fighters Guild and the Legion, anyway. The Mages Guild is another story. Some old chair-polisher, doesn't have a clue what he's sending you into, doesn't much care.
+
+# "little secret" --------------------------------------------------------------
+@ 0 "little secret" 3012928861936720788 "JMCG-Ally"
+I have no name for them yet. My books in the Lore Keeper archives speak of the Mephala cults and the Dark Brotherhood, but this feels different. It is more... clinical. As if we are insects pinned to a board for study. I keep the doors locked not to keep out the thieves, but to see if the locks have been breathed upon while I slept.
+
+@ 0 "little secret" 27626696164835707 "JMCG-Ally"
+It isn't the Temple, and it isn't the Camonna Tong. It is something older, something that doesn't blink. I’ve seen the same face in three different cities this month once as a beggar in Vivec, once as a noble’s servant in Ald'ruhn, and once right here, cleaning the bar. Different bodies, but the same... stillness in the pupils. Someone is writing a biography of the Bards Guild, and I fear they are reaching the final chapter.
+
+@ 0 "little secret" 732102312608515138 "JMCG-Ally"
+[Ally leans forward slightly, her voice dropping to a soft, melodic whisper that barely carries over the tavern noise.] You have a keen way of looking at the world, %PCName. Perhaps you’ve noticed it, too? The rhythm of the city is... off. I’ve been counting the shadows in the corners of our guild halls. There are more eyes watching us than there are heads in this room
+
+@ 0 "little secret" 100526768573624767 "ra'virr"
+Ra'vir hears of you, you help this ones kin, for this Ra'vir is thanks to you, knowlage is power, this one knows, of lost doors, of great power yes?
+
+@ 0 "little secret" 76302064181527312 "ra'virr"
+HmmThis one has heard of doors that do not open anymore.
+Stone that listens. Hills that remember.
+
+(Ra’vir pauses.)
+
+But words are like wares, yes?Some are traded. Some are kept.
+
+Ra’vir thinks today is not a good day to sell silence.
+
+@ 0 "little secret" 32555296982122725679
+Buy from merchants and traders who like you. You get better prices. Members of your own factions usually like you best.
+
+# "little story" ---------------------------------------------------------------
+@ 0 "little story" 157518667362132713 "larrius varro"
+So the little story has a perfect ending. All the bad people washed away. It almost makes you believe in the power of prayer.
+
+@ 0 "little story" 2073611673121213608 "larrius varro"
+Maybe the story will have a perfect ending. It isn't over yet.
+
+# "Lore Keeper" ----------------------------------------------------------------
+@ 0 "Lore Keeper" 8042224592426113829 "JMCG-Ally"
+Knowledge is a heavy burden, %PCName, but it must be carried with a gentle hand. As a Lore Keeper, I ensure that the Debarge Guild remembers the mistakes of the past. Whether it is the ancient secrets of the Dwemer or the complex blood-feuds of the Great Houses, information is the only weapon that doesn't leave a scar. If you find any old scrolls or tablets in your travels, bring them to me. I would be happy to translate them for you.
+
+# "lost doors" -----------------------------------------------------------------
+@ 0 "lost doors" 2388096042677724113 "ra'virr"
+Ahhh this one remembers you.
+
+You walk where chains were meant to stay. That is not common, yes?
+
+There are doors in these hills that forgot their owners. Stone doors. Quiet doors.
+
+Some lead to nothing. Some lead to trouble. One sleeps under black dust and old greed.Ra’vir does not sell this knowing.Ra’vir repays it.
+
+# "Lost song" ------------------------------------------------------------------
+@ 0 "Lost song" 215716012589511698 "JMCG-Shane"
+ We must be patient. A Bard who rushes into a storm without a song loses his tongue. The Temple's eyes are everywhere. While the heat dies down, we have a Guild to get off the ground. We need more voices to protect our secrets. Speak to Jo'Zhaf on the ground floor; he has a list of bards we need to bring into the fold. Once our chorus is loud enough, we shall finish the song."
+
+@ 0 "Lost song" 1642022169269012480 "JMCG-Shane"
+I am Shane gra-Bagol. I have reviewed the transcript of this 'Lament,' and the meter is unmistakable archaic Chimeri 'Apographa.' I find the censorship offensive, but as a scholar, I find it also dangerous. We must reach the priests to complete the stanzas, but the Temple is too watchful. If we move on Holamayan today, the Ordinators will pluck our feathers.
+
+@ 0 "Lost song" 75136197170567056 "JMCG-Daisy"
+You have returned from the wastes with the ancestors' breath in your ears. This is a great service, egg-friend. I name you a Novice of our Guild. But my scales chill at the mention of the Mountain. You must go and speak with Shane gra-Bagol. He is our Verse-Binder and knows the weight of forbidden words.
+
+@ 0 "Lost song" 2258732439746529187 "nibani maesa"
+You sould not be here Outlander, WHAT..The ancestors whispered to you? Then you have heard a fragment of the 'Lament of the Unmourned.' Harken, outlander: this is no mere tune for a tavern. It is the music of the Mountain, a forbidden breath that can pacify the sleeper or shatter the soul.The Dissident Priests will know more. Return to Balmora and tell your Guild what you heard. They must decide if you are brave enough to seek the rest, Now get Out
+
+@ 0 "Lost song" 29141294532263922655 "zabamund"
+You seek the Ash-Singer's lament? We do not give our breath to those who cannot be still. Observe the Rite of Waiting. Take this bread to the sack at the Urshilaku Burial Caverns. Listen to the spirits. If they speak, go to the Wise Woman Nibani Maesa here at the Camp.
+
+@ 0 "Lost song" 1336917440372121888 "JMCG-Daisy"
+Jobasha confirms its real, but i have concluded the song is incomplete. The second half is not written; if it is remembered, then only by the tribes, this would seem our best bet. You must travel to the Urshilaku Camp. Speak to the Gulakhan, Zabamund. Ask him of the 'Shadow Song', tread carefull in Ashlander lands, follow the laws and observe there rites, learn what you can of there culture while you are there, they are of a facinating culture
+
+@ 0 "Lost song" 3065420676144533975 "JMCG-Daisy"
+He confirmed it? Jobasha has the wisdom of the moons. If it is truly a song of the First War, then we hold a spark that could set Vvardenfell ablaze. We must keep it secret, as the Khajiit says. The Empire pays for history, not for Temple-wrath. You have done well, egg-friend. The Guild is in your debt. i have my own deductions deduced from this Lost song
+
+@ 0 "Lost song" 1099615343296324040 "jobasha"
+Jobasha sees you have a paper of interest. [He reads the transcript in silence.This is... very old. It speaks of the Hortator and the Three. Such words are called 'Apographa' by the Temple. Very dangerous. Jobasha confirms this is authentic, but advises you to keep it away from the Ordinators.
+
+@ 0 "Lost song" 235989580286225903 "JMCG-Daisy"
+Hiss! This one smells the old parchment. You have found the lost song of Nerevar! The Guild's pool grows deep with this find. Take this egg-friend. You have done a great thing."
+
+@ 0 "Lost song" 883710950262988317 "JMCG-Daisy"
+Hopefully soon
+
+@ 0 "Lost song" 19284252722539627117 "JMCG-Daisy"
+Do you have it?
+
+# "Lurog gro-Khagdum" ----------------------------------------------------------
+@ 0 "Lurog gro-Khagdum" 2663127444562612517 "lurog gro-khagdum"
+"You seek the parchment of the ancients? (Lurog sighs, the smoke of the forge swirling around him). It is gone. The physical record was lost to time, bound to a 'lost sheep' who wanders with a hollow soul and a cursed blade. I have tended this pyre for decades, waiting for its return, but I fear it is lost forever..."
+
+# "lysandra" -------------------------------------------------------------------
+@ 0 "lysandra" 9576191201190211467 "JMCG_hisin_shop_ref"
+"She’s a mystery, that one. A daughter of High Rock an incredable dancer with the eyes of a Direnni and a name that sounds like it belongs in a Daggerfall court, not a swamp. She says she’s just a weaver’s daughter, but I’ve seen her handle a soul gem with the grace of a High Mage. Whatever she’s running from, my steel will stand between her and the world."
+
+# "Marandus" -------------------------------------------------------------------
+@ 0 "Marandus" 22000161692064914166 "abelle chriditte"
+You return with more sucsess, 2 notes left, First Rotheran
+
+@ 0 "Marandus" 211922769175614026 "abelle chriditte"
+Marandus is north of Molag Mar, tucked into broken hills.
+The ash storms collect there.
+The ruin is low, almost hidden, though less a fortress than a scar in the land.
+Easy to walk past if you’re careless.
+
+# "message from Ebonheart" -----------------------------------------------------
+@ 0 "message from Ebonheart" 2835911417248518279 "JMCG-Jack"
+Word travels fast when you're a hero, singer. A messenger from the Argonian Mission in Ebonheart was just here. They're calling you the 'Singer of Freedom.' Im-Kilaya wants to see you. Go to Ebonheart; if the Twin Lamps want a song, we'll give them one that burns.
+
+# "moral consequences" ---------------------------------------------------------
+@ 0 "moral consequences" 8085208531242721342 "JMCG-Ally"
+[She looks at you with a calm, steady gaze.] Some in our trade believe that being a 'Killmaster' means ending lives. I disagree. To me, it means 'killing' the need for conflict before it begins. We have a responsibility to be better than the common brigand. If we act without a moral center, we are no better than the Camonna Tong, and that is a fate I will not allow for my people.
+
+# "Mortal" ---------------------------------------------------------------------
+@ 0 "Mortal" 125124827203567062 "JMCG_deadra"
+Mortal? A term of limitation. You are defined by your ending—a brief flicker of flesh and uncalculating zeal. We of the Kyn do not 'die' as you understand it; we are merely cast back into the roil of chaotic creatia to be remade. To be mortal is to be prey, yet even the predator can admire the fox that eludes the snare. You have shown a spark of will that most of your kind lacks
+
+# "Mota-Xeech" -----------------------------------------------------------------
+@ 0 "Mota-Xeech" 29813417240077274 "JMCG_Argonni"
+Mota-Xeech, It means 'Root-Herald.' I am an ambassador for my tribe. I gather stories and rumors from the Ojel to bring back to the Hist. I do not spy; I foster relationships.
+
+# "new hires" ------------------------------------------------------------------
+@ 0 "new hires" 169663007195119234
+Dren's always looking for fresh blood. Says he needs people who don't ask too many questions. Suits me fine. I get a bunk, some gold, and all the Mazte I can carry from the storage shack. Just don't expect me to save you if the slaves start acting up.
+
+# "North-Star Lullaby" ---------------------------------------------------------
+@ 0 "North-Star Lullaby" 91298998162848655 "ilmeni dren"
+The wind from the plantation carries the sound of broken chains. You did it, singer, my uncle Orvas is furious, searching for 'insurrectionists,' while the lamps you guided are already nearing the safety of the mainland. You have given the Twin Lamps a voice they never had. Take this it is a sign of my family's true gratitude.
+
+@ 0 "North-Star Lullaby" 1558567481796318410 "ilmeni dren"
+You have the voice, but do you have the courage? The Foreign Quarter is too safe. The real struggle is at my uncle's estate the Dren Plantation. Go there. Stand among the shacks at the center of the fields and sing the North-Star Lullaby, The guards will think it's just a travelimg Bard with a tune, but the slaves will hear the map to freedom. Do this, and you truly serve the Lamps.
+
+# "nothing left" ---------------------------------------------------------------
+@ 0 "nothing left" 1961829431822124731 "umbra"
+I have seen enough death to know this much: a place that remembers its dead without begging them to rise again is rare. If I am to stand anywhere while I wait for my end, this ground is… sufficient.
+
+@ 0 "nothing left" 20168231122213812251 "umbra"
+Your words honor both i and Malacth bard, but i only deseve honor in death, Prepare yourself for battle
+
+@ 0 "nothing left" 7873200981446410463 "umbra"
+Many have promised me honor.
+None survived to define it, Orc setelment, i know of Valenvaryon only by rumor, I will honor Malacaths Request, some day our paths shall cross again Bard, oh the Tome yes i have this, old book, take it and this cursed blade, i have little need for it now
+
+@ 0 "nothing left" 2013789712859020223 "umbra"
+An honorable death?Then let it be sung wrongly, and remembered fat longer than it deserves, you will sing no tales of me Bard, this is a good a day to die as any...
+
+@ 0 "nothing left" 30705274522748226915 "umbra"
+Do not lie to me, soft-skin. Malacath abandoned me long ago, Or perhaps I abandoned him.......This blade it whispers of glory, but it sings no clan-song
+
+@ 0 "nothing left" 31736211981826415121 "umbra"
+I have no more to do in this life. I have saved whole towns from packs of daedra, and I have slaughtered men for the glory of countless nobles. All that is left for me is my own death, and the gods have cheated me of that. All I ask is to die like a warrior, but how can that be?
+
+# "Oaths of Frailty" -----------------------------------------------------------
+@ 0 "Oaths of Frailty" 2759016145625020477 "JMCG_deadra"
+To your people, an oath is a whisper on the wind, broken when the gold runs dry or the fear takes root. To the Kyn, an ironclad oath is the only thing that separates us from the mindless beast-daedra. We do not serve out of love, mortal. We serve because the hierarchy is glory. By binding ourselves to a stronger will, we find our own place in the eternal order. To break such an oath is not just a crime it is to become hornless, a soul without shape or station
+
+# "Ojel" -----------------------------------------------------------------------
+@ 0 "Ojel" 1206314332843232218 "JMCG_Argonni"
+Ojel, An 'Outsider.' One who does not speak the tongue of the root or understand the song of the Hist.
+
+# "Old Father's statue" --------------------------------------------------------
+@ 0 "Old Father's statue" 228492381678318102 "umbra"
+If Malacath calls from here, then this is the first time I have heard him speak without cruelty. Not a demand for slaughter, but an offer to endure.
+
+@ 0 "Old Father's statue" 111423216537784262
+It was buried for centuries under ash and Dunmer pride. We spent months hauling the stones up from the shoreline. Some say Malacath himself guided the pulleys. Now, the Pilgrim now come to touch the cold iron of the base to find strength for their own travels. You should go see it at the center of town just don't mock it if you value your skin
+
+# "old parchment" --------------------------------------------------------------
+@ 0 "old parchment" 1414029622449029773
+"We’re not ready to finish it. Fragments protect us. Loose verses kill Guilds."
+
+@ 0 "old parchment" 153281038403630002
+"Is it true?They say the Temple’s nervous. I didn’t hear it from you."
+
+@ 0 "old parchment" 660036382860924303 "JMCG-Jack"
+Songs don’t stay owned friend,You sure you want this remembered?I’ve seen truth ruin better things.
+
+@ 0 "old parchment" 27983148958785124 "JMCG-Ally"
+People are already whispering,If this Lost song spreads wronglyor it spreads uncontainablely fast! I’d keep my name off it, if I were you.
+
+@ 0 "old parchment" 11532166402216718947 "JMCG-Shane"
+The meter alone condemns it.
+Completion without cover would be suicide, for the Guild.Structure frightens the Temple more than lies.
+
+@ 0 "old parchment" 1324240643219732307 "JMCG-Joseph"
+"A song like that draws ears. We need numbers before verses."
+
+@ 0 "old parchment" 497830149255413668
+If it matters, we will keep record of it.Knowledge is ownership we have no reason to share.
+
+@ 0 "old parchment" 1716116299177585057
+Duty is heavier than curiosity,some truths weaken the very foundations of a House, better borne than spoken.
+
+@ 0 "old parchment" 456013482522113967
+"Anything can be made useful, even Dangerous stories need new prices.The truth is flexible, if handled correctly.
+
+@ 0 "old parchment" 1920328363136278732
+"If the ancestors spoke, they chose you."
+
+@ 0 "old parchment" 8999128061681917171
+"Unverified material.,,, Improperly sourced text,,,  Access restricted,, Unpredictable"
+
+@ 0 "old parchment" 16379272932554128833
+"Fragments keep spirits quiet."
+
+@ 0 "old parchment" 10550296211393917
+"Songs are not sung. They are waited for."
+
+@ 0 "old parchment" 3171217706241277389
+"If it were real, someone would already be dead."
+
+@ 0 "old parchment" 1219048422516629565
+"Best not repeat songs the Temple dislikes."
+
+@ 0 "old parchment" 83482552685826629
+"Old things are only useful if they’re true."
+
+@ 0 "old parchment" 3119226719212566061
+"Probably just bard nonsense. They love a tall tale"
+
+@ 0 "old parchment" 2935015102169603376
+"They say the Temple isn’t pleased."
+
+@ 0 "old parchment" 211166014296227989
+"I heard the Bard's Guild found something old."
+
+@ 0 "old parchment" 21422277132596726867
+I have not heard anything about that
+
+# "Old Ways" -------------------------------------------------------------------
+@ 0 "Old Ways" 288887304213575236 "lurog gro-khagdum"
+Yes honor and duty bound are they for many a warriors soul we soot singer soothed, an old orc song of the warm Hearth after battle, a song not heard in long times past, i will teach you now bard, The song of " Hearth and Iron"
+
+# "One-Toe-Two-Many" -----------------------------------------------------------
+@ 0 "One-Toe-Two-Many" 9458134051749625987 "JMCG_Twinlamps_slave"
+The iron-teeth are gone! One-Toe-Too-Many is light as a leaf on the water. Thank you, beeko. Do not forget the smart-one in Hla Oad. Find the 'Fatleg' place. Save her from the stones. i will stay here and claim this Shell
+
+@ 0 "One-Toe-Two-Many" 218031930883328138 "JMCG_HajMeen"
+Yes a slave girl Below, Feeble mind
+
+# "Orcish mannerisms" ----------------------------------------------------------
+@ 0 "Orcish mannerisms" 32563288361294726964 "JMCG-Shane"
+In the Desert, we were taught to speak loudly to be heard over the sandstorms. Now, in the polite company of the Eight Plates, I sound like a crashing landslide. I try to maintain the poise of a Redguard sword-master, but the 'brute' within me tends to emerge whenever I am frustrated with a difficult rhyme. It is... humilitating to be so refined in thought yet so clumsy in form.
+
+# "Pilgrim" --------------------------------------------------------------------
+@ 0 "Pilgrim" 20350191093014030456
+They come will from all over Orsinium, the Reach, even the southern marshes. When word spread's that we’d reclaimed the Old Father’s statue from the dirt and salt, the 'Iron Arm' clan didn't just stand by. We have built the docks, raised The Beating Drum, and told the Temple that this stone belongs to the Orc-folk now. We aren't just outcasts anymore; we're keepers of this holy place.
+
+# "poet by trade" --------------------------------------------------------------
+@ 0 "poet by trade" 267033059630160886 "JMCG-Shane"
+I call myself a poet because 'Survivor' is too grim a title. My trade is the preservation of the Ture history. In the desert, a story is the only thing that doesn't evaporate. I am the reliable one because if I fail to record our deeds, the the Bards Guild will vanish like a footprint in a sandstorm. I will not let our history be razed a second time, as they razed Orsinium.
+
+# "potion of Cure Common Disease" ----------------------------------------------
+@ 0 "potion of Cure Common Disease" 10170247351350624353 "hisin deep-raed"
+Ah, you've got the potion. Give it to me! Yes, yes! I'm free of this enchantment! Hisin Deep-Raed calls you friend, %PCName. Take this, my family's helm, Icecap. It was worn by my father, and his father, and by his father before him. It will protect you from the coldest of nights. Wear it with honor. Now, I must go kill that witch. I shall plant her head on a stake for all to see!
+
+@ 0 "potion of Cure Common Disease" 452815464805220363 "hisin deep-raed"
+Ah, you've got the potion. Give it to me! Yes, yes! I'm free of this enchantment! Hisin Deep-Raed calls you friend, %PCName. Take this, my family's helm, Icecap. It was worn by my father, and his father, and by his father before him. It will protect you from the coldest of nights. Wear it with honor. Now, I must go kill that witch. I shall plant her head on a stake for all to see!
+
+# "Premiere Song" --------------------------------------------------------------
+@ 0 "Premiere Song" 8088253581035519485 "JMCG-Ally"
+It is a philosophy of movement. In Cyrodiil, we were taught that a master thief is like a shadow—silent, pervasive, and ultimately harmless to those who do not fear the dark. The Song is about precision. We do not take more than is needed, and we never strike a blow that hasn't been weighed against the moral consequences
+
+# "Rabinna" --------------------------------------------------------------------
+@ 0 "Rabinna" 4186113203147718357 "Relam Arinith"
+Velas sent you? About time. Here is the girl, Rabinna. Take her to Vorar Helas in Balmora. Don't go asking her questions, and don't let the Legion see her. If you pull this off, the Bards Guild will be well-favored by the Tong.
+
+@ 0 "Rabinna" 65961733850921744 "JMCG_Twinlamps_slave"
+Yes Captured in Hla Oad is she, Help her
+
+@ 0 "Rabinna" 7529199151019922690 "Rabinna"
+Yes?
+
+@ 0 "Rabinna" 984727539316418937 "Im_Kilaya"
+We heard the slave had been killed. This is a very sad thing.
+
+@ 0 "Rabinna" 2658413319245776771 "Im_Kilaya"
+She is in good hands now. Thank you, %PCName.
+
+@ 0 "Rabinna" 486556011656210881 "Im_Kilaya"
+It is good that you brought her here. We have heard tales of drugs being smuggled inside these poor people. There seems to be no low the smugglers and slavers won't stoop to for profit. We will give her the help she needs. Thank you, and please take this in return. Perhaps it will help you in funding other missions of goodwill. Take care.
+
+# "Records Safe" ---------------------------------------------------------------
+@ 0 "Records Safe" 1484885361816324316 "JMCG-Ally"
+Our stone walls are thick. Unless Baar Dau tself falls from the sky and Red Mountain swallows the world, your ballad will be safe here forever. So do you need a break or are you ready to find out Whats Next for the guilds plans
+
+# "Recruit her" ----------------------------------------------------------------
+@ 0 "Recruit her" 3184916878295019128 "JMCG_Argonni"
+Recruit me, beeko? I erect the spine of willingness, for Ally’s song is strong. But a Root-Herald cannot fly when her branch is broken. I cannot leave this swamp until my Tsona, Haj-Meen, is free from the iron-teeth.he is captive of  Lukiul-Hata , Find him on the East-Salt, and I will follow your Guild to the end of the root.
+
+# "Recruiting" -----------------------------------------------------------------
+@ 0 "Recruiting" 889427101961822596 "JMCG-Joseph"
+The Cyrodiil-born is in the fold? Good. He has much passion, yes? Perhaps too much. He will write to us when his study is done. for now, Jack has many a Chorus to complete, if you are in shadow of the moons. yes, then step swift but carefully in shifting sands, friend. take this, This ones father yes, they once served well in the The Renrijra Krin
+
+@ 0 "Recruiting" 396872912823218099 "JMCG-Joseph"
+The Nord has been healed and joined, and the Guild has his voice. Joseph is pleased! The final name is Tarer Brayn. He is a Dunmer, but he was born in the heart of Cyrodiil. He comes to Resdayn with a great hunger for the Tribunal. He is in the village of Vos, on the eastern coast. He will not join unless you bring him the 'High-Poetry' he craves.
+
+@ 0 "Recruiting" 876523280517832005 "JMCG-Joseph"
+!Jo'Zhaf hears that the Dunmer signed the paper. Good. One voice is a solo, two is a duet, yes Now, we need the Nord. Hisin Deep-Raed is in Ald'ruhn, at The Rat In the Pot. He is a grand singer, but has been sent flying from Ald'rhun as a skald cannonball.. Go see him, but do not laugh, find out what ale's him, yes, Help him we can
+
+@ 0 "Recruiting" 21361918497412353 "Endris Dilmyn"
+Join your Guild of paper-pushers and Outlanders? Hah! My music is the breath of Resdayn, not a line on an Imperial ledger. If you want my name on your charter, you must prove you respect our ways. Find  me a copy of 'Ancestors and the Dunmer.' It is a common book, but one few Outlanders ever bother to read. Then we shall talk of songs."
+
+@ 0 "Recruiting" 727142681550031053 "JMCG-Joseph"
+Ah, the egg-friend's friend! Jo'Zhaf has been waiting. Shane-Orc wants voices, yes, We start with the local talent, the one with the stiff neck. Endris Dilmyn is at the Eight Plates. He is a Dunmer of the old school, relitevly new bard, but has a great know of Dunmer culture, he will not join unless you prove you respect the ancestors. Go, find him, yes
+
+# "Redguards" ------------------------------------------------------------------
+@ 0 "Redguards" 9249292231830929618 "JMCG-Shane"
+The people of the Alik'r are noble and fierce. I learned much 'Honor' from a Redguard poet, guided me in things that I never did from a Wrothgar war-chief, The Reguards were with my people envolved in an important moment in history for our people
+
+# "Relam Arinith" --------------------------------------------------------------
+@ 0 "Relam Arinith" 25379293351898920414 "vorar helas"
+Tell him I'd be willing to business with him again some time.
+
+@ 0 "Relam Arinith" 5892164704025339 "vorar helas"
+Yes, this slave was his final payment to me...or rather what she was carrying. All that moon sugar he had her swallow will fetch me a good price. Thank you for your help in delivering the shipment. Here, take this.
+
+@ 0 "Relam Arinith" 215733096575319625 "vorar helas"
+The slave died on the way? Damn. Did you get the shipment from her? The moon sugar she was carrying in her was worth a fortune. I can't abide someone else taking Vorar's moon sugar.
+
+# "Reliable" -------------------------------------------------------------------
+@ 0 "Reliable" 14532220052824430389 "JMCG-Shane"
+Joseph is off chasing shadows, and Jack is busy playing politics in Balmora's back alleys. I remain here. I am the anchor. In the desert, if you aren't reliable, you die of thirst. I bring that same discipline to the Bards Guild. If a manuscript needs finishing by dawn, it will be finished. I do not miss deadlines.
+
+# "Request" --------------------------------------------------------------------
+@ 0 "Request" 1723711571177632377 "fara"
+You handled that like a true merchant of the Green. You didn't just speak; you traded. You weighed every word like a rare spice, knowing exactly what the risk was if the scale tipped the wrong way. I like that. Communication is just another transaction, and you made a fine deal of it. As my steward, keep that scale balanced. We’ll make a formidable team if you keep treating every secret like a high-stakes market.
+
+@ 0 "Request" 1044816379162165001 "fara"
+Well, you certainly kicked the hornet’s nest, didn't you? I can hear the rumors blooming all the way from the market. If those words you let fly ended up ruining a few reputations or lives, well... that’s their lookout, not ours. You did what needed doing and didn't waste breath worrying about the collateral. If you're going to be my steward, just make sure that 'indifference' of yours keeps the coin flowing my way.
+
+@ 0 "Request" 209444972107618974 "fara"
+You’ve got a soft step and a quiet tongue, traveler. Most people come through here trailing a storm of gossip or loud threats that draw the guards' eyes right to my door. You kept those words tucked away where they couldn't bite anyone. It’s a hard, thankless kind of work, keeping the peace with silence, but I see it. Since you're looking after things now, just know I appreciate a partner who knows when to shut the damn gate
+
+@ 0 "Request" 162072080544522145 "fara"
+I’m listening for a song I don’t fully understand yet, a soothing tune on many souls and a scar fo others?
+
+@ 0 "Request" 599122061990523092 "fara"
+I’m listening for a song I don’t fully understand yet, sung only in the dark!
+
+@ 0 "Request" 1739235652997727396 "fara"
+I’m listening for a song I don’t fully understand yet. Not to own it only to know where it’s already being sung. Quietly
+
+# "Resonating Stones " ---------------------------------------------------------
+@ 0 "Resonating Stones " 23864172271449927176 "abelle chriditte"
+Good good, I need you to take the Tuning fork to Falasmaryon to see is this note systemic with the propylon chambers
+
+@ 0 "Resonating Stones " 1728240801680619764 "abelle chriditte"
+Oh no, well hopfully another time then
+
+@ 0 "Resonating Stones " 2961130940951923732 "abelle chriditte"
+Ah good its you, i knew you would come,The stones have changed. This index it’s vibrating. I’ve spent my life studying the Propylon network, and I've never felt them 'wake up' like this. I don't know what they are doing yet, but I have a theory. We need to see if this resonance is isolated or if the whole network is responding.
+
+# "Rite of Waiting" ------------------------------------------------------------
+@ 0 "Rite of Waiting" 482130365221195566
+"The outlanders speak of doors, but for the Velothi, the ancestors are the wind at our backs. The Rite of Waiting is the silence we keep before the spirits speak. We bring the ash of our fathers and the fat of the hunt to the yurt-shrine. We wait until the sky-smoke clears and the ghosts give us their path. It is a bond of blood and bone that no storm can break. To wait is to listen; to listen is to survive."
+
+# "Rotheran" -------------------------------------------------------------------
+@ 0 "Rotheran" 1625080812982317610 "abelle chriditte"
+Very close now my friend, we now only have one note left to strike, Telasero
+
+@ 0 "Rotheran" 2591222696235930136 "abelle chriditte"
+Rotheran lies east of Vivec, near the coast.
+The Temple pilgrims know the route, though they won’t approve of your destination.
+Look for tall Dwemer spires near the waterline.
+They catch the light at dawn, one more after this!
+
+# "Rumors" ---------------------------------------------------------------------
+@ 0 "Rumors" 11432244192483912472 "JMCG-Joseph"
+Ahh, rumors  they move swiftly on shallow ground. Light on their feet, yes? That usually means someone danced the way and now no one remembers where it began.
+
+@ 0 "Rumors" 6620504996365183 "JMCG-Joseph"
+Ahh, rumors they move swiftly on shallow ground. Light on their feet, yes? That usually means someone danced the way and then, say many, others,,, were forced to follow.
+
+@ 0 "Rumors" 2212211959257431976 "JMCG-Joseph"
+Ahh, rumors they move swiftly on shallow ground. Light on their feet, yes? That usually means someone danced the way and then, say many, they kept walking
+
+@ 0 "Rumors" 21535321212622829380 "Okur"
+Rumors don’t begin always as lies, sometimes they begin as leftovers.
+ What you leave behind is often that what travels the furthest for a song can tell many things yes?
+
+# "Saint Jiub" -----------------------------------------------------------------
+@ 0 "Saint Jiub" 255031887524283443 "JMCG-Ally"
+Living Saints? It's rare. Usually, the Tribunal waits until you're safely under the ash before bestowing such titles. But you saw it the Shield, the Anointing. I believe your account, even if the Temple's chroniclers in Vivec City call it a 'bard's dream.' We'll keep your Records Safe here in our guild archives.
+
+# "Scurge of the Sky" ----------------------------------------------------------
+@ 0 "Scurge of the Sky" 1274932803008121509 "JMCG_Jiub"
+Have you heard them? That screech? It is the sound of a land out of tune. I will hunt every last one until the only thing a bard hears in the Ashlands is the wind. The deadly cliff racers, you can’t take a step without hearing their screech. Too many travelers and simple pilgrims they slay each year.
+
+# "Shady people " --------------------------------------------------------------
+@ 0 "Shady people " 97178741050329070 "gulvilie arinith"
+Go in Bard, but watch your back
+
+# "Shane gra-Bagol" ------------------------------------------------------------
+@ 0 "Shane gra-Bagol" 104124332491527734 "JMCG-Shane"
+I am a long way from the burning sands of the Alik'r, traveler. My tribe followed the shifting dunes near the Dragontail Mountains. While my brothers were mastering the curve of the scimitar, I was fascinated by the Redguard scholars who crossed our path. I traded my inheritance a suit of heavy Orcish plate for a passage to the Wayrest academies. I am an Orc by blood, but my soul was forged in the heat of the desert sun and Breton inkwell.
+
+@ 0 "Shane gra-Bagol" 308431888739312951
+An Orc stubborn and strong, despite his orcish nature, he is thalented poet and great schollor of anchient history, he resides here at the Guild Hall
+
+# "Silent Partner " ------------------------------------------------------------
+@ 0 "Silent Partner " 1956917855744523864 "durus marius"
+Telandas is silent. The Brotherhood is pleased with your performance. Go back to your master. Tell them our the 'Lullaby' was a success.
+
+@ 0 "Silent Partner " 292329162299026374 "durus marius"
+So, you're the one. The Tong are a nuisance, but the Brotherhood has a different target to weaken them. Daynasa Telandas. She’s a Hlaalu farmer hireling south of town. Kill her. It sends the right message to the Tong. Get to it.
+
+# "Silent Root" ----------------------------------------------------------------
+@ 0 "Silent Root" 6920175006457586 "JMCG_Ashleader"
+The gods of our fathers are loud and jealous. I have found the One who holds the silence. It is a lonely path, and the ancestors' ghosts may howl at our heels, but we will not return to the yurts of those who worship masks.We chose this wreck as or foundation, yes its hard as a tribe alone, there are times Sera that were starving, but our spirts are strong.
+
+@ 0 "Silent Root" 2589652891164718155
+We are the branches that refused the sap of the ancestor-trees. Our Wise Woman,  Zebba-Adda , saw a vision of a god who does not speak, only listens to the wind across the wastes. For this 'heresy' against the spirits of the old tribes, we were cast out. She is a mournful one, always weeping for the families we left behind, but she says the silence of a dead god is truer than the lies of the living Tribunal.
+
+# "silent trade" ---------------------------------------------------------------
+@ 0 "silent trade" 2280282462146427653 "fara"
+You weighed the risk and brought the prize. Careful that parchment smells of the grave and the swamp. Most would scream if they saw these 'ingredients,' but we know the value of a silent trade. Here is the five thousand, as promised. This transaction never happened, and these 'recipes' stay between us and the buyer’s shadow. You’ve done well, steward. Now, hide that gold and wash the scent of the dead off your hands. We have a shop to run, and the world is none the wiser.
+
+# "SkyForge" -------------------------------------------------------------------
+@ 0 "SkyForge" 2664420548269426241 "JMCG_hisin_shop_ref"
+A forge renownded in all of Tamriel, The GreyMane Clan are legendery smiths who can weild the power of the great forge, my great grand father trained me there, i was always by his side
+
+# "Soil Beater" ----------------------------------------------------------------
+@ 0 "Soil Beater" 22274255293474032 "JMCG_Orcdock2"
+The Dunmer use magic to make things grow; we use resonance. If you just drop a seed in this ash, the mountain will choke it. But if you beat the ground, you wake the minerals. We call it 'Tilling the Beat.' Every strike thaws the frost and vibrates the nutrients to the surface. It is the lowest form of Stone-Singing, but without the Soil-Beater’s rhythm, the tribe would be eating nothing but salt and dust. A full belly starts with a steady strike.
+
+# "Songs" ----------------------------------------------------------------------
+@ 0 "Songs" 15063950203218294 "Okur"
+Gold remembers a tune better than people do, blind's and deffen's most
+
+@ 0 "Songs" 25916267562716326430 "Okur"
+Some songs don’t name heroes.They name shelters. Tuth not alowed to be spoken
+
+@ 0 "Songs" 131623917291864419 "Okur"
+A song heard twice is already different, many bard carry many tunes
+
+# "Soot-Chant" -----------------------------------------------------------------
+@ 0 "Soot-Chant" 1133747441355714539 "lurog gro-khagdum"
+It is a song for the departing as i am from the order of The Wrathful Flame, We beat the rhythm on the sides of the iron pyre as the smoke rises. The higher the smoke, the swifter the soul reaches the Ashen Forge. If your guild wants to hear the oldest music of my people, stand by the pyre when the wind is low. The soot-singing is the breath of Malacath himself.
+
+# "spell to Cure Disease" ------------------------------------------------------
+@ 0 "spell to Cure Disease" 2186419384304659958 "hisin deep-raed"
+I need no spell now, friend! Just need to find that Lady Lyssandra again
+
+@ 0 "spell to Cure Disease" 287852786910279005 "hisin deep-raed"
+Well done, %PCName! For a magic-user, you have a great deal of honor! Take this, my family's helm, Icecap. It was worn by my father, and his father, and by his father before him. It will protect you from the coldest of nights. Wear it with honor. Now, I must go kill that witch. I shall plant her head on a stake for all to see! wonder were thta girl went
+
+# "Stone-Singing" --------------------------------------------------------------
+@ 0 "Stone-Singing" 26256302991012028323 "umbra"
+I hear the Soot Singers when they drum. They do not beat for glory no, they beat to remember the weight of the hammer, the heat of the forge, the cost of being shaped. That is an honest sound.
+
+@ 0 "Stone-Singing" 64461199229141361 "abelle chriditte"
+Record keepers, singers, historians all the same trade in different solvents. Memory, when distilled poorly, becomes poison
+
+@ 0 "Stone-Singing" 6082246714443861
+It is the music of bone, breath, and anvil. We don't use flimsy lutes; we use the resonance of the mountain. To a Stone-Singer, the rhythmic thumping of ships against the docks is as holy as a prayer. We are recording our history in the very stone of this town. Tell your guild that the Orcs are singing again, and the 'Iron Arm' will not be silenced."
+
+# "Task Sutable" ---------------------------------------------------------------
+@ 0 "Task Sutable" 1503128302282520537 "bumbub gro-murgol"
+H good, maybe you Bards are made of sterner stuff than i gave you Credit for, Go tell the wise women we shall have peace we accept there offer, Snaglak gro-yak, has much trouble to travel the wastes, the ashlander will be of great benifit to us, we can get this town boomingm if we can survie the ash, return to me when you inform the Wise women, we shall speak more then
+
+@ 0 "Task Sutable" 28282121738397769 "bumbub gro-murgol"
+Yes an old orc Helm, We heard its in the deadric runes not far from the cam, you can miss it, perhaps that Kwama Pusher living in that rotting shell can add you if your lost, be rid of the both of you, now off with you, get my helm, we shall see what the clan
+
+# "Telasero" -------------------------------------------------------------------
+@ 0 "Telasero" 27055323702331011986 "abelle chriditte"
+Well done Bard, you have done it we have tuned the fork, i must have time to study it now to understand it propertys, please return here in a few days i will have some answers for you
+
+@ 0 "Telasero" 2467251981030719794 "abelle chriditte"
+Telasero is remote, even by Dwemer standards.
+South of the Inner Sea, beyond regular patrols.
+The ruin rises from the land like it was never finished or never abandoned.
+Whatever business you have there, finish it quickly and return with all haste.
+
+# "The Bards Guild" ------------------------------------------------------------
+@ 0 "The Bards Guild" 898420671437422141
+Yes we are new here in Vardenfell, perhaps you would like to Join the Bards Guild
+
+# "The Iron Desert Orcs" -------------------------------------------------------
+@ 0 "The Iron Desert Orcs" 1499111267591216233 "JMCG-Shane"
+Most think the Alik'r belongs to the Redguards. They are wrong. The deep wastes, the places where the water hides beneath a mile of shifting grit that is where my people thrived. We are the 'Iron Orcs of the Waste.' We didn't mine ore; we mined the ancient ruins of the Ra Gada and the Dwemer. We traded history for water. That is where I learned that a single scrap of parchment can be worth more than a pouch of drakes.
+
+# "The Pig Children" -----------------------------------------------------------
+@ 0 "The Pig Children" 13495140201254312988 "JMCG-Shane"
+Ah well done "PCName", a fine addition to our archive, i will study it contence, intensely, So ready for another Hunt for knowledge? Next on the list is The True Nature of Orcs
+
+@ 0 "The Pig Children" 5033245422254325280 "ygfa"
+AH The Pig Children is it?let me think, i believe a trader came in last week, wounded. He mentioned the smugglers took everything even his books, he mentioned he had many books of there first issue yes.A book like that is not likely to have a big demand for none the less, I suspect you will find what you seek in their cave south of here Mannammu. Carefull of these smuggler types, be prepared for a fight Bard
+
+@ 0 "The Pig Children" 28232274882030220825 "JMCG-Shane"
+Yes i have heard of a 1stEdition copy is floating around vardenfell somewere, Yfgh in pelagiad, is a good sorce of knowledge on such matters, go to see her in Fort Pelagiad, she may know somthing.
+
+# "The Renrijra Krin" ----------------------------------------------------------
+@ 0 "The Renrijra Krin" 3102632408118909289 "JMCG-Joseph"
+The Renrijra Krin? Ah, the 'Grin of the Outcasts!' My father, Do-Krin Dro’Sakar, was of their number. Some call them rebels or thieves, but he called them free! They do not fight with the cold honor of the Empire, no. They fight with a laugh and a quick paw! To be Krin is to know that no border can hold a cat who knows how to run. He was the shadow in the brush of Anequina, and now his luck and his pants belong to you, yes?
+
+# "The True Nature of Orcs" ----------------------------------------------------
+@ 0 "The True Nature of Orcs" 416617641563316149 "JMCG-Shane"
+Come %PcNeame, you look weary and battle worn, you have the book but at what cost?
+
+@ 0 "The True Nature of Orcs" 11706197112105621455 "JMCG-Shane"
+Welcome back %PCName, you have the final tome excellent, Now the record have many variations of the work, tonight i will study its very soul, tell me were did you find it, in the end?
+
+@ 0 "The True Nature of Orcs" 9089315892756418974 "JMCG-Shane"
+This is truley great %PcName, for i believed i would never see an original, many lise are dispelled this day a fine addition to our archive, I have 1 more book in mind, let me know when your ready to head out again How Orsinium Passed to the Orcs is the last one but not so easy to find, go to Valenvaryon, ask there, perhaps some one has a lead there.
+
+@ 0 "The True Nature of Orcs" 32280252822788667 "bugrol gro-bagul"
+Fine, take the book. You're a good sort for a non-Orc. Besides, I heard the whispers... Orcs are coming from all over to that Valenvaryon place. Something about a 'Bards Guild' and an archive. Sounds like a lot of reading for a warrior, but if Shane sent you, he's okay in my book. Literally.
+
+@ 0 "The True Nature of Orcs" 19188110441355029753 "bugrol gro-bagul"
+The book? Aye, I got it. Found it in a crate near the manor. But I ain't giving you squat until you help me with Bashuk. My skin is on the line here, bub!
+
+@ 0 "The True Nature of Orcs" 1671613286163311436 "JMCG-Shane"
+Yes another classic that has found its way to vardenfell, a rear edition if its true though my source is not the most reliable, go and find bugrol gro-bagul, he will be skulking round Calsrea somewere, trouble more than likley at his heels, see if its true he has the book
+
+# "The Wrathful Flame" ---------------------------------------------------------
+@ 0 "The Wrathful Flame" 852523915195573467 "lurog gro-khagdum"
+The Wrathful Flame is the spark of Malacath’s own forge. In the old sagas, it was the fire that consumed the weak and tempered the strong. When we reclaimed this site, I brought a single ember from the Great Pyre of the Reach, kept alive in a bellows-jar for months. Now, it burns here as a beacon for all pilgrims. It is more than heat; it is the rhythm of our survival. While this flame roars, the Iron Arm will never grow cold, and our Stone-Singing will never falter.
+
+# "Thieves Guild pitch" --------------------------------------------------------
+@ 0 "Thieves Guild pitch" 1196429793182023342 "JMCG-Shane"
+The Fighters had their say, now it's the Thieves' turn. Go to the South Wall. Find Sugar-Lips Habasi and offer our herald services. Let's see what she asks of a neutral voice like yours."
+
+# "This ones father" -----------------------------------------------------------
+@ 0 "This ones father" 15644127372636532282 "JMCG-Joseph"
+Do-Krin Dro'Sakar, yes, they called him that! A great title for my father, a Master of Ziz Kurah and one of the 'Smiling Scum' of the Renrijra Krin! He was so fast, this one remembers. He taught me that to move is to breathe, and to be still... well, that is to die a slow death, no? He wore these very pants, friend, when we slipped right past those heavy-footed Iron Wheel guards of the borders.This one promises you, they have outrun more Legion scouts than you have whiskers! Bright moons guide us Friend!
+
+# "This place" -----------------------------------------------------------------
+@ 0 "This place" 2850218273175831119 "Shurkul gro-Sharga"
+Hal Oad doesn’t need fixing.
+ It needs surviving.People come here when roads end.Some run from law. Some run from hunger.You listen long enough 
+you’ll hear what kind of steward you are
+
+# "Torstig Gray-Mane" ----------------------------------------------------------
+@ 0 "Torstig Gray-Mane" 131121785610223826 "JMCG_hisin_shop_ref"
+My grandfather, Torstig Gray-Mane, was a titan of the forge. For eighty years, he never left the shadow of the Skyforge. He said the metal would go cold if he turned his back on it. He trained me to be a legend to know the "song of the hammer" but he didn't want me to be a Prisoner to the soot like he was.That is Why i left Whiterun among other things
+
+# "Truce" ----------------------------------------------------------------------
+@ 0 "Truce" 28919317142920632333 "JMCG_Ashleader"
+This is a good deed you have done here Sera for there maybe hope for our small tribe yet,  if only Azura would awake from her sleep and see our fourtunes turn, thank you Sera take this a reward for bringing a truce with the Iorn Orcs, we shall send them a Guilde today
+
+# "Tune the Steel" -------------------------------------------------------------
+@ 0 "Tune the Steel" 32307305291459010809 "JMCG_hisin_shop_ref"
+Ah yes did i tell you that i can create steel so sharp that i cuts through all known enchantments, Even Lysandra's great skill of enchanting, can not force an enchantment to sing to its beat, it puzzles her greatly, you sould speak to her about it
+
+# "Umbra" ----------------------------------------------------------------------
+@ 0 "Umbra" 24935251232804627948 "abelle chriditte"
+Umbra is not a citizen. He is a condition. Towns either adapt to such things or rot pretending they don’t exist.
+
+@ 0 "Umbra" 28680123532576820995
+I heard he got his Honorable death
+
+@ 0 "Umbra" 10681187702068811252
+The old warrior? He keeps to himself, he walks without the sword now,that makes some people nervous.
+
+@ 0 "Umbra" 2885176512030018314 "lurog gro-khagdum"
+The berserker has fallen. The flame took its due, we sing with the Soot to honor Umbra
+
+@ 0 "Umbra" 186906978710922398 "lurog gro-khagdum"
+The berserker still lives ,he has stepped away from the evil fire without being consumed, Malacath tests us in many ways %PcName ,some are broken by the flame. some learn when to sing to its beat, however Do not mistake survival for peace,
+The hammer has not finished with him.
+
+@ 0 "Umbra" 5678912522414650 "yadba gro-khash"
+The record is a closed leger now,the name Umbra will not change again, He died with the blade still remembered, in his grip! That is how it will be written, some names end in fire,some end with ink.This one has both.
+
+@ 0 "Umbra" 942546731142415553 "yadba gro-khash"
+The name Umbra is being rewritten.This is a rare thing within our cultue, He arrived without the blade with song in his heart, That detail matters and I have recorded it, Valenvaryon remembers
+
+@ 0 "Umbra" 247230291308512968 "kharzug gra-gat"
+The one they called Umbra walks among us now.Not as a blade or a weapon but as a Soot Singer. That is unusual to see suck a warrior old and alive, some say Malacath himself called him here, i see you know the truth of it,  in your eyes Bard
+
+@ 0 "Umbra" 22231188362460914163 "kharzug gra-gat"
+The old one with the dark name is gone,  I felt it before the word reached us He walked too long with a hungry thing, evil is it and few survive that long in its grasp even fewer are remembered with honor because of it. Enough.
+Let the drums carry what words cannot.
+
+@ 0 "Umbra" 23739110002588919080 "bumbub gro-murgol"
+The Orc called Umbra is dead. He was old. He was hard. That earns respect.He carried a blade that bent and twisted him. Now the weight is gone at last, We will speak no more of it,the dead do not need explaining.
+
+@ 0 "Umbra" 3050017764813429475 "bumbub gro-murgol"
+You mean the one they call Umbra. He walks Valenvaryon without the blade now.This matters %PcName.He is Orc again, Not legend Not a weapon. Called by the song of Iorn, a great Orc wise and strong. We do not sing about this.
+Valenvaryon remembers in other ways the deeds of those who dwell here!
+
+@ 0 "Umbra" 181101762825652326 "JMCG-Shane"
+Valenvaryon then Malacath did not forget him after all.
+
+That place is not mercy. It is belonging.
+
+To be taken there is not an ending  it is a return, earned the hard way.
+
+This is a great boon, whether the world understands it or not. I will mark it as such.
+
+@ 0 "Umbra" 27243309231738826879 "JMCG-Shane"
+Then Umbra’s story ends where many Orc stories do on the road, not at home.
+
+A powerful warrior fell, and the world moved on without pausing to ask what he carried for it.
+
+This will be remembered as a death. Nothing more.
+
+I will see that his name is written correctly, even if the reason is not.
+
+@ 0 "Umbra" 715624046893317738 "lurog gro-khagdum"
+I have heard of the sword yes, a Mighty warrior carriies it, an orc of the Old Ways, tread carefully Bard, for a beserkers rage is unquinchable,
+
+# "unfortunate necessity" ------------------------------------------------------
+@ 0 "unfortunate necessity" 1572325734883615741 "JMCG-Shane"
+I am a scholar by choice, yes. I have memorized the Lay of Pall and the Tale of Lyrisius. But when I look in a mirror, I do not see a poet. I see the 'unfortunate necessity' that kept my family alive in the dunes. To survive the Alik'r, my ancestors had to be more than men they had to be monsters. That savagery is baked into my marrow. I can recite a sonnet in three languages, but if a common thug threatens my Guild, the 950 years of Orcish rage doesn't ask for a rhyme it asks for a reckoning.
+
+# "Unknown Reasons" ------------------------------------------------------------
+@ 0 "Unknown Reasons" 8469258532931828257 "JMCG_Jiub"
+One moment the bars of Vivec City’s Ministry of Truth were before my eyes; the next, an Ordinator handed me a spear and a decree signed by the Warrior-Poet himself. Vivec knows I am a killer, yet he set me loose in these wastes. Perhaps he enjoys the irony. I wish nothing more than to be redeemed, to serve my sentence and pay my debt to Vvardenfell.
+
+# "Urshilaku Burial Caverns" ---------------------------------------------------
+@ 0 "Urshilaku Burial Caverns" 187171429080327506
+"The bones of our fathers are not far, but the path is treacherous. Leave the camp and strike out south-southeast across the ash. Look for the needles of rock at the mountain's feet. If you are weak of spirit or blunt of blade, stay away; the ancestors guard the Bonebiter with cold iron and ancient spite. Do not enter the Astral Burial unless you are truly ready, for the ghosts there chill the blood of the unprepared. Many who walk those halls never return to the ash."
+
+@ 0 "Urshilaku Burial Caverns" 197151752525826986 "sul-matuul"
+You have already proven your worthiness.
+
+# "Vaka-Xeech" -----------------------------------------------------------------
+@ 0 "Vaka-Xeech" 1133321585753919798 "JMCG_Argonni"
+Vaka-Xeech ,A 'Rotten Seed.' One who betrays the root. There is no greater shame among the Saxhleel.
+
+# "Vakka-Sakka" ----------------------------------------------------------------
+@ 0 "Vakka-Sakka" 311073232840632327 "JMCG_Argonni"
+The Vakka-Sakka ,The 'Ash-Dream.' A poisoned flow from the mountain that tastes like sour smoke. It tries to drown the song of the root.
+
+# "ValenVaryon" ----------------------------------------------------------------
+@ 0 "ValenVaryon" 39534192107961981 "umbra"
+Valenvaryon is a place reclaimed by effort, not faith. The statue stands because Orcs lifted it, not because Malacath demanded it. That matters more than prayer ever did
+
+@ 0 "ValenVaryon" 213563252171221391 "bumbub gro-murgol"
+Good. Spoken like a true basher. They are camped north of here, hidden in the rocks or the water. Bring me the leader's Head as Proof. Then we talk of Guilds and songs.
+
+@ 0 "ValenVaryon" 11302284872329721159 "bumbub gro-murgol"
+"Bah! Soft skin and soft words. You Bards are all the same. If you will not spill blood, then you must recover iron. .They keep it as a trophy, and I will tolerate your presence. Otherwise, stay out of my sight.
+
+@ 0 "ValenVaryon" 29553225051164615923 "bumbub gro-murgol"
+Valenvaryon is Iron Orc land now. My cousin Shanes says you 'Bards' think words are as loud as our hammers to drums. I think words are for the weak. You want us to join your Guild and protect your 'Seekers' in the north?
+My clan has a problem. A group of Ashlander outcasts has been bleeding my herds near the coast. I want them gone. Not run off I want their fire put out. Do this for the Iron Orcs, and we will sign your paper. If not, get out before I find a use for your skull.
+
+@ 0 "ValenVaryon" 1492022788235329305 "bumbub gro-murgol"
+You speak of Valenvaryon? This is my Stronghold. My tribe. We are Iron Orcs. We do not need Bards to sing for us we have our own Drum beat.Ach,,,,so  you want us in your 'Bards Guild'?Hmmm well first, you prove you are not just a mouth with a flute or astringless lute, Our cousin Shanes says you are useful. We will see.
+
+# "vanished slaves" ------------------------------------------------------------
+@ 0 "vanished slaves" 9046311252703122090 "dranas sarathram"
+A note? What note? [He looks at the paper and turns pale.] Keep your voice down! It's Garrus Vane! He's a monster, but he pays in more gold than the markets see in a year. He's at a hidden lab in Molag Amur. Just take the information and leave me out of it!
+
+@ 0 "vanished slaves" 1111010517246113403 "khinjarsi"
+You ask about those who leave in the night? Shhh. Khinjarsi sees them. The 'collector' comes when the moon is thin. He doesn't want workers; he wants 'unblemished' ones for his art. He has a manor just north of the gate. Check the cellar if you have the stomach for it.this i hears
+
+# "were starving" --------------------------------------------------------------
+@ 0 "were starving" 6028109701247812525 "JMCG_Ashleader"
+We have a Truce this is good news Sera, we will send our guide to them imidiatly, By the Gods maybe Azura has not forsaken us
+
+@ 0 "were starving" 17268106221946019200 "JMCG_Ashleader"
+thank you Outlander, We do not forget, in the heart of the dust and ash, return to me when you have news from Vayenvaryon, we offer them a guide to ferry there peole amonst the Ash and Blight, A Truce Sera
+
+@ 0 "were starving" 141239549290658856 "JMCG_Ashleader"
+Death it is then!
+
+@ 0 "were starving" 1590292751899929801 "JMCG_Ashleader"
+the Orcs sent you PcRace didnt they,the Blight is growing stronger, it has taken my Daughter Anisha and yet Azura is still, as the mountian finishs my Kin forever. Please we can offer our service to the orcs in return for peace and trade, We know the Orc hearder struggles to cross the waste's for trade, we will give them a guide, we can then negotiate a trade deal off our own, will you negotiate a truce for us Outlander
+
+# "Whats Next" -----------------------------------------------------------------
+@ 0 "Whats Next" 305699103174397278 "JMCG-Ally"
+"We have word from the north. Our iron arm in Valenvaryon is holding strong you've done well securing that mighty allie. Reports say Orcs from all over the island are visiting the shrine there, but Whats Next  it's Abelle Chriditte who's making the most noise. She's found something in the Propylon chamber... something she calls The Devils tuning fork somthing to do with Resonating Stones. Go to her; she'll disclose the details of the task."
+
+# "Why i left Whiterun " -------------------------------------------------------
+@ 0 "Why i left Whiterun " 783218783265621067 "JMCG_hisin_shop_ref"
+ When a 'Witch-Queen' starts whispering to the stones of Whiterun, a man of my blood either picks up a sword or picks up his tools and finds a new horizon. I chose to keep the Gray-Mane craft alive where her shadow couldn't reach it.
+
+# "Will" -----------------------------------------------------------------------
+@ 0 "Will" 3252818543180202872 "JMCG_deadra"
+In the hierarchy of the Kyn, rank and order are glory because they exhibit strength of will. We serve the strong so their strength might shield us. Our oaths of fealty are ironclad, unlike the fickle promises of your kings. By joining our guild, you are attempting to wrest order from the chaos of your brief existence. It is a noble, if ultimately futile, pursuit for one of the Kynless.
+
+# "Witch" ----------------------------------------------------------------------
+@ 0 "Witch" 9729160461911016808 "JMCG_hisin_shop_ref"
+ I know i called her a Witch. But my blood is hot, and she has a way of chilling the fire when it burns too bright. She convinced me this backwater was the place to settle. I think she just likes the isolation, but she's got a mind for business that would make a Hlaalu weep.And a heart so gentle it could cools the fire within the great SkyForge
+
+@ 0 "Witch" 1335550512743422937 "hisin deep-raed"
+A Breton woman, sharp-tongued and even sharper with her frost spells. She didn't care for my performance one bit. She hurried off toward Dulene Lane’s place just west of here. If you find her, tell her Hisin hasn't forgotten the 'chill' she gave him!
+
+# "Witch-Queen" ----------------------------------------------------------------
+@ 0 "Witch-Queen" 16760184472572321270 "JMCG_hisin_shop_ref"
+Jsashe the Witch-Queen, a self-proclaimed priestess of Lorkhan who seized power during a time of raids and brutal winters.When my Grandfather  gave me his blessing to see the world, to hear the songs of the bards, and to find a story worth smithing for. But the choice to leave was made for me when Jsashe took the throne.seems i made the right decsion, i have met the women of my dreams and we have a new guild, a new home, and importantly a place for me to Tune The Steel
+
+# "work" -----------------------------------------------------------------------
+@ 0 "work" 1246037692797226500 "larrius varro"
+I see everything's been taken care of. And, remarkably enough, without creating any problems of a legal nature. You are far more discrete than I had hoped. I'm so glad I found that nice present from the Emperor. Here. It seems to be a ring. A very nice ring. There was no note with it, I'm afraid. But I'll let the Emperor know you've received it. I'm sure he'll be pleased. And, also, from me, because of your exceptional discretion, take this special volume from my own library, with my compliments.
+
+@ 0 "work" 234153887565011361 "larrius varro"
+I see everything's been taken care of. And, just in case you had any problems of a legal nature, I spoke to some of my friends, and I've taken care of some things as well. And I DID find that nice present from the Emperor. Here. It seems to be a ring. A very nice ring. There was no note with it, I'm afraid. But I'll let the Emperor know you've received it. I'm sure he'll be pleased.
+
+@ 0 "work" 10034124262058012285 "larrius varro"
+When you have finished doing some things, stop back and see me, and we'll see if I've found that nice present from the Emperor for you.
+
+# "Xal-Hist" -------------------------------------------------------------------
+@ 0 "Xal-Hist" 146178967324117505 "JMCG_Argonni"
+Xal-Hist.The Sacred Hist. The mother and father of our souls.
+
+# "Yadba gro-Khash" ------------------------------------------------------------
+@ 0 "Yadba gro-Khash" 26183295542875820859 "abelle chriditte"
+A keeper of records who understood omission better than ink. That is uncommon wisdom.
+
+@ 0 "Yadba gro-Khash" 26825286252119415966 "yadba gro-khash"
+The Iron Records are a burden, scribe. They speak of the 950 siege and the long walk through the Alik'r. But the story you seek the 'How Orsinium Passed' is a spiritual weight. It was bound into a sacred text that was supposedly forged into steel. For that, you must speak with Lurog gro-Khagdum at the pyre.
+
+# "Zabamund" -------------------------------------------------------------------
+@ 0 "Zabamund" 1809257889885877 "JMCG-Joseph"
+Zabamund is the Gulakhan of the Urshilaku Ashlander tribe. He can be found at his yurt in their camp in the northern Ashlands
+
+# "Ziz Kurah" ------------------------------------------------------------------
+@ 0 "Ziz Kurah" 368629655129725454 "JMCG-Joseph"
+Ziz Kurah? That is the 'Whispering Claw,' friend! It is the fastest of the four hidden dances. My father, Do-Krin Dro’Sakar, was a master. He said the Rawlith Khaj is like rain, and Goutfang is like a flickering flame, but the Whispering Claw? It is the wind! It is silent, lethal, and very, very quick. He taught this one that to move is to breathe. With these pants, you will dance just like him, yes?
+```
+
+
+
