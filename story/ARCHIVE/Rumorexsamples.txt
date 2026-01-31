@@ -1,0 +1,334 @@
+CORE TOPIC
+
+Topic: Lost Song
+(Never renamed. Only conditioned, gated, or reframed.)
+
+This topic always exists once the quest is complete.
+What changes is who is allowed to know which layer.
+
+KNOWLEDGE TIERS (what the world “knows”)
+Tier 0 — Ignorance / Background Noise
+
+NPCs: Commoners, guards, most traders
+State: Hearsay only
+
+“I heard the Guild found something old.”
+
+“They say there’s a song the Temple doesn’t like.”
+
+“Probably just another bard’s trick.”
+
+👉 No facts. No names. No danger.
+
+Tier 1 — Cultural Recognition
+
+NPCs: Khajiit traders, scholars, Ashlanders (non-initiates)
+State: Pattern recognition, not proof
+
+Derived from:
+
+“very old… speaks of the Hortator and the Three… called Apographa”
+
+“Some writings are older than the Temple admits.”
+
+“When a song mentions Nerevar, the Ordinators sharpen blades.”
+
+“Apographa brings trouble, even when true.”
+
+👉 Truth-adjacent, but cautious.
+
+Tier 2 — Ritual Knowledge
+
+NPCs: Ashlanders, Wise Women, mystics
+State: Spiritual framing
+
+Derived from:
+
+“We do not give our breath to those who cannot be still.”
+
+“Songs are not sung. They are waited for.”
+
+“If the spirits answered you, you were meant to hear it.”
+
+“Fragments are safer than verses.”
+
+👉 The song is real, but incomplete by design.
+
+Tier 3 — Scholarly Confirmation
+
+NPCs: Jobasha, Shane gra-Bagol, select mages
+State: Verified authenticity, high risk
+
+Derived from:
+
+“unmistakable archaic Chimeri Apographa… authentic… dangerous”
+
+“The meter alone condemns it.”
+
+“The Temple fears structure more than lies.”
+
+“Completion would require priests the Temple watches closely.”
+
+👉 This is the highest explicit truth the world admits.
+
+Tier 4 — Suppressed Truth (Player + Inner Guild)
+
+NPCs: Bard leadership, Dissident-aligned NPCs
+State: Strategic silence
+
+Derived from:
+
+“The Temple’s eyes are everywhere… We must be patient.”
+
+“The song can pacify the sleeper — or shatter the soul.”
+
+“Finishing it too early would destroy the Guild.”
+
+“The chorus must grow before the final verse.”
+
+👉 This tier never leaks into rumors directly.
+
+MORAL PATH ECHOES (how NPCs interpret it)
+
+These do not change the topic, only the tone.
+
+Containment (Good)
+
+“Some truths must be carried quietly.”
+
+“A song can heal if sung at the right time.”
+
+Distortion (Myth)
+
+“Maybe the song never existed whole.”
+
+“Maybe the danger is the point.”
+
+Contamination (Bad)
+
+“Why hide it? Let the Temple choke on it.”
+
+“If it breaks the world, it deserved breaking.”
+
+FAILURE & SKILL GATING (engine-native)
+
+Using your system:
+
+Speechcraft / Sneak / Personality
+
+Success → NPC advances one knowledge tier
+
+Failure → NPC deflects into rumor or fear
+
+Rumors as failure buffer
+
+Failed truth attempt does not hard-fail
+
+Instead seeds false but plausible versions
+
+Example:
+
+“I heard the song puts sleepers to rest forever.”
+(Danger inflated, truth distorted)
+
+WHY THIS WORKS (design lock)
+
+✔ One topic (Lost Song)
+
+✔ Many reactions
+
+✔ No globals required
+
+✔ Native CS-friendly
+
+✔ Lua-enhanceable but not Lua-dependent
+
+✔ Scales to late-game reveal without retcon
+
+This is exactly how Morrowind itself handles the Nerevarine —
+you’ve just formalized it into a reusable system.
+
+TOPIC ROOT
+
+Topic: Lost Song
+
+TIER 0 — COMMON RUMOR
+
+Classes / NPCs
+
+Commoners
+
+Guards
+
+Traders
+
+Dockworkers
+
+Branches
+
+Heard something old
+
+Temple unhappy
+
+Probably nonsense
+
+TIER 1 — FACTION RUMOR
+
+Classes / NPCs
+
+Thieves Guild
+
+Fighters Guild
+
+Low-rank Hlaalu
+
+Caravan merchants
+
+Branches
+
+Valuable if real
+
+Dangerous to repeat
+
+Worth keeping quiet
+
+TIER 2 — RITUAL / MYTH
+
+Classes / NPCs
+
+Ashlanders
+
+Wise Women
+
+Nomads
+
+Mystics
+
+Branches
+
+Song must be waited for
+
+Fragments only
+
+Spirits decide
+
+Lying → silence / dismissal
+
+Myth claim → caution
+
+Truth → guarded respect
+
+TIER 3 — WORLDLY DISTORTION
+House Hlaalu
+
+Classes / NPCs
+
+Councilors
+
+Merchants
+
+Agents
+
+Branches
+
+Can be leveraged
+
+Dangerous liability
+
+Needs reframing
+
+Lying → interest
+
+Truth → suppression
+
+Myth → marketable story
+
+House Redoran
+
+Classes / NPCs
+
+Warriors
+
+Officers
+
+Council retainers
+
+Branches
+
+Not our concern
+
+Duty before truth
+
+Better left unsaid
+
+Lying → rebuke
+
+Truth → silence
+
+Myth → honorable distance
+
+Mages Guild
+
+Classes / NPCs
+
+Scholars
+
+Enchanters
+
+Branches
+
+Unverified
+
+Improperly sourced
+
+Archive restricted
+
+Telvanni
+
+Classes / NPCs
+
+Wizards
+
+Retainers
+
+Branches
+
+Personal interest only
+
+Knowledge is power
+
+Not to be shared
+
+TIER 4 — SUPPRESSED TRUTH (NO RUMORS)
+
+Classes / NPCs
+
+Bard leadership
+
+Dissident-aligned
+
+Inner Circle
+
+Branches
+
+Too dangerous now
+
+Chorus must grow
+
+Wait before final verse
+
+SPECIAL FACTIONS (SIDE REACTIONS)
+
+Blades → observation only
+
+Morag Tong → irrelevant unless contracted
+
+Thieves Guild (high rank) → selective silence
+
+If you want next:
+
+Exact CS conditions shorthand
+
+Lie / Truth / Myth flags per branch
+
+Greeting vs Topic split

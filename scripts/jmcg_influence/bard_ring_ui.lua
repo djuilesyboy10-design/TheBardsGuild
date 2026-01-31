@@ -1,0 +1,69 @@
+local ui = require('openmw.ui')
+local util = require('openmw.util')
+local I = require('openmw.interfaces')
+
+local hud
+local RING_SIZE = 64  -- half of native 128
+local lastValue = -1
+
+local function draw(progress)
+    if hud then hud:destroy() end
+
+    hud = ui.create {
+        layer = 'Notification',
+        type = ui.TYPE.Widget,
+        props = {
+            -- Top-right, safely inset
+            relativePosition = util.vector2(0.94, 0.06),
+            anchor = util.vector2(0.5, 0.5),
+            size = util.vector2(RING_SIZE, RING_SIZE),
+        },
+        content = ui.content({
+
+            -- Ring image
+            {
+                type = ui.TYPE.Image,
+                props = {
+                    size = util.vector2(RING_SIZE, RING_SIZE),
+                    resource = ui.texture {
+                        path = 'textures/bard_ring.png' -- your 128px PNG
+                    }
+                }
+            },
+
+            -- Centered percentage
+            {
+                type = ui.TYPE.Text,
+                props = {
+                    text = string.format("%d%%", progress),
+                    textSize = 16,
+                    textColor = util.color.rgb(0.95, 0.9, 0.7),
+                    relativePosition = util.vector2(0.5, 0.5),
+                    anchor = util.vector2(0.5, 0.5),
+                }
+            }
+
+        })
+    }
+end
+
+return {
+    eventHandlers = {
+        JMCG_BardInfluence_Update = function(value)
+            if value ~= lastValue then
+                draw(value)
+                lastValue = value
+            end
+        end
+    },
+    engineHandlers = {
+        onLoad = function()
+            -- Initialize with current value on load
+            if I.JMCG_QuestData then
+                local currentValue = I.JMCG_QuestData.getMeterNumber() or 0
+                draw(currentValue)
+                lastValue = currentValue
+            end
+        end
+    }
+}

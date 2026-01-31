@@ -1,0 +1,115 @@
+publican:
+  - pool:
+      - prefix: Comments_Publican_%PerfImpr_%PerfQual
+        weight: 20
+      - prefix: Comments_Publican_%PerfImpr_%PerfQual_%NPCRace
+        weight: 10
+      - pool: # Regional comments
+          - prefix: Comments_Publican_%PerfQual_%CellRegion
+            weight: 4
+          - prefix: Comments_Publican_%PerfQual_%CellDistrict
+            weight: 3
+          - prefix: Comments_Publican_%PerfQual_%CellTerritory
+            weight: 2
+          - prefix: Comments_Publican_%PerfQual_%CellProvince
+            weight: 1
+        weight: 10
+      # Weather-specific comments
+      - prefix: Comments_Publican_%PerfQual_Clear
+        criteria:
+          weather: Clear
+        weight: 3
+      - prefix: Comments_Publican_%PerfQual_Cloudy
+        criteria:
+          weather: Cloudy
+        weight: 3
+      - prefix: Comments_Publican_%PerfQual_Foggy
+        criteria:
+          weather: Foggy
+        weight: 3
+      - prefix: Comments_Publican_%PerfQual_Overcast
+        criteria:
+          weather: Overcast
+        weight: 5
+      - prefix: Comments_Publican_%PerfQual_Rain
+        criteria:
+          weather: Rain
+        weight: 7.5
+      - prefix: Comments_Publican_%PerfQual_Snow
+        criteria:
+          weather: Snow
+        weight: 10
+      - prefix: Comments_Publican_%PerfQual_Ash
+        criteria:
+          weather: Ash
+        weight: 10
+      - prefix: Comments_Publican_%PerfQual_Thunder
+        criteria:
+          weather: Thunder
+        weight: 15
+      - prefix: Comments_Publican_%PerfQual_Blizzard
+        criteria:
+          weather: Blizzard
+        weight: 15
+      - prefix: Comments_Publican_%PerfQual_Blight
+        criteria:
+          weather: Blight
+        weight: 20
+
+patron:
+  - pool:
+      - prefix: Comments_Patron_%PerfQual
+        weight: 20
+      - prefix: Comments_Patron_%PerfQual_%NPCRace
+        weight: 10
+      - pool: # Regional comments
+          - prefix: Comments_Patron_%PerfQual_%CellRegion
+            weight: 1
+          - prefix: Comments_Patron_%PerfQual_%CellDistrict
+            weight: 1
+          - prefix: Comments_Patron_%PerfQual_%CellTerritory
+            weight: 1
+          - prefix: Comments_Patron_%PerfQual_%CellProvince
+            weight: 1
+        weight: 7.5
+      # Weather-specific comments
+      - prefix: Comments_Patron_%PerfQual_Clear
+        criteria:
+          weather: Clear
+        weight: 3
+      - prefix: Comments_Patron_%PerfQual_Cloudy
+        criteria:
+          weather: Cloudy
+        weight: 3
+      - prefix: Comments_Patron_%PerfQual_Foggy
+        criteria:
+          weather: Foggy
+        weight: 3
+      - prefix: Comments_Patron_%PerfQual_Overcast
+        criteria:
+          weather: Overcast
+        weight: 5
+      - prefix: Comments_Patron_%PerfQual_Rain
+        criteria:
+          weather: Rain
+        weight: 7.5
+      - prefix: Comments_Patron_%PerfQual_Snow
+        criteria:
+          weather: Snow
+        weight: 10
+      - prefix: Comments_Patron_%PerfQual_Ash
+        criteria:
+          weather: Ash
+        weight: 10
+      - prefix: Comments_Patron_%PerfQual_Thunder
+        criteria:
+          weather: Thunder
+        weight: 15
+      - prefix: Comments_Patron_%PerfQual_Blizzard
+        criteria:
+          weather: Blizzard
+        weight: 15
+      - prefix: Comments_Patron_%PerfQual_Blight
+        criteria:
+          weather: Blight
+        weight: 20

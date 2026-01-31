@@ -1,0 +1,272 @@
+1. The Three Ways Words Harm
+
+(Pure speech puzzle, no objects)
+
+Core idea:
+The player is told a story or accusation. They must respond in one of three ways of speaking, not three opinions.
+
+The riddle is not what is true, but how to say something.
+
+Framework:
+
+NPC asks: “If a lie saves a village but ruins a name, what do you call it?”
+
+Player must answer in:
+
+Containment → softening, deflection, silence, delay
+
+Distortion → reframing, poetic truth, half-truth
+
+Contamination → blunt naming, exposure, weaponized truth
+
+Puzzle angle:
+
+The “correct” answer depends on who is listening.
+
+Saying the same words to a different NPC later has a different outcome.
+
+This teaches the player:
+
+Speech is not about truth. It is about damage radius.
+
+2. The Locked Mouth
+
+(Riddle where silence is an option)
+
+Core idea:
+A question is posed that cannot be safely answered.
+
+The puzzle is realizing that not answering is the answer.
+
+Framework:
+
+NPC says: “Tell me the name of the one who sang first.”
+
+Dialogue options include:
+
+Naming a myth
+
+Naming a god
+
+Naming a mortal
+
+Refusing / redirecting / asking a question back
+
+Puzzle logic:
+
+Any direct answer causes harm (quest flags worsen).
+
+Only indirect speech (“Names rot when spoken”) advances safely.
+
+This aligns perfectly with your theme:
+
+Some words should not survive being said.
+
+3. The Borrowed Voice
+
+(Player speaks as someone else)
+
+Core idea:
+The player must deliver a message without owning it.
+
+Framework:
+
+Player is given a phrase and told:
+
+“Say this, but do not make it yours.”
+
+Dialogue options change tone:
+
+Quoted speech
+
+Rumor speech (“It’s said that…”)
+
+Song / proverb
+
+Personal declaration
+
+Puzzle layer:
+
+The content stays the same.
+
+Only ownership changes the outcome.
+
+Failure condition:
+
+Taking credit or speaking directly triggers backlash.
+
+This reinforces Bard doctrine:
+
+Ownership of words is heavier than truth.
+
+4. The Audience Test
+
+(Same riddle, multiple listeners)
+
+Core idea:
+The puzzle is not the answer — it’s who hears it.
+
+Framework:
+
+Player must answer a riddle three times:
+
+To a child
+
+To an elder
+
+To an official
+
+Each time:
+
+Same question
+
+Different safe answer
+
+Example prompt:
+
+“Why did the song end?”
+
+Correct logic:
+
+Child → comfort
+
+Elder → memory
+
+Official → record / control
+
+Failing means social consequences, not combat.
+
+5. The Word That Moves
+
+(Spatial speech puzzle)
+
+Core idea:
+Where you stand determines what words mean.
+
+Framework:
+
+NPC tells player:
+
+“Speak the answer, but not here.”
+
+Player must:
+
+Step closer
+
+Step away
+
+Turn their back
+
+Leave the room and return
+
+Dialogue options remain identical, but outcomes change.
+
+This mirrors your spatial sound ideas:
+
+Words come from places, not mouths.
+
+6. The False Choice
+
+(All answers are wrong — except why)
+
+Core idea:
+The NPC presents three answers — all flawed.
+
+The puzzle is:
+
+Calling out the structure of the question.
+
+Framework:
+
+NPC: “Which of these is the true song?”
+
+“The one remembered”
+
+“The one recorded”
+
+“The one sung last”
+
+Hidden correct response:
+
+“Songs don’t survive by being true.”
+
+This advances the quest only if the player refuses the premise.
+
+7. The Stolen Ending
+
+(Player must finish a story incorrectly)
+
+Core idea:
+The NPC tells a well-known myth — but stops before the end.
+
+Framework:
+
+Player is expected to:
+
+Finish it “wrong”
+
+Or change the ending to prevent harm
+
+Puzzle:
+
+Correct choice is the one that prevents the story from functioning as propaganda.
+
+This ties directly into:
+
+Mora’s desire for closed records
+
+Your archive-vs-chorus theme
+
+8. The Echo Test
+
+(Delayed consequence speech puzzle)
+
+Core idea:
+The riddle resolves later, not immediately.
+
+Framework:
+
+Player answers a riddle.
+
+NPC reacts neutrally.
+
+Hours or quests later:
+
+Someone repeats the player’s words back at them
+
+Slightly changed
+
+The puzzle:
+
+Did the words survive distortion?
+
+Success is measured by:
+
+How little damage the echo does.
+
+How this fits your system perfectly
+
+All of these:
+
+Work with journal-only morality
+
+Require no scripting
+
+Scale across races and institutions
+
+Reinforce Bard ≠ Mage ≠ Priest
+
+And most importantly:
+
+They teach the player how your world thinks
+before they ever see the mechanics.
+
+Next step when you’re ready:
+
+Pick one framework
+
+Decide who controls the question
+
+Decide who pays the price
+
+Say the word and we’ll crystallize one into an actual in-game riddle with dialogue branches

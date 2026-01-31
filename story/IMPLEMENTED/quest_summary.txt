@@ -1,0 +1,23 @@
+JMCG_Thieves_Lore /7 stages / 100 /The Undercover Act:2
+JMCG_Ablle / 4 stages / 100 / The Vibbratting earth
+JMCG_AshSinger_Echo /6 stages /60 /The Ash Singers Echo
+JMCG_Ballad /3 stage /100 /St Jiubs Ballad
+JMCG_Daisy_Lore /9 stage /110/ The Silent Melody
+JMCG_Guide  /1 stages / 10 / The AshLander Guide
+JMCG_Hist_Lore / 7stages / 100 / The Memory of Sap
+JMCG_Imperial_Buisness / 8 stages / 115/ The Undercover Act:1
+JMCG_Orc_Diplomacy  / 5 stages / 100 / Orc Diplomancy
+JMCG_Path_Bad / 1 stage / 10 / Slaving all day
+JMCG_Path_Good / 1 stage / 10 / The Aboloutionist
+JMCG_Recruitment / 12 stages / 100 / Recruitment Drive
+JMCG_Shane_Lore / 4 stages / 100 /  The Pig Children.
+JMCG_Shane_Lore_1 / 4 stages / 100 / Orc true nature?
+JMCG_Shane_Lore_2 / 5 stages / 60 / Nature of Honor
+JMCG_The_Chroniclers_Saint / 9 stages / the War of the Sky's
+JMCG_The_Family_Ties / 3 stages / 100 / Family Ties
+JMCG_Tong_Dirge / 5 stages / 100 / The Shadow’s Duet
+JMCG_Twin_Lamps_Hymn / 5 stages / 100 / Song's of Freedom
+The Bard's Guild /  6 stages / 130 / The New Bards Guild
+JMCG_Tuning_Master / 10 stages / 100 / The Devils Tuning Fork
+JMCG_Taver_HalOad  / 4  stages /no complete rumour set up/ Sweet little lies, Tell me
+Jmcg_Joseph_lore  /  5 stages/ 100/ Crossed Chourds
