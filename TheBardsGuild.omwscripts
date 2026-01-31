@@ -1,41 +1,33 @@
-GLOBAL: scripts/mytravel/global.lua
-GLOBAL: scripts/mytravel/teleport_executor.lua
-GLOBAL: scripts/engine/ballad_probe.lua
-GLOBAL: scripts/engine/ballad_gate.lua
-GLOBAL: scripts/engine/ballad_event.lua
-GLOBAL: scripts/engine/ballad_cell_trigger.lua
-GLOBAL: scripts/engine/effect_handler.lua
-GLOBAL: scripts/engine/effect_hook.lua
+GLOBAL: scripts/universal_travel/ut_global.lua
+GLOBAL: scripts/engine/framework/universal_trigger.lua
+GLOBAL: scripts/engine/framework/click_activator/click_activator.lua
 GLOBAL: scripts/secd/sced.lua
 GLOBAL: scripts/herbalism/herbalish_g.lua
-GLOBAL: scripts/engine/performance_event_final.lua
-GLOBAL: scripts/engine/performance_test_fixed.lua
-GLOBAL: scripts/engine/bard_performance_global_detector.lua
 
-PLAYER: scripts/engine/ballad_event_listener.lua
-PLAYER: scripts/skill/bard_skill.lua
+PLAYER: scripts/engine/plugins/bard_class/bard_class_event_listener.lua
+PLAYER: scripts/engine/plugins/merchant_class/merchant_class_event_listener.lua
+PLAYER: scripts/engine/plugins/smith_class/smith_class_event_listener.lua
+PLAYER: scripts/engine/plugins/noble_class/noble_class_event_listener.lua
+PLAYER: scripts/engine/plugins/guard_class/guard_class_event_listener.lua
+PLAYER: scripts/engine/plugins/publican_class/publican_class_event_listener.lua
+PLAYER: scripts/engine/plugins/perk_trigger/perk_trigger_event_listener.lua
+PLAYER: scripts/engine/framework/click_activator/click_activator_player.lua
+PLAYER: scripts/engine/framework/effects/effect_modules/reputation_effects.lua
+PLAYER: scripts/skill/statswindow_bard_enable.lua
+PLAYER: scripts/skill/statswindow_bard.lua
 PLAYER: scripts/skill/bard_perks.lua
-PLAYER: scripts/mytravel/quest_sync.lua
-PLAYER: scripts/mytravel/jmcg_tuning_master_progress.lua
-PLAYER: scripts/mytravel/player_storage.lua
-PLAYER: scripts/mytravel/player.lua     
+PLAYER: scripts/universal_travel/ut_player.lua
 PLAYER: scripts/jmcg_Influence/Quest_Logic.lua
 PLAYER: scripts/jmcg_Influence/bard_controller.lua
 PLAYER: scripts/jmcg_Influence/bard_ring_ui.lua
 PLAYER: scripts/patchs/bards_questpat.lua
 PLAYER: scripts/herbalism/herbalish_p.lua
 PLAYER: scripts/herbalism/herbalish_alchemy.lua
-PLAYER: scripts/Utility/npc_detector.lua
-PLAYER: scripts/Utility/performance_console_working.lua
-PLAYER: scripts/Utility/performance_menu_simple.lua
+PLAYER: scripts/skill/bard_skill_final.lua
 PLAYER: scripts/Dialogue/bard_performance_dialogue.lua
 PLAYER: scripts/Dialogue/bard_performance_dynamic.lua
-PLAYER: scripts/UI/bard_performance_ui_menu.lua
-PLAYER: scripts/UI/bard_performance_universal_menu.lua
-PLAYER: scripts/UI/bard_performance_activation_hook.lua
-PLAYER: scripts/UI/bard_performance_sunsduck_pattern.lua
-PLAYER: scripts/Skill/bard_skill_final.lua
-
+PLAYER: scripts/Utility/performance_console_working.lua
+PLAYER: scripts/Utility/performance_menu_simple.lua
 
 
 
