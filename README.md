@@ -1,6 +1,6 @@
-# OpenMW Mods Collection
+# Universal Framework - Professional OpenMW Modding
 
-A collection of high-quality, independently functional mods for OpenMW.
+A clean, professional framework for OpenMW modding with modular, independently functional systems.
 
 ## 🎯 Featured Mods
 
@@ -29,24 +29,22 @@ PLAYER: scripts/who_knocked/dialogue_data.lua
 **Components:**
 - **Click Activator Framework** - Revolutionary NPC interaction system
 - **Universal Trigger System** - Event-driven architecture
-- **Dialogue Cooldown Manager** - S3-powered reputation system
-
-### Additional Mods
-- **Skill System** - Advanced skill implementations
-- **Herbalism** - Plant gathering and alchemy enhancements
-- **JMCG Influence** - Quest progression tracking
+- **Effects Engine** - Modular perk and reputation systems
+- **Class System Framework** - Extensible class-based gameplay
 
 ## 📁 File Structure
 
 ```
 scripts/
 ├── who_knocked/           # Interactive door system
-├── engine/                # Universal framework
-│   ├── framework/         # Core systems
-│   └── dialogue/          # Dialogue management
-├── skill/                 # Skill systems
-├── herbalism/             # Herbalism mod
-└── jmcg_influence/        # Influence tracking
+└── engine/                # Universal framework
+    ├── framework/         # Core systems
+    │   ├── click_activator/
+    │   ├── effects/
+    │   ├── universal_trigger/
+    │   └── universal_menu/
+    ├── dialogue/          # Dialogue management
+    └── plugins/           # Extensible class systems
 ```
 
 ## 🚀 Installation
@@ -62,6 +60,7 @@ scripts/
 - **Professional Architecture** - Clean, maintainable code
 - **Event-Driven** - No polling, instant response
 - **Vanilla Compatible** - Seamless integration
+- **Modular Design** - Use only what you need
 
 ## 📝 Requirements
 
@@ -69,6 +68,10 @@ scripts/
 - Lua scripting support enabled
 - S3 Framework (optional, enhances functionality)
 
+## 🏆 Elite Quality
+
+Built with professional standards and attention to detail. This framework represents the cutting edge of OpenMW modding technology.
+
 ---
 
-**Quality mods for the OpenMW community - built with professional standards and attention to detail.**
+**Professional OpenMW modding framework - designed for elite modders, accessible to everyone.**
