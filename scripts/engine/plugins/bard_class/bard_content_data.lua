@@ -7,28 +7,37 @@ local bardContent = {
         title = "Tales of the Land",
         content = [[
 The ancient art of Bard Lore speaks of heroes long past,
-Their songs and stories echoing through time.
-Each verse a treasure, each melody a key,
-To unlock the mysteries of history's grand design.
+you know, their songs and stories echo through time.
+
+Each verse is really a treasure,
+each melody like a key,
+to unlock the mysteries of history's grand design.
 
 From tavern halls to castle courts so grand,
-The bards weave tales across the land.
-Their words carry power, their music brings peace,
-A legacy that will never cease.
+bards weave these tales across the land.
+
+Their words carry real power,
+their music brings peace to troubled hearts,
+a legacy that will never cease, you see?
 ]]
     },
     [2] = {
         title = "Melodies of Morrowind",
         content = [[
 In Morrowind's land where ash falls gray,
-The bards sing songs of olden day.
-Of heroes brave and dragons old,
-Of stories worth more than gold.
+you know, the bards sing songs of olden days.
 
-From Red Mountain to the sea,
-Their melodies float wild and free.
-Each note a memory, each chord a tale,
-Where magic and reality prevail.
+They tell of heroes brave and dragons old,
+of stories worth more than gold, really.
+
+From Red Mountain all the way to the sea,
+their melodies float wild and free, you see?
+
+Each note is a memory, each chord a tale,
+where magic and reality seem to prevail.
+
+It's amazing how these old songs still resonate,
+even after all these years, don't you think?
 ]]
     },
     [3] = {
@@ -69,7 +78,7 @@ To learn the power of sound and emotion.
         title = "Wisdom in Silence",
         content = [[
 Sometimes the wisest words are none,
-Sometimes the best path left unrun.
+Sometimes the best path left unturned.
 The bards know this secret well,
 That silence too can cast a spell.
 

@@ -3,7 +3,7 @@
 -- Processes and executes all effect types for the dialogue system
 
 local weatherEffects = require("scripts.engine.framework.effects.effect_modules.weather_effects")
-local reputationEffects = require("scripts.engine.framework.effects.effect_modules.reputation_effects")
+local reputationEffects = require("scripts.engine.framework.effects.effect_modules.reputation_effects").interface
 
 local M = {}
 

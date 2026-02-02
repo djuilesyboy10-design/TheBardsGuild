@@ -7,27 +7,27 @@ local guardContent = {
         content = [[
 *The guard scans the area with practiced eyes*
 
-Security here is... manageable.
-Most days it's quiet, just the usual rabble.
+Security in Balmora is... manageable.
+Most days it's quiet, just the usual river traffic.
 But nights bring out the desperate ones.
 
-We've had some trouble near the docks,
-smugglers trying to move goods without Imperial tax.
-A few knife fights in the alleyways,
-nothing the Legion can't handle.
+We've had some trouble near the silt strider port,
+smugglers trying to move goods without Hlaalu tax.
+A few knife fights in the alleyways behind the council halls,
+nothing the Hlaalu guards can't handle.
 
 The real problems?
-Those you don't see.
-The ones who move in shadows,
-who deal in things better left buried.
+Those come from the West Gash.
+Smugglers using the foyadas to move contraband,
+thinking we won't follow them into the ash lands.
 
-My advice? Stay on the main roads after dark.
-Keep your coin purse close.
-And don't ask questions about the noises
-that sometimes come from the sewers.
+My advice? Stay on the Odai River roads after dark.
+Keep your coin purse close in the market district.
+And don't ask questions about the cargo
+that sometimes moves through the canal tunnels.
 
-This is Morrowind.
-Even the quiet streets have teeth.
+This is Hlaalu territory.
+Even the peaceful trade routes have hidden dangers.
 ]]
     },
     [2] = {
@@ -35,27 +35,29 @@ Even the quiet streets have teeth.
         content = [[
 *The guard lowers their voice, glancing around*
 
-Troublemakers... always a few types.
+Troublemakers... always a few types in Balmora.
 
 First you've got the drunks.
-Harmless mostly, just loud and stupid.
-Sleep it off in the cells, pay their fine,
-back to the taverns by next evening.
+Mostly from the tavern district near the river,
+Harmless enough, just loud and stupid.
+Sleep it off in our cells, pay their fine to the Hlaalu treasury,
+back to the Eight Plates by next evening.
 
 Then there are the pickpockets.
 Quick fingers, empty eyes.
-They work the crowds near the market,
-disappear like smoke when you approach.
+They work the crowds near the silt strider port,
+target merchants fresh from Vivec.
+Disappear like smoke through the canal tunnels when we approach.
 
-Worst are the organized ones.
-They don't work alone.
-Someone coordinates them,
-someone takes the real cut.
+Worst are the Hlaalu business rivals.
+They don't use knives, they use ledgers.
+Someone coordinates price fixing,
+someone takes the real cut from honest merchants.
 
 We watch them, we know their patterns.
 But proving anything?
-That's harder than it looks.
-The smart criminals leave no witnesses.
+That's harder than it looks when they own half the council.
+The smart criminals wear expensive clothes and sit on committees.
 ]]
     },
     [3] = {
@@ -66,24 +68,25 @@ The smart criminals leave no witnesses.
 Patrol... it's routine mostly.
 Same streets, same faces, same threats.
 
-Day shift: Market watch, gate duty,
-breaking up the occasional brawl.
-Keep the merchants happy, keep the peace.
+Day shift: Market watch, silt strider port duty,
+breaking up the occasional brawl near the taverns.
+Keep the Hlaalu merchants happy, keep the trade flowing.
 Simple enough.
 
 Night shift: That's when it gets interesting.
-Shadows play tricks on your eyes.
+Shadows play tricks on your eyes along the Odai River.
 Every sound could be trouble.
-Every dark corner could hide a blade.
+Every dark corner could hide a smuggler.
 
-We walk the walls, check the gates,
-make sure the dead stay dead.
-This close to Ghostgate,
-you learn to be careful about what's buried.
+We walk the Balmora walls, check the city gates,
+make sure the canal tunnels stay secure.
+This close to the West Gash,
+you learn to be careful about what crosses the foyadas.
 
-Long hours, little thanks.
-But someone has to do it.
-Better us than them, right?
+Long hours, little thanks from the council members.
+But someone has to protect Hlaalu interests.
+Better us than the Redoran patrols, right?
+At least we understand business.
 ]]
     },
     [4] = {
@@ -94,24 +97,25 @@ Better us than them, right?
 The local leadership...
 well, they pay our wages, don't they?
 
-The council members talk big,
-make promises they can't keep.
-But they keep the coin flowing,
-so the Legion stays content.
+The Hlaalu council members talk big,
+make trade deals they can't always keep.
+But they keep the coin flowing through Balmora,
+so the Imperial Legion stays content.
 
-The Great Houses play their games,
-each trying to outmaneuver the others.
-We just stay out of it.
-Politics is above our pay grade.
+The merchant families play their games,
+each trying to outmaneuver the others at the port.
+We just stay out of their business disputes.
+Politics is above our pay grade, especially Hlaalu politics.
 
 Imperial officials?
-They come and go.
-New faces every few years,
-same old demands, same old complaints.
+They come and go from the fort.
+Different faces now and then,
+same old tax demands, same old complaints about smuggling.
 
-As long as they leave us alone
-to do our actual jobs,
-I've no complaints about leadership.
+As long as the council leaves us alone
+to actually guard the city,
+I've no complaints about Hlaalu leadership.
+At least they understand that security is good for business.
 ]]
     },
     [5] = {
@@ -121,28 +125,30 @@ I've no complaints about leadership.
 
 Safety advice? Listen close.
 
-First: Know your surroundings.
-Don't wander into strange districts
+First: Know your surroundings in Balmora.
+Don't wander into the canal tunnels
 without knowing who controls them.
-Some neighborhoods don't like strangers.
+The smugglers don't like strangers near their routes.
 
-Second: Travel light, but armed.
-A dagger won't stop a determined attacker,
-but it might make them think twice.
-Appearances matter in Morrowind.
+Second: Travel light, but prepared.
+A healing potion won't stop a determined attacker,
+but it might save your life after the fight.
+Always carry a potion of Almsivi Intervention
+- gets you out of trouble fast.
 
-Third: Watch who you talk to.
+Third: Watch who you talk to at the silt strider port.
 Not everyone who smiles is friendly.
-Information is currency here,
+Information is currency in Hlaalu territory,
 and some people pay with blood.
 
 Finally: Learn the local customs.
-What's polite in one district
-is an insult in another.
-Respect keeps you alive longer.
+What's polite in the market district
+is an insult near the council halls.
+Respect for Hlaalu merchants keeps you alive longer.
 
-Follow these rules,
-and you might just survive Vvardenfell.
+And always carry stamina potions.
+The West Gash roads are long,
+and you never know when you'll need to run fast.
 ]]
     }
 }

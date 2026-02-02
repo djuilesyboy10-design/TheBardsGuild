@@ -47,6 +47,15 @@ local reputationEffects = {
         duration = 5400,  -- 1.5 hours
         description = "Gain trust with Thieves Guild",
         userFriendly = "Increases Thieves Guild reputation by +12"
+    },
+    {
+        id = "hlaalu_favor",
+        name = "Hlaalu Favor",
+        faction = "Great House Hlaalu",
+        amount = 8,
+        duration = 7200,  -- 2 hours
+        description = "Gain favor with House Hlaalu",
+        userFriendly = "Increases House Hlaalu reputation by +8"
     }
 }
 

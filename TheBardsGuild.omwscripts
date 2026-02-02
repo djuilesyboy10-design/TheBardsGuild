@@ -1,9 +1,16 @@
-GLOBAL: scripts/universal_travel/ut_global.lua
+GLOBAL: scripts/engine/framework/universal_travel/ut_global.lua
 GLOBAL: scripts/engine/framework/universal_trigger.lua
 GLOBAL: scripts/engine/framework/click_activator/click_activator.lua
-GLOBAL: scripts/secd/sced.lua
 GLOBAL: scripts/herbalism/herbalish_g.lua
+GLOBAL: scripts/universal_door_lock/udl_global.lua
+GLOBAL: scripts/who_knocked/ua_global.lua
+GLOBAL: scripts/who_knocked/ua_bounty_monitor.lua
+GLOBAL: scripts/engine/framework/universal_reputation/reputation_global.lua
+GLOBAL: scripts/engine/framework/universal_menu/global_menu.lua
+GLOBAL: scripts/engine/framework/effects/reputation_effects_system.lua
 
+
+PLAYER: scripts/engine/framework/effects/dialogue_cooldown_manager.lua
 PLAYER: scripts/engine/plugins/bard_class/bard_class_event_listener.lua
 PLAYER: scripts/engine/plugins/merchant_class/merchant_class_event_listener.lua
 PLAYER: scripts/engine/plugins/smith_class/smith_class_event_listener.lua
@@ -13,10 +20,8 @@ PLAYER: scripts/engine/plugins/publican_class/publican_class_event_listener.lua
 PLAYER: scripts/engine/plugins/perk_trigger/perk_trigger_event_listener.lua
 PLAYER: scripts/engine/framework/click_activator/click_activator_player.lua
 PLAYER: scripts/engine/framework/effects/effect_modules/reputation_effects.lua
-PLAYER: scripts/skill/statswindow_bard_enable.lua
-PLAYER: scripts/skill/statswindow_bard.lua
 PLAYER: scripts/skill/bard_perks.lua
-PLAYER: scripts/universal_travel/ut_player.lua
+PLAYER: scripts/engine/framework/universal_travel/ut_player.lua
 PLAYER: scripts/jmcg_Influence/Quest_Logic.lua
 PLAYER: scripts/jmcg_Influence/bard_controller.lua
 PLAYER: scripts/jmcg_Influence/bard_ring_ui.lua
@@ -24,11 +29,19 @@ PLAYER: scripts/patchs/bards_questpat.lua
 PLAYER: scripts/herbalism/herbalish_p.lua
 PLAYER: scripts/herbalism/herbalish_alchemy.lua
 PLAYER: scripts/skill/bard_skill_final.lua
-PLAYER: scripts/Dialogue/bard_performance_dialogue.lua
-PLAYER: scripts/Dialogue/bard_performance_dynamic.lua
-PLAYER: scripts/Utility/performance_console_working.lua
-PLAYER: scripts/Utility/performance_menu_simple.lua
-
+PLAYER: scripts/engine/dialogue/bard_performance_dialogue.lua
+PLAYER: scripts/engine/dialogue/bard_performance_dynamic.lua
+PLAYER: scripts/engine/utility/performance_console_working.lua
+PLAYER: scripts/engine/utility/performance_menu_simple.lua
+PLAYER: scripts/universal_door_lock/udl_player.lua
+PLAYER: scripts/who_knocked/dialogue_menu.lua
+PLAYER: scripts/who_knocked/dialogue_data.lua
+PLAYER: scripts/who_knocked/ua_player.lua
+PLAYER: scripts/who_knocked/ua_event_bridge.lua
+PLAYER: scripts/engine/framework/universal_reputation/reputation_player.lua
+PLAYER: scripts/engine/framework/effects/reputation_effects_player.lua
+PLAYER: scripts/engine/plugins/unique_dialogue/unique_dialogue_event_listener.lua
+PLAYER: scripts/engine/plugins/caravan_class/caravan_class_event_listener.lua
 
 
 

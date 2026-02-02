@@ -6,7 +6,7 @@ local world = require('openmw.world')
 local util = require('openmw.util')
 local I = require('openmw.interfaces')
 local types = require('openmw.types')
-local destinations = require('scripts.universal_travel.ut_destinations')
+local destinations = require('scripts.engine.framework.universal_travel.ut_destinations')
 
 local function teleportToDestination(network, destinationId)
     local dest = destinations[network] and destinations[network][destinationId]

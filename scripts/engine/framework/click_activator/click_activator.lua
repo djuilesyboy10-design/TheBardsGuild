@@ -51,6 +51,7 @@ I.Activation.addHandlerForType(types.NPC, function(npc, actor)
     -- Check if this NPC class has click activation configured
     local activatorData = clickConfig.getActivatorData(npcClass)
     
+        
     -- Only show choice menu if this NPC has custom content
     if activatorData then
         print("[CLICK_ACTIVATOR] Custom content found for " .. npcClass .. ", showing choice menu")

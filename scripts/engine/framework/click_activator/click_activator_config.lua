@@ -73,8 +73,17 @@ local clickActivators = {
         contentFile = "guard_content_data",
         helperFile = "guard_class_helper",
         description = "Guard security and law enforcement interactions"
+    },
+    
+    -- Caravaner Class - Trade route and caravan interactions
+    ["caravaner"] = {
+        event = "CaravanerClassShowMenu",
+        contentFile = "caravan_content_data",
+        helperFile = "caravan_class_helper",
+        description = "Caravaner trade routes and caravan interactions"
     }
-}
+    
+    }
 
 -- Get activator data for a specific NPC class
 local function getActivatorData(npcClass)

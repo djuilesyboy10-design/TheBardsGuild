@@ -6,34 +6,36 @@ local publicanContent = {
         title = "Local Rumors",
         content = [[
 The whispers in Balmora's streets tell tales,
-Of merchants rich and ancient trails.
+you know, of merchants rich and ancient trails.
+
 The Telvanni wizards in their towers high,
-Keep secrets that touch the sky.
+they keep secrets that touch the sky, really.
 
 In Ald'ruhn's shell where Redorans dwell,
-The gossip flows like a magic spell.
+the gossip flows like a magic spell.
 Of Temple priests and dark cults hidden,
-Of prophecies long forbidden.
+of prophecies long forbidden.
 
 Listen close, but speak with care,
-In Morrowind, words have power rare.
+in Morrowind, words have power rare, you see?
 ]]
     },
     [2] = {
         title = "Business Opportunities",
         content = [[
 The trade routes through Vvardenfell,
-Bring fortunes that merchants tell.
+they bring fortunes that merchants tell, you know.
+
 From ebony to glass, from kwama eggs,
-To exotic goods from foreign legs.
+to exotic goods from foreign legs.
 
 The East Empire Company's might,
-Controls the trade with all their might.
+controls the trade with all their might.
 But local merchants still find ways,
-To profit through these troubled days.
+to profit through these troubled days.
 
 Invest wisely, friend, I say,
-For fortune turns like night to day.
+for fortune turns like night to day, really.
 ]],
         effects = {
             {
@@ -46,34 +48,36 @@ For fortune turns like night to day.
         title = "Room Services",
         content = [[
 Our rooms are clean, our beds are soft,
-A traveler's comfort, held aloft.
+a traveler's comfort, held aloft.
+
 For just ten coins, you can rest,
-And put your weary mind to test.
+and put your weary mind to test, you know?
 
 The common room is warm and bright,
-With fellow travelers each night.
+with fellow travelers each night.
 Share stories, songs, and ale so fine,
-Until the morning sun does shine.
+until the morning sun does shine.
 
 We've rooms for all, from rich to poor,
-Just ask me friend, I'll show you more.
+just ask me friend, I'll show you more.
 ]]
     },
     [4] = {
         title = "Local Entertainment",
         content = [[
 The bards who play here every night,
-Fill hearts with joy and pure delight.
+they fill hearts with joy and pure delight, you know?
+
 Their songs of heroes, love, and war,
-Echo through our tavern door.
+echo through our tavern door.
 
 Some nights we have a poet speak,
-Who makes the strongest grown men weep.
+who makes the strongest grown men weep.
 Other nights, a minstrel plays,
-And brightens up these dreary days.
+and brightens up these dreary days.
 
 The patrons love the lively scene,
-The best entertainment you've seen.
+the best entertainment you've seen, really.
 ]]
     },
     [5] = {
@@ -105,17 +109,18 @@ For the weather itself has a hand to play.
         title = "Just Chat",
         content = [[
 Ah, welcome traveler, take a seat,
-Rest your weary, tired feet.
+rest your weary, tired feet.
+
 I've seen many faces pass through here,
-Some full of joy, some full of fear.
+some full of joy, some full of fear, you know?
 
 This tavern has stood for many years,
-Through laughter, tears, and silent cheers.
+through laughter, tears, and silent cheers.
 It's more than just a place to drink,
-It's where life's stories interlink.
+it's where life's stories interlink.
 
 So tell me friend, what brings you here?
-To Vvardenfell, this land so dear?
+to Vvardenfell, this land so dear?
 ]]
     }
 }

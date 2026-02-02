@@ -10,7 +10,7 @@ local I = require("openmw.interfaces")
 local types = require("openmw.types")
 local self = require("openmw.self")
 local storage = require("openmw.storage")
-local destinations = require("scripts.universal_travel.ut_destinations")
+local destinations = require("scripts.engine.framework.universal_travel.ut_destinations")
 
 local root
 local M = {}
@@ -78,14 +78,23 @@ function M.showMenu(network)
     I.UI.setMode("Interface", { windows = {} })
     local content = {}
 
-    -- Title
     table.insert(content, {
-        type = ui.TYPE.Text,
-        props = { 
-            text = settings.title, 
-            textSize = 20, 
-            textColor = util.color.rgb(settings.color[1], settings.color[2], settings.color[3]) 
-        }
+        type = ui.TYPE.Container,
+        props = {
+            backgroundColor = util.color.rgba(settings.color[1], settings.color[2], settings.color[3], 0.3),
+            padding = 16,
+            marginBottom = 10
+        },
+        content = ui.content({
+            { 
+                type = ui.TYPE.Text, 
+                props = { 
+                    text = settings.title, 
+                    textSize = 28, 
+                    textColor = util.color.rgb(settings.color[1], settings.color[2], settings.color[3]) 
+                }
+            }
+        })
     })
 
     -- Destinations
@@ -94,18 +103,16 @@ function M.showMenu(network)
         
         if canTravel then
             table.insert(content, {
-                type = ui.TYPE.Container,
-                content = ui.content({
-                    { 
-                        type = ui.TYPE.Text, 
-                        props = { 
-                            text = destInfo.name, 
-                            textSize = 16, 
-                            textColor = util.color.rgb(0.9, 0.9, 0.9) 
-                        }
-                    }
-                }),
-                props = { paddingTop = 2, paddingBottom = 2 },
+                type = ui.TYPE.Text,
+                props = { 
+                    text = "► " .. destInfo.name, 
+                    textSize = 20, 
+                    textColor = util.color.rgb(1, 1, 1),
+                    paddingTop = 4,
+                    paddingBottom = 4,
+                    backgroundColor = util.color.rgba(0.2, 0.2, 0.2, 1.0),
+                    padding = 12
+                },
                 events = {
                     mouseClick = async:callback(function()
                         -- Set cooldown
@@ -124,28 +131,28 @@ function M.showMenu(network)
             table.insert(content, {
                 type = ui.TYPE.Text,
                 props = { 
-                    text = destInfo.name .. " (Locked)", 
-                    textSize = 16, 
-                    textColor = util.color.rgb(0.4, 0.4, 0.4) 
+                    text = "   " .. destInfo.name .. " (Locked)", 
+                    textSize = 20, 
+                    textColor = util.color.rgb(0.6, 0.6, 0.6),
+                    paddingTop = 4,
+                    paddingBottom = 4,
+                    backgroundColor = util.color.rgba(0.1, 0.1, 0.1, 1.0),
+                    padding = 12
                 }
             })
         end
     end
 
-    -- Cancel button
     table.insert(content, {
-        type = ui.TYPE.Container,
-        props = { paddingTop = 10 },
-        content = ui.content({
-            { 
-                type = ui.TYPE.Text, 
-                props = { 
-                    text = "[ CANCEL ]", 
-                    textSize = 14, 
-                    textColor = util.color.rgb(0.7, 0.7, 0.7) 
-                }
-            }
-        }),
+        type = ui.TYPE.Text,
+        props = { 
+            text = "[ CANCEL ]", 
+            textSize = 18, 
+            textColor = util.color.rgb(0.8, 0.8, 0.8),
+            paddingTop = 12,
+            backgroundColor = util.color.rgba(0.3, 0.3, 0.3, 1.0),
+            padding = 12
+        },
         events = { 
             mouseClick = async:callback(function() close() end) 
         }
