@@ -150,5 +150,16 @@ return {
             activator = "test_lua_container_01",
             requirements = { quest = "JMCG_Tuning_master", stage = 10 }
         }
+    },
+    
+    -- Hist Cell Network (for Xeech's potion)
+    hist_cell = {
+        hist_cell_entrance = {
+            name = "The Hist Dream",
+            cell = "The Hist Dream",
+            pos = {4032.199, 10455.662, 14326.643},
+            activator = "JMCG_potion_unique1",
+            description = "The Hist's collective memory chamber"
+        }
     }
 }

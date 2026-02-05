@@ -114,4 +114,47 @@ return {
         maxIndex = 100, 
         weight = 10 
     },
+
+    -- Political Wing - Jack's Masterpiece Quests
+    ["jmcg_jack_lore"] = { 
+        name = "The Silent Architect", 
+        maxIndex = 100, 
+        weight = 20 
+    },
+    
+    -- Divayth Fyr's Dual Paths
+    ["jmcg_div_good"] = { 
+        name = "The Lost Libraries", 
+        maxIndex = 100, 
+        weight = 15 
+    },
+    ["jmcg_div_myth"] = { 
+        name = "The Pattern Weavers", 
+        maxIndex = 100, 
+        weight = 15 
+    },
+    
+    -- Metaphysical & Mystical Content
+    ["jmcg_dragon"] = { 
+        name = "The Forgotten Name", 
+        maxIndex = 70, 
+        weight = 10 
+    },
+    ["jmcg_myth"] = { 
+        name = "Living Breathing History", 
+        maxIndex = 100, 
+        weight = 5 
+    },
+    
+    -- Additional Systems & Operations
+    ["jmcg_tavern_haload"] = { 
+        name = "Sweet Little Lies, Tell Me", 
+        maxIndex = 40, 
+        weight = 5 
+    },
+    ["jmcg_fara"] = { 
+        name = "Silence is Golden", 
+        maxIndex = 100, 
+        weight = 5 
+    },
 }

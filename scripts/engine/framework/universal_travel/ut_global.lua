@@ -15,6 +15,8 @@ local function teleportToDestination(network, destinationId)
         return false
     end
     
+    print("UT Teleporting to:", dest.cell, "at", dest.pos[1], dest.pos[2], dest.pos[3])
+    
     for _, player in ipairs(world.players) do
         player:teleport(dest.cell, util.vector3(dest.pos[1], dest.pos[2], dest.pos[3]))
     end

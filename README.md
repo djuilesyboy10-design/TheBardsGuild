@@ -23,6 +23,24 @@ PLAYER: scripts/who_knocked/dialogue_menu.lua
 PLAYER: scripts/who_knocked/dialogue_data.lua
 ```
 
+### Potion Activator Framework
+Advanced potion consumption system for custom effects and teleportation.
+
+**Features:**
+- Event-driven potion interception using I.ItemUsage interface
+- Custom potion effects without vanilla consumption
+- Universal Travel integration for teleportation potions
+- Beginner-friendly configuration system
+- Professional documentation and examples
+
+**Installation:**
+```
+GLOBAL: scripts/engine/framework/potion_activator/potion_activator.lua
+PLAYER: scripts/engine/framework/potion_activator/potion_activator_player.lua
+```
+
+**Configuration:** Edit `potion_activator_config.lua` to add custom potions.
+
 ### Herbalism (Beta Release)
 Advanced plant gathering and alchemy system demonstrating cross-mod skill communication.
 
@@ -35,6 +53,7 @@ Advanced plant gathering and alchemy system demonstrating cross-mod skill commun
 **Requirements:**
 - Skill Framework (required)
 - Stat Window Mod (required)
+- S3 Framework (required)
 - Universal Framework (included)
 
 **Note:** This is a beta release showing how skills from different mods can communicate and enhance each other through our event system.
@@ -50,6 +69,7 @@ Advanced skill system implementation demonstrating cross-mod communication bridg
 
 **Requirements:**
 - Stat Window Mod (required for skill display)
+- S3 Framework (required for skill communication)
 - Universal Framework (included)
 
 **Use Case:** Perfect example of how to bridge your mod's skills with other mods in the ecosystem.
@@ -71,6 +91,9 @@ Quest progression tracking system with adaptable UI pipeline.
 
 **Click Activator Framework**
 Revolutionary NPC interaction system that replaces range-based detection with direct player clicks. Provides clean, intuitive NPC interaction for any mod type.
+
+**Potion Activator Framework**
+Event-driven potion consumption system for custom effects and teleportation.
 
 **Universal Trigger System**
 Event-driven activation framework for any game object. Allows modders to create custom triggers and responses without polling or complex detection systems.
@@ -117,6 +140,7 @@ scripts/
 └── engine/                # Universal framework
     ├── framework/         # Core systems
     │   ├── click_activator/
+    │   ├── potion_activator/
     │   ├── effects/
     │   ├── universal_trigger/
     │   ├── universal_reputation/
