@@ -161,5 +161,27 @@ return {
             activator = "JMCG_potion_unique1",
             description = "The Hist's collective memory chamber"
         }
+    },
+    
+    -- Endgame Scroll Network (for native realm scroll)
+    endgame_scroll = {
+        dremora_citadel = {
+            name = "Dremora Citadel",
+            cell = "Dremora Citidel",
+            pos = {5078.159, 5559.892, 13519.027},
+            activator = "jmcg_endgame",
+            description = "The final fortress where reality unravels"
+        }
+    },
+    
+    -- Garden Spell Network (for spell teleportation)
+    garden_spell = {
+        lost_archive = {
+            name = "The Lost Archive",
+            cell = "The Lost Archive",
+            pos = {9390.184, 27711.340, -8464549.000},
+            activator = "jmcg_garden",
+            description = "The hidden repository where forgotten stories wait"
+        }
     }
 }

@@ -23,6 +23,46 @@ PLAYER: scripts/who_knocked/dialogue_menu.lua
 PLAYER: scripts/who_knocked/dialogue_data.lua
 ```
 
+### Scroll Activator Framework
+**NEW:** Revolutionary scroll activation system that triggers custom effects when scrolls are closed.
+
+**Features:**
+- Book Close Detection - Monitors UI mode changes for precise timing
+- Case-Sensitive ID Handling - Proper OpenMW record ID support
+- Zero-Polling Architecture - Event-driven, instant response
+- Universal Travel Integration - Seamless teleportation effects
+- Professional Documentation - Complete adoption guide
+
+**Installation:**
+```
+GLOBAL: scripts/engine/framework/scroll_activator/scroll_activator.lua
+PLAYER: scripts/engine/framework/scroll_activator/scroll_activator_player.lua
+```
+
+**Configuration:** Edit `scroll_activator_config.lua` to add custom scrolls.
+
+**Use Case:** Perfect for teleportation scrolls, story advancement, or any custom scroll effects.
+
+### Spell Activator Framework
+**NEW:** Advanced spell monitoring system that triggers custom effects when specific spells are cast.
+
+**Features:**
+- Active Spell Monitoring - Detects custom spells in player's active list
+- Instant Response - Triggers immediately when spell is cast
+- Built-in Cooldown System - Prevents spam and abuse
+- Case-Insensitive ID Handling - Easy spell configuration
+- Performance Optimized - Change detection and efficient processing
+
+**Installation:**
+```
+PLAYER: scripts/engine/framework/spell_activator/spell_activator.lua
+PLAYER: scripts/engine/framework/spell_activator/spell_activator_player.lua
+```
+
+**Configuration:** Edit `spell_activator_config.lua` to add custom spells.
+
+**Use Case:** Ideal for teleportation spells, custom magic effects, or spell-based story progression.
+
 ### Potion Activator Framework
 Advanced potion consumption system for custom effects and teleportation.
 
@@ -92,6 +132,12 @@ Quest progression tracking system with adaptable UI pipeline.
 **Click Activator Framework**
 Revolutionary NPC interaction system that replaces range-based detection with direct player clicks. Provides clean, intuitive NPC interaction for any mod type.
 
+**Scroll Activator Framework**
+**NEW:** Book close detection system for custom scroll effects. Uses UI mode monitoring to trigger effects when scrolls are closed, enabling teleportation, story advancement, and custom mechanics.
+
+**Spell Activator Framework**
+**NEW:** Active spell monitoring system for custom spell effects. Monitors player's active spell list and triggers custom effects when specific spells are cast, with built-in cooldowns and performance optimization.
+
 **Potion Activator Framework**
 Event-driven potion consumption system for custom effects and teleportation.
 
@@ -105,7 +151,7 @@ Modular effect processing system supporting weather, reputation, dialogue, and s
 Event-driven reputation system with automatic decay, level progression, and faction-specific tracking. Responds dynamically to player actions across all mods.
 
 **Universal Travel Network**
-Multi-network teleportation system supporting unlimited travel networks (silt striders, boats, teleportation, etc.). Centralized destination management with easy expansion.
+Multi-network teleportation system supporting unlimited travel networks (silt striders, boats, teleportation, scrolls, spells, etc.). Centralized destination management with easy expansion.
 
 ### Supporting Systems
 
@@ -140,6 +186,8 @@ scripts/
 └── engine/                # Universal framework
     ├── framework/         # Core systems
     │   ├── click_activator/
+    │   ├── scroll_activator/    # NEW: Scroll effects
+    │   ├── spell_activator/     # NEW: Spell effects
     │   ├── potion_activator/
     │   ├── effects/
     │   ├── universal_trigger/
@@ -157,6 +205,41 @@ scripts/
 3. Enable in OpenMW launcher
 4. Reload Lua in-game: `reloadlua`
 
+## Quick Start - Activator Frameworks
+
+### Adding a Custom Scroll
+1. Edit `scroll_activator_config.lua`:
+```lua
+["YourScrollID"] = {
+    event = "YourScrollEvent",
+    destination = "your_destination"
+}
+```
+2. Add event handler in `scroll_activator_player.lua`
+3. Test by opening and closing your scroll
+
+### Adding a Custom Spell
+1. Edit `spell_activator_config.lua`:
+```lua
+["YourSpellID"] = {
+    event = "YourSpellEvent",
+    destination = "your_destination"
+}
+```
+2. Add event handler in `spell_activator_player.lua`
+3. Test by casting your spell
+
+### Adding a Custom Potion
+1. Edit `potion_activator_config.lua`:
+```lua
+["YourPotionID"] = {
+    event = "YourPotionEvent",
+    destination = "your_destination"
+}
+```
+2. Add event handler in `potion_activator_player.lua`
+3. Test by consuming your potion
+
 ## Design Philosophy
 
 - Independent Mods - Each mod works standalone
@@ -164,6 +247,7 @@ scripts/
 - Event-Driven - No polling, instant response
 - Vanilla Compatible - Seamless integration
 - Modular Design - Use only what you need
+- **Gateway Opening** - We build the foundations so others can create
 
 ## Requirements
 
@@ -183,8 +267,12 @@ We created this framework for our own mod development, building each system to s
 
 This framework represents hundreds of hours of development, testing, and refinement. We're releasing it freely because we believe the OpenMW modding community deserves tools that make creativity easier and more accessible. Whether you're a beginner taking your first steps into modding or an experienced developer looking for robust systems, we hope this framework helps you create something amazing.
 
+**The Gateway Is Open** - We've built the foundations. Now it's your turn to create incredible things.
+
 If you use this framework in your project, we'd love to see what you create. Your success is our reward.
 
 ---
 
 Professional OpenMW modding framework - designed for elite modders, accessible to everyone.
+
+**Gateway Status: ✅ OPEN**
