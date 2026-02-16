@@ -4,7 +4,7 @@
 
 local scrollActivators = {
     -- Endgame Scroll - Teleport to Dremora Citadel
-    ["JMCG_Endgame"] = {
+    ["jmcg_endgame"] = {
         event = "EndgameScrollActivate",
         destination = "dremora_citadel",
         description = "Endgame scroll teleportation to Dremora Citadel"

@@ -1,278 +1,159 @@
-# Universal Framework - Professional OpenMW Modding
+# Universal Framework - OpenMW Modding Foundation
 
-A clean, professional framework for OpenMW modding with modular, independently functional systems. Built for our own mod development and released to help the community create amazing content more easily.
+A clean, professional framework for OpenMW modding with modular, independently functional systems. Each system is self-contained with its own README and can be used standalone or combined.
 
-## Featured Mods
+## What's Included
 
-### Who Knocked - Interactive Door System
-An intelligent door interaction mod that adds multiple approaches to locked doors.
+This repository contains **only the framework systems** - the building blocks for your mods. Each folder has its own detailed README explaining how to use it.
 
-**Features:**
-- Advanced Lockpick System - Force, Pick, Magic, and Master approaches
-- Dialogue-Based Entry - Admire, Intimidate, and Bribe options  
-- Crime Integration - Bounty system and reputation events
-- Professional UI - Clean, color-coded interface
+### Core Framework Systems
 
-**Installation:**
+| System | Purpose | Location |
+|--------|---------|----------|
+| **Chronicle Activator** | Quest-based lore book system | `engine/framework/chronicle_activator/` |
+| **Click Activator** | NPC interaction menus | `engine/framework/click_activator/` |
+| **Dialogue System** | Dynamic NPC conversations | `engine/framework/dialogue/` |
+| **NPC Schedule** | Time-based NPC routines | `engine/framework/npc_schedule/` |
+| **Potion Activator** | Custom potion effects | `engine/framework/potion_activator/` |
+| **Scroll Activator** | Book close detection for scrolls | `engine/framework/scroll_activator/` |
+| **Spell Activator** | Spell cast detection | `engine/framework/spell_activator/` |
+| **Universal Menu** | Shared UI components | `engine/framework/universal_menu/` |
+| **Universal Reputation** | Title/reputation system | `engine/framework/universal_reputation/` |
+| **Universal Travel** | Teleportation networks | `engine/framework/universal_travel/` |
+| **Quest Monitor** | Quest stage tracking | `engine/framework/quest_monitor/` |
+| **Object Management** | Object lifecycle handling | `engine/framework/object_management/` |
+| **World Activator** | World event triggers | `engine/framework/world_activator/` |
+| **Misc Activator** | Miscellaneous activators | `engine/framework/misc_activator/` |
+
+### NPC Class Plugins
+
+| Plugin | NPC Class | Location |
+|--------|-------------|----------|
+| **Bard Class** | Bard NPCs | `engine/plugins/bard_class/` |
+| **Merchant Class** | Traders, publicans | `engine/plugins/merchant_class/` |
+| **Guard Class** | Guards, soldiers | `engine/plugins/guard_class/` |
+| **Noble Class** | Nobles, important NPCs | `engine/plugins/noble_class/` |
+| **Smith Class** | Blacksmiths | `engine/plugins/smith_class/` |
+| **Publican Class** | Innkeepers | `engine/plugins/publican_class/` |
+| **Caravan Class** | Caravaners | `engine/plugins/caravan_class/` |
+| **Ballad** | Special bard content | `engine/plugins/ballad/` |
+| **Bard Lore** | Deep lore system | `engine/plugins/bard_lore/` |
+| **Unique Dialogue** | One-off dialogues | `engine/plugins/unique_dialogue/` |
+| **Perk Trigger** | Perk activation | `engine/plugins/perk_trigger/` |
+
+### Utility Scripts
+
+Debug and development tools in `engine/utility/` - not registered, for console use only.
+
+## How to Use This Framework
+
+### 1. Choose Your Systems
+
+Each system is **independent**. Pick only what you need:
+- Need NPC menus? Use **Click Activator**
+- Need lore books? Use **Chronicle Activator**
+- Need teleportation? Use **Universal Travel**
+
+### 2. Read the README
+
+Every system folder has a detailed README with:
+- What it does
+- How it works
+- Installation (copy to your `.omwscripts`)
+- Code examples for AI prompting
+- Copy-paste templates
+
+### 3. Register in .omwscripts
+
+The `TheBardsGuild.omwscripts` file shows example registration. Copy the lines for systems you want into your own `.omwscripts`:
+
 ```
-GLOBAL: scripts/who_knocked/ua_global.lua
-GLOBAL: scripts/who_knocked/ua_bounty_monitor.lua
-PLAYER: scripts/who_knocked/ua_player.lua
-PLAYER: scripts/who_knocked/ua_event_bridge.lua
-PLAYER: scripts/who_knocked/dialogue_menu.lua
-PLAYER: scripts/who_knocked/dialogue_data.lua
-```
-
-### Scroll Activator Framework
-**NEW:** Revolutionary scroll activation system that triggers custom effects when scrolls are closed.
-
-**Features:**
-- Book Close Detection - Monitors UI mode changes for precise timing
-- Case-Sensitive ID Handling - Proper OpenMW record ID support
-- Zero-Polling Architecture - Event-driven, instant response
-- Universal Travel Integration - Seamless teleportation effects
-- Professional Documentation - Complete adoption guide
-
-**Installation:**
-```
-GLOBAL: scripts/engine/framework/scroll_activator/scroll_activator.lua
-PLAYER: scripts/engine/framework/scroll_activator/scroll_activator_player.lua
-```
-
-**Configuration:** Edit `scroll_activator_config.lua` to add custom scrolls.
-
-**Use Case:** Perfect for teleportation scrolls, story advancement, or any custom scroll effects.
-
-### Spell Activator Framework
-**NEW:** Advanced spell monitoring system that triggers custom effects when specific spells are cast.
-
-**Features:**
-- Active Spell Monitoring - Detects custom spells in player's active list
-- Instant Response - Triggers immediately when spell is cast
-- Built-in Cooldown System - Prevents spam and abuse
-- Case-Insensitive ID Handling - Easy spell configuration
-- Performance Optimized - Change detection and efficient processing
-
-**Installation:**
-```
-PLAYER: scripts/engine/framework/spell_activator/spell_activator.lua
-PLAYER: scripts/engine/framework/spell_activator/spell_activator_player.lua
-```
-
-**Configuration:** Edit `spell_activator_config.lua` to add custom spells.
-
-**Use Case:** Ideal for teleportation spells, custom magic effects, or spell-based story progression.
-
-### Potion Activator Framework
-Advanced potion consumption system for custom effects and teleportation.
-
-**Features:**
-- Event-driven potion interception using I.ItemUsage interface
-- Custom potion effects without vanilla consumption
-- Universal Travel integration for teleportation potions
-- Beginner-friendly configuration system
-- Professional documentation and examples
-
-**Installation:**
-```
-GLOBAL: scripts/engine/framework/potion_activator/potion_activator.lua
-PLAYER: scripts/engine/framework/potion_activator/potion_activator_player.lua
+# Example - pick what you need:
+GLOBAL: scripts/engine/framework/click_activator/click_activator.lua
+PLAYER: scripts/engine/framework/click_activator/click_activator_player.lua
 ```
 
-**Configuration:** Edit `potion_activator_config.lua` to add custom potions.
+### 4. Customize
 
-### Herbalism (Beta Release)
-Advanced plant gathering and alchemy system demonstrating cross-mod skill communication.
+Each README has a **"Copy-Paste for Your Own Mod"** section with templates.
 
-**Features:**
-- Plant gathering and identification system
-- Cross-mod skill integration with Bard's Lore
-- Alchemy enhancement framework
-- Dependency management example
+## Design Philosophy
 
-**Requirements:**
-- Skill Framework (required)
-- Stat Window Mod (required)
-- S3 Framework (required)
-- Universal Framework (included)
-
-**Note:** This is a beta release showing how skills from different mods can communicate and enhance each other through our event system.
-
-### Skill Framework
-Advanced skill system implementation demonstrating cross-mod communication bridges.
-
-**Features:**
-- Bard's Lore skill system with perks
-- Skill-to-skill communication protocols
-- Integration points for external mods
-- Professional skill progression mechanics
-
-**Requirements:**
-- Stat Window Mod (required for skill display)
-- S3 Framework (required for skill communication)
-- Universal Framework (included)
-
-**Use Case:** Perfect example of how to bridge your mod's skills with other mods in the ecosystem.
-
-### JMCG Influence
-Quest progression tracking system with adaptable UI pipeline.
-
-**Features:**
-- Quest state management
-- Progress tracking interface
-- Adaptable UI components
-- Event-driven updates
-
-**Note:** This serves as an example of our UI pipeline that can be adapted for any quest system or progression tracking needs.
-
-## Universal Framework Modules
-
-### Core Systems
-
-**Click Activator Framework**
-Revolutionary NPC interaction system that replaces range-based detection with direct player clicks. Provides clean, intuitive NPC interaction for any mod type.
-
-**Scroll Activator Framework**
-**NEW:** Book close detection system for custom scroll effects. Uses UI mode monitoring to trigger effects when scrolls are closed, enabling teleportation, story advancement, and custom mechanics.
-
-**Spell Activator Framework**
-**NEW:** Active spell monitoring system for custom spell effects. Monitors player's active spell list and triggers custom effects when specific spells are cast, with built-in cooldowns and performance optimization.
-
-**Potion Activator Framework**
-Event-driven potion consumption system for custom effects and teleportation.
-
-**Universal Trigger System**
-Event-driven activation framework for any game object. Allows modders to create custom triggers and responses without polling or complex detection systems.
-
-**Universal Effects Engine**
-Modular effect processing system supporting weather, reputation, dialogue, and storage effects. Easily extensible for custom effect types.
-
-**Universal Reputation System**
-Event-driven reputation system with automatic decay, level progression, and faction-specific tracking. Responds dynamically to player actions across all mods.
-
-**Universal Travel Network**
-Multi-network teleportation system supporting unlimited travel networks (silt striders, boats, teleportation, scrolls, spells, etc.). Centralized destination management with easy expansion.
-
-### Supporting Systems
-
-**Dialogue Cooldown Manager**
-S3-powered dialogue timing system that prevents dialogue spam and manages conversation flow across multiple mods.
-
-**Universal Menu System**
-Centralized UI management system providing consistent menu interfaces and easy menu creation for any mod type.
-
-**Class System Framework**
-Extensible class-based gameplay system supporting Bard, Guard, Merchant, Noble, Smith, Publican, and Caravan classes with easy custom class creation.
-
-### Plugin Architecture
-
-**Modular Plugin System**
-53 plugin files demonstrating various class implementations and gameplay mechanics. Each plugin is independent but can communicate with others through the framework.
-
-**Effect Modules**
-Weather effects, reputation effects, perk systems, and custom effect processors. Fully modular and extensible for new effect types.
-
-**Unique Dialogue System**
-Custom dialogue pipeline that can be adapted for any quest system, NPC interaction, or story progression needs.
+- **Clean Separation** - Each system stands alone
+- **README Everywhere** - Every folder documented
+- **AI-Friendly** - Copy-paste prompts for ChatGPT/Claude
+- **Event-Driven** - Zero polling, instant response
+- **Vanilla Compatible** - Seamless integration
+- **Gateway Opening** - Build foundations so others can create
 
 ## File Structure
 
 ```
 scripts/
-├── who_knocked/           # Interactive door system
-├── Skill/                  # Advanced skill framework
-├── herbalism/             # Beta release - cross-mod skills
-├── jmcg_influence/        # Quest progression UI pipeline
-└── engine/                # Universal framework
-    ├── framework/         # Core systems
-    │   ├── click_activator/
-    │   ├── scroll_activator/    # NEW: Scroll effects
-    │   ├── spell_activator/     # NEW: Spell effects
-    │   ├── potion_activator/
-    │   ├── effects/
-    │   ├── universal_trigger/
-    │   ├── universal_reputation/
-    │   ├── universal_travel/
-    │   └── universal_menu/
-    ├── dialogue/          # Dialogue management
-    └── plugins/           # Extensible class systems
+└── engine/
+    ├── framework/          # Core systems (13 folders)
+    │   ├── chronicle_activator/README.md
+    │   ├── click_activator/README.md
+    │   ├── dialogue/README.md
+    │   ├── npc_schedule/README.md
+    │   ├── potion_activator/README.md
+    │   ├── scroll_activator/README.md
+    │   ├── spell_activator/README.md
+    │   ├── universal_menu/README.md
+    │   ├── universal_reputation/README.md
+    │   ├── universal_travel/README.md
+    │   ├── quest_monitor/README.md
+    │   ├── object_management/README.md
+    │   └── world_activator/README.md
+    ├── plugins/            # NPC class plugins (11 folders)
+    │   ├── bard_class/README.md
+    │   ├── merchant_class/README.md
+    │   ├── guard_class/README.md
+    │   ├── noble_class/README.md
+    │   ├── smith_class/README.md
+    │   ├── publican_class/README.md
+    │   ├── caravan_class/README.md
+    │   ├── ballad/README.md
+    │   ├── bard_lore/README.md
+    │   ├── unique_dialogue/README.md
+    │   └── perk_trigger/README.md
+    └── utility/README.md   # Debug tools
 ```
 
-## Installation
+**Every folder has a README.** No guessing. No gatekeeping.
 
-1. Copy the `scripts/` folder to your OpenMW data files
-2. Add mod entries to your `.omwscripts` file
-3. Enable in OpenMW launcher
-4. Reload Lua in-game: `reloadlua`
+## Quick Start Example
 
-## Quick Start - Activator Frameworks
+Want to add NPC interaction menus to your mod?
 
-### Adding a Custom Scroll
-1. Edit `scroll_activator_config.lua`:
-```lua
-["YourScrollID"] = {
-    event = "YourScrollEvent",
-    destination = "your_destination"
-}
+1. **Read** `engine/framework/click_activator/README.md`
+2. **Copy** the registration lines to your `.omwscripts`
+3. **Edit** `click_activator_config.lua` to add your NPC class
+4. **Create** your plugin in `engine/plugins/your_class/`
+5. **Test** in-game
+
+## Using with AI Assistants
+
+Every README includes a **"For ChatGPT/AI Prompting"** section. Copy-paste these into your AI to get help building on the framework.
+
+Example from Click Activator:
 ```
-2. Add event handler in `scroll_activator_player.lua`
-3. Test by opening and closing your scroll
-
-### Adding a Custom Spell
-1. Edit `spell_activator_config.lua`:
-```lua
-["YourSpellID"] = {
-    event = "YourSpellEvent",
-    destination = "your_destination"
-}
+I want to create an NPC class plugin for OpenMW that adds custom dialogue...
+[Full prompt with architecture details]
 ```
-2. Add event handler in `spell_activator_player.lua`
-3. Test by casting your spell
-
-### Adding a Custom Potion
-1. Edit `potion_activator_config.lua`:
-```lua
-["YourPotionID"] = {
-    event = "YourPotionEvent",
-    destination = "your_destination"
-}
-```
-2. Add event handler in `potion_activator_player.lua`
-3. Test by consuming your potion
-
-## Design Philosophy
-
-- Independent Mods - Each mod works standalone
-- Professional Architecture - Clean, maintainable code
-- Event-Driven - No polling, instant response
-- Vanilla Compatible - Seamless integration
-- Modular Design - Use only what you need
-- **Gateway Opening** - We build the foundations so others can create
-
-## Requirements
-
-- OpenMW 0.47 or later
-- Lua scripting support enabled
-- S3 Framework (optional, enhances functionality)
 
 ## Community License
 
-This framework is free for all modders to use in their own projects. Simply give credit to the Universal Framework project. No other restrictions apply.
+This framework is free for all modders. Use it however you want - commercial or free, modified or unchanged. Simply give credit to the Universal Framework project.
 
-We believe in making modding accessible to everyone, regardless of skill level. These tools are designed to help beginners create professional-quality mods and provide experienced modders with powerful, flexible systems.
+No other restrictions. No gatekeeping. Just build amazing things.
 
-## A Personal Note
+## Gateway Status: ✅ OPEN
 
-We created this framework for our own mod development, building each system to solve real problems we encountered while creating complex OpenMW content. As the systems matured and proved their value, we realized they could benefit the entire community.
-
-This framework represents hundreds of hours of development, testing, and refinement. We're releasing it freely because we believe the OpenMW modding community deserves tools that make creativity easier and more accessible. Whether you're a beginner taking your first steps into modding or an experienced developer looking for robust systems, we hope this framework helps you create something amazing.
-
-**The Gateway Is Open** - We've built the foundations. Now it's your turn to create incredible things.
-
-If you use this framework in your project, we'd love to see what you create. Your success is our reward.
+We've documented every system. Now it's your turn to create.
 
 ---
 
-Professional OpenMW modding framework - designed for elite modders, accessible to everyone.
+Professional OpenMW framework - elite architecture, accessible to everyone.
 
-**Gateway Status: ✅ OPEN**
+**24 README files** | **13 core systems** | **11 NPC plugins** | **Zero gatekeeping**

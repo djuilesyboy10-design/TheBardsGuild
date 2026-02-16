@@ -183,5 +183,49 @@ return {
             activator = "jmcg_garden",
             description = "The hidden repository where forgotten stories wait"
         }
+    },
+    
+    -- Gods Arena Network (for quest teleport)
+    gods_arena = {
+        final_arena = {
+            name = "The Gods Arena",
+            cell = "the gods arena",
+            pos = {2421.627, 3171.506, 14339.819},
+            description = "The final confrontation arena"
+        }
+    },
+    
+    -- Bards Guild Network (for guild locations)
+    bards_guild = {
+        guild_hall = {
+            name = "The Bards Guild",
+            cell = "Balmora Guild of Bards",
+            pos = {3915.731, 4130.536, 16394.344},
+            description = "The headquarters of the Bards Guild"
+        },
+        balmora_center = {
+            name = "Balmora",
+            cell = "Balmora",
+            pos = {-19448.383, -16552.750, 318.797},
+            description = "The center of Balmora city"
+        },
+        vivec_palace = {
+            name = "Vivec Palace",
+            cell = "JMCG_VivecPalace",
+            pos = {1276.561, 3081.010, 16817.203},
+            description = "The Palace of Vivec in the High Fane"
+        },
+        sotha_sil_dome = {
+            name = "Sotha Sil Dome",
+            cell = "Sotha Sil, Dome",
+            pos = {4077.109, 3761.860, 11732.691},
+            description = "The Dome of Sotha Sil"
+        },
+        malacaths_domain = {
+            name = "Malacath's Domain",
+            cell = "Malacaths Domain",
+            pos = {4072.351, 4500.001, 470.591},
+            description = "The realm of the Orc-Father"
+        }
     }
 }

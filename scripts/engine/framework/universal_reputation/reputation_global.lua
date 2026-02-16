@@ -12,6 +12,14 @@ local storage = require("openmw.storage")
 local MOD_ID = "UniversalReputation"
 
 -- =============================================================================
+-- UTILITY FUNCTIONS
+-- =============================================================================
+
+local function msg(message)
+    print("[" .. MOD_ID .. "] " .. message)
+end
+
+-- =============================================================================
 -- CONFIGURATION
 -- =============================================================================
 
@@ -30,7 +38,104 @@ local reputationData = {
     level = "Neutral",
     lastDecayTime = 0,
     crimeCount = 0,
-    heroicCount = 0
+    heroicCount = 0,
+    vanillaReputation = 0,
+    completedQuests = {} -- Track quests internally
+}
+
+-- Weights for different reputation sources
+local WEIGHTS = {
+    VANILLA_MULTIPLIER = 0.5, -- How much vanilla reputation counts
+    QUEST_MULTIPLIER = 2.0,   -- Default quest multiplier
+    PATH_MULTIPLIER = 3.0     -- Major path choices are more impactful
+}
+
+-- Quest Alignments and Weights
+-- Points are added to the criminal total (Negative = Heroic acts, Positive = Crimes)
+local QUEST_ALIGNMENTS = {
+    -- Core Choice Paths (Often triggered as separate quest completion IDs)
+    jmcg_path_good = { points = -20, type = "Heroic" },
+    jmcg_path_bad = { points = 30, type = "Criminal" },
+
+    -- Heroic / Abolitionist Paths
+    jmcg_twin_lamps_hymn = { points = -15, type = "Heroic" },
+    jmcg_freedom = { points = -15, type = "Heroic" },
+    jmcg_freedom2 = { points = -15, type = "Heroic" },
+    jmcg_freedom3 = { points = -15, type = "Heroic" },
+    jmcg_ballad = { points = -15, type = "Heroic" },
+    jmcg_div_good = { points = -20, type = "Heroic" },
+    jmcg_the_chroniclers_saint = { points = -20, type = "Heroic" },
+    jmcg_guide = { points = -10, type = "Heroic" },
+    jmcg_recruitment = { points = -10, type = "Honorable" },
+    jmcg_the_family_ties = { points = -10, type = "Honorable" },
+
+    -- Internal Choice Logic (Applied at specific stages)
+    jmcg_orc_diplomacy = {
+        stages = {
+            [80] = { points = -20, type = "Heroic", reason = "truce_brokered" }, -- Choosing Truce
+            [90] = { points = 35, type = "Criminal", reason = "slaughter_head" } -- Choosing Head as Proof
+        }
+    },
+    jmcg_imperial_buisness = {
+        stages = {
+            [50] = { points = -15, type = "Heroic", reason = "freed_slave" }, -- Freed slave in Hla Oad
+            [60] = { points = 25, type = "Criminal", reason = "delivered_slave" } -- Delivered slave to Tong
+        }
+    },
+    jmcg_tavern_haload = {
+        stages = {
+            [50] = { points = -10, type = "Honorable", reason = "sheltered_vulnerable" },
+            [60] = { points = 15, type = "Dishonorable", reason = "caution_over_commitment" }
+        }
+    },
+    jmcg_daisy_lore = {
+        stages = {
+            [100] = { points = -20, type = "Heroic", reason = "freed_captives" }, -- Freeing hatchlings
+            [110] = { points = 30, type = "Criminal", reason = "kept_vane_book" } -- Selling experimental recipes
+        }
+    },
+    jmcg_aldruhn_seed = {
+        stages = {
+            [40] = { points = -10, type = "Honorable", reason = "seed_redemption" },
+            [50] = { points = -15, type = "Heroic", reason = "seed_goodwill" },
+            [60] = { points = 20, type = "Criminal", reason = "seed_subversive" }
+        }
+    },
+
+    -- Criminal / Shadow Paths
+    jmcg_tong_dirge = { points = 30, type = "Criminal" },
+    jmcg_thieves_lore = { points = 25, type = "Criminal" },
+    jmcg_fara = { points = 25, type = "Criminal" }, -- Shady cookbook/recipes
+    jmcg_jack_lore = { points = 15, type = "Dishonorable" }, -- Political manipulation
+
+    -- Mythic Paths (High Impact)
+    jmcg_myth = { points = -30, type = "Legendary" },
+    jmcg_div_myth = { points = -30, type = "Legendary" },
+    jmcg_dragon = { points = -25, type = "Legendary" },
+    jmcg_stack = { points = -25, type = "Legendary" },
+    jmcg_web = { points = -25, type = "Legendary" },
+    jmcg_ashsinger_echo = { points = -30, type = "Legendary" },
+    jmcg_hist_lore = { points = -25, type = "Legendary" },
+    jmcg_herm = { points = -25, type = "Legendary" },
+    jmcg_lostbard = { points = -25, type = "Legendary" },
+    jmcg_ally_lore = { points = -25, type = "Legendary" }, -- The Silent Archive
+    jmcg_endgame = { points = -30, type = "Legendary" },    -- Northern Breeze
+    jmcg_final = {
+        stages = {
+            [90] = { points = 50, type = "Criminal", reason = "joined_dagoth_ur" },
+            [100] = { points = -60, type = "Legendary", reason = "reminded_friend" }
+        }
+    },
+
+    -- Core Guild Progress (Mostly neutral/positive)
+    jmcg_bards_guild = { points = -10, type = "Honorable" },
+    jmcg_tuning_master = { points = -10, type = "Neutral" },
+    jmcg_ablle = { points = -5, type = "Honorable" }, -- The Vibrating Earth
+    jmcg_joseph_personal = { points = -5, type = "Neutral" },
+    jmcg_joseph_lore = { points = -10, type = "Neutral" },
+    jmcg_shane_lore = { points = -5, type = "Neutral" },
+    jmcg_shane_lore_1 = { points = -5, type = "Neutral" },
+    jmcg_shane_lore_2 = { points = -10, type = "Neutral" }
 }
 
 -- User settings
@@ -45,14 +150,18 @@ local crimePoints = {
     force_lock = -10,       -- Medium crime  
     magic_unlock = -7,       -- Magical crime
     theft = -15,            -- Major crime
-    trespass = -3           -- Minor violation
+    trespass = -3,          -- Minor violation
+    murder = 30,            -- Serious crime
+    assassination = 45      -- High-profile crime
 }
 
 local heroicPoints = {
     help_npc = 10,         -- Help someone
     complete_quest = 20,   -- Quest completion
     donate = 5,            -- Charity
-    save_life = 25         -- Heroic act
+    save_life = 25,        -- Heroic act
+    clear_drug_den = 30,   -- Social service
+    establish_network = 15 -- Organization building
 }
 
 -- =============================================================================
@@ -60,20 +169,25 @@ local heroicPoints = {
 -- =============================================================================
 
 local function calculateReputationLevel(points)
-    if points >= 100 then 
-        return "Criminal"
-    elseif points >= 50 then 
-        return "Suspicious"
-    elseif points >= 20 then 
-        return "Dishonorable"
-    elseif points >= 0 then 
-        return "Neutral"
-    elseif points >= -20 then 
-        return "Honorable"
-    elseif points >= -50 then 
-        return "Heroic"
+    -- For now, just use custom points without vanilla reputation integration
+    -- TODO: Fix vanilla reputation access later
+    
+    local combinedScore = points
+
+    if combinedScore >= 500 then 
+        return "Broken"
+    elseif combinedScore >= 250 then 
+        return "Fading"
+    elseif combinedScore >= 100 then 
+        return "Distorted"
+    elseif combinedScore >= 0 then 
+        return "Tuning"
+    elseif combinedScore >= -100 then 
+        return "Resonant"
+    elseif combinedScore >= -250 then 
+        return "Anchor"
     else 
-        return "Legendary"
+        return "Editor"
     end
 end
 
@@ -134,12 +248,123 @@ local reputationEffects = {
 }
 
 -- =============================================================================
--- UTILITY FUNCTIONS
+-- QUEST MONITORING (Independent)
 -- =============================================================================
 
-local function msg(message)
-    if CONFIG.DEBUG then
-        print("[" .. MOD_ID .. "] " .. message)
+local function checkQuestProgress()
+    -- This polling function is now a fallback for initialization
+    local player = world.players[1]
+    if not player then return end
+
+    local playerQuests = types.Player.quests(player)
+    local questDatabase = require('scripts.jmcg_influence.quest_database')
+
+    for questId, data in pairs(questDatabase) do
+        local qId = questId:lower()
+        local currentStage = 0
+        for _, q in pairs(playerQuests) do
+            if q.id:lower() == qId then
+                currentStage = q.stage
+                break
+            end
+        end
+
+        local alignment = QUEST_ALIGNMENTS[qId]
+
+        -- 1. Catch-up for stage-based choices
+        if alignment and alignment.stages then
+            for stage, stageReward in pairs(alignment.stages) do
+                local rewardId = string.format("%s_stage_%d", qId, stage)
+                if currentStage >= stage and not reputationData.completedQuests[rewardId] then
+                    msg("Quest choice synced from journal: " .. rewardId)
+                    reputationData.completedQuests[rewardId] = true
+                    reputationData.points = reputationData.points + stageReward.points
+                end
+            end
+        end
+
+        -- 2. Catch-up for final completions
+        local maxStage = data.maxIndex or 1
+        if currentStage >= maxStage and not reputationData.completedQuests[qId] then
+            msg("Quest completion synced from journal: " .. qId)
+            reputationData.completedQuests[qId] = true
+            
+            -- Apply points for final completion
+            if alignment and alignment.points then
+                reputationData.points = reputationData.points + alignment.points
+            elseif not (alignment and alignment.stages) then
+                -- Default generic reward
+                local basePoints = heroicPoints.complete_quest or 20
+                reputationData.points = reputationData.points - (basePoints * WEIGHTS.QUEST_MULTIPLIER)
+            end
+        end
+    end
+    
+    reputationData.level = calculateReputationLevel(reputationData.points)
+end
+
+-- =============================================================================
+-- EVENT HANDLERS
+-- =============================================================================
+
+local function onQuestStageChanged(data)
+    if not data or not data.questId then return end
+    
+    local questId = data.questId:lower()
+    local stage = data.stage
+    
+    local questDatabase = require('scripts.jmcg_influence.quest_database')
+    local questData = questDatabase[questId]
+    
+    if not questData then return end
+    
+    -- 1. Check for specific stage-based reputation rewards (Choices)
+    local alignment = QUEST_ALIGNMENTS[questId]
+    if alignment and alignment.stages and alignment.stages[stage] then
+        local stageReward = alignment.stages[stage]
+        local rewardId = string.format("%s_stage_%d", questId, stage)
+        
+        -- Only award once per stage
+        if not reputationData.completedQuests[rewardId] then
+            msg(string.format("Choice reward triggered: %s Stage %d (%+d points - %s)", 
+                questId, stage, stageReward.points, stageReward.type))
+            reputationData.completedQuests[rewardId] = true
+            addReputationPoints(stageReward.points, stageReward.reason or "quest_choice")
+        end
+    end
+
+    -- 2. Check for Quest Completion (Max Index)
+    local maxStage = questData.maxIndex or 1
+    if stage >= maxStage and not reputationData.completedQuests[questId] then
+        msg("Quest completed detected via EVENT: " .. questId)
+        reputationData.completedQuests[questId] = true
+        
+        -- Apply final completion reward if defined (and not stage-based only)
+        if alignment and alignment.points then
+            msg(string.format("Applying %s alignment for quest completion: %s (%+d points)", 
+                alignment.type, questId, alignment.points))
+            addReputationPoints(alignment.points, "quest_complete_" .. alignment.type:lower())
+        elseif not (alignment and alignment.stages) then
+            -- Default to Heroic completion for quests not explicitly in the alignment table
+            onHeroicEvent({
+                type = "complete_quest",
+                questId = questId
+            })
+        end
+    end
+end
+
+local function saveReputationData()
+    if settings then
+        settings:set("reputationData", {
+            points = reputationData.points,
+            level = reputationData.level,
+            lastDecayTime = reputationData.lastDecayTime,
+            crimeCount = reputationData.crimeCount,
+            heroicCount = reputationData.heroicCount,
+            completedQuests = reputationData.completedQuests
+        })
+        msg("Saved reputation data to storage")
     end
 end
 
@@ -150,38 +375,26 @@ local function addReputationPoints(points, reason)
     
     -- Track counts
     if points > 0 then
-        reputationData.heroicCount = reputationData.heroicCount + 1
-    else
         reputationData.crimeCount = reputationData.crimeCount + 1
+    else
+        reputationData.heroicCount = reputationData.heroicCount + 1
     end
     
     msg(string.format("Reputation %s: %+d points (%s) - Total: %d (%s)", 
-        points > 0 and "increased" or "decreased", 
+        points < 0 and "increased" or "decreased", 
         points, 
         reason, 
         reputationData.points, 
         reputationData.level))
     
-    -- Apply bounty for crimes
-    if points < 0 then
-        applyBounty(math.abs(points))
+    -- Apply bounty for crimes (Positive points in this logic = bad)
+    if points > 0 then
+        applyBounty(points)
     end
     
     -- Notify level change
     if oldLevel ~= reputationData.level then
         msg("Reputation level changed: " .. oldLevel .. " → " .. reputationData.level)
-        
-        -- Save reputation data
-        if settings then
-            settings:set("reputationData", {
-                points = reputationData.points,
-                level = reputationData.level,
-                lastDecayTime = reputationData.lastDecayTime,
-                crimeCount = reputationData.crimeCount,
-                heroicCount = reputationData.heroicCount
-            })
-            msg("Debug: Saved reputation data to storage")
-        end
         
         -- Send event to effects system
         core.sendGlobalEvent("Reputation_Changed", {
@@ -192,6 +405,9 @@ local function addReputationPoints(points, reason)
             heroicCount = reputationData.heroicCount
         })
     end
+    
+    -- Always save on change
+    saveReputationData()
 end
 
 local function applyBounty(crimePoints)
@@ -261,10 +477,18 @@ end
 local function onHeroicEvent(data)
     if not data or not data.type then return end
     
-    local points = heroicPoints[data.type] or 10
+    local basePoints = heroicPoints[data.type] or 10
+    local points = basePoints
+    
+    -- If it's a quest completion, apply the quest multiplier
+    if data.type == "complete_quest" then
+        points = points * WEIGHTS.QUEST_MULTIPLIER
+    end
+    
     local reason = data.type
     
-    addReputationPoints(points, reason)
+    -- Subtract points for heroic acts (higher = worse in this system)
+    addReputationPoints(-points, reason)
 end
 
 local function onGetReputation(data)
@@ -300,52 +524,59 @@ end
 -- INITIALIZATION
 -- =============================================================================
 
-local function initialize()
+local function initialize(savedData)
     msg("Initializing Universal Reputation System")
     
-    -- Load saved data
-    local savedData = settings:get("reputationData")
-    msg("Debug: savedData type: " .. type(savedData))
+    -- Priority: 1. Data from onLoad (engine save), 2. Data from storage (global settings)
+    local data = savedData or settings:get("reputationData")
     
-    -- Handle ProtectedTable userdata
-    if savedData and type(savedData) == "userdata" then
-        msg("Debug: Converting ProtectedTable userdata to table")
-        -- Try to extract data from ProtectedTable
-        local success, extractedData = pcall(function()
-            return {
-                points = savedData.points or 0,
-                level = savedData.level or "Neutral",
-                lastDecayTime = savedData.lastDecayTime or 0,
-                crimeCount = savedData.crimeCount or 0,
-                heroicCount = savedData.heroicCount or 0
-            }
-        end)
+    if data then
+        msg("Debug: Loading reputation data, source: " .. (savedData and "Engine" or "Storage"))
         
-        if success and extractedData then
-            reputationData.points = extractedData.points
-            reputationData.level = extractedData.level
-            reputationData.lastDecayTime = extractedData.lastDecayTime
-            reputationData.crimeCount = extractedData.crimeCount
-            reputationData.heroicCount = extractedData.heroicCount
-            msg("Loaded saved reputation: " .. reputationData.points .. " points (" .. reputationData.level .. ")")
-        else
-            msg("Failed to extract data from ProtectedTable, starting fresh")
+        -- Handle ProtectedTable userdata (from storage)
+        if type(data) == "userdata" then
+            local success, extractedData = pcall(function()
+                return {
+                    points = data.points or 0,
+                    level = data.level or "Neutral",
+                    lastDecayTime = data.lastDecayTime or 0,
+                    crimeCount = data.crimeCount or 0,
+                    heroicCount = data.heroicCount or 0,
+                    completedQuests = data.completedQuests or {}
+                }
+            end)
+            
+            if success and extractedData then
+                data = extractedData
+            else
+                msg("Failed to extract data from ProtectedTable, starting fresh")
+                data = nil
+            end
         end
-    elseif savedData and type(savedData) == "table" then
-        -- Copy values from saved data to our table
-        reputationData.points = savedData.points or 0
-        reputationData.level = savedData.level or "Neutral"
-        reputationData.lastDecayTime = savedData.lastDecayTime or 0
-        reputationData.crimeCount = savedData.crimeCount or 0
-        reputationData.heroicCount = savedData.heroicCount or 0
-        msg("Loaded saved reputation: " .. reputationData.points .. " points (" .. reputationData.level .. ")")
+        
+        if data then
+            reputationData.points = data.points or 0
+            reputationData.level = data.level or "Neutral"
+            reputationData.lastDecayTime = data.lastDecayTime or 0
+            reputationData.crimeCount = data.crimeCount or 0
+            reputationData.heroicCount = data.heroicCount or 0
+            reputationData.completedQuests = data.completedQuests or {}
+            msg("Loaded reputation: " .. reputationData.points .. " points (" .. reputationData.level .. ")")
+        end
     else
         msg("Starting with fresh reputation data")
     end
     
     -- Start decay timer
-    local time = require("openmw_aux.time")
-    time.runRepeatedly(decayReputation, CONFIG.DECAY_INTERVAL, {type = time.SimulationTime})
+    local async = require("openmw.async")
+    async:newUnsavableGameTimer(CONFIG.DECAY_INTERVAL, function()
+        decayReputation()
+        -- Schedule next decay
+        async:newUnsavableGameTimer(CONFIG.DECAY_INTERVAL, arguments.callee)
+    end)
+    
+    -- One-time sync for existing saves on load
+    checkQuestProgress()
     
     msg("Universal Reputation System initialized")
 end
@@ -356,15 +587,15 @@ end
 
 return {
     engineHandlers = {
-        onLoad = function()
-            initialize()
+        onLoad = function(data)
+            initialize(data and data.reputationData)
             msg("Universal Reputation System loaded")
         end,
         
         onSave = function()
-            -- Temporarily disable saving to avoid serialization issues
-            -- TODO: Fix serialization later
-            return {}
+            return {
+                reputationData = reputationData
+            }
         end
     },
     
@@ -372,6 +603,11 @@ return {
         Reputation_CrimeEvent = onCrimeEvent,
         Reputation_HeroicEvent = onHeroicEvent,
         Reputation_GetReputation = onGetReputation,
-        UA_BountyApplied = onBountyApplied
+        UA_BountyApplied = onBountyApplied,
+        JMCG_QuestStageChanged = onQuestStageChanged,
+        SpecialTitles_ShowMenu = function(data)
+            -- Send event to MENU context to show titles UI
+            print("[UniversalReputation] Opening Chronicle of Titles...")
+        end
     }
 }

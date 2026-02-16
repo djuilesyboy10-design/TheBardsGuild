@@ -1,21 +1,21 @@
 GLOBAL: scripts/engine/framework/universal_travel/ut_global.lua
-GLOBAL: scripts/engine/framework/universal_trigger.lua
 GLOBAL: scripts/engine/framework/potion_activator/potion_activator.lua
 GLOBAL: scripts/engine/framework/scroll_activator/scroll_activator.lua
+GLOBAL: scripts/engine/framework/spell_activator/spell_activator.lua
+GLOBAL: scripts/engine/framework/quest_monitor/quest_monitor_engine.lua
+GLOBAL: scripts/engine/framework/object_management/object_management_global.lua
 GLOBAL: scripts/herbalism/herbalish_g.lua
-GLOBAL: scripts/who_knocked/ua_global.lua
-GLOBAL: scripts/who_knocked/ua_bounty_monitor.lua
-GLOBAL: scripts/who_knocked/who_settings/who_global.lua
 GLOBAL: scripts/engine/framework/universal_menu/global_menu.lua
-GLOBAL: scripts/chronicle_generator/chronicle_global.lua
+GLOBAL: scripts/engine/framework/npc_schedule/npc_schedule_global.lua
+GLOBAL: scripts/engine/framework/chronicle_activator/chronicle_global.lua
+GLOBAL: scripts/engine/framework/universal_menu/universal_menu_quest_monitor.lua
+GLOBAL: scripts/engine/framework/universal_reputation/special_titles/special_titles_global.lua
+GLOBAL: scripts/engine/framework/universal_reputation/reputation_global.lua
 
-PLAYER: scripts/engine/plugins/perk_trigger/perk_trigger_event_listener.lua
-PLAYER: scripts/skill/bard_perks.lua
-PLAYER: scripts/engine/framework/universal_travel/ut_player.lua
-PLAYER: scripts/engine/framework/potion_activator/potion_activator_player.lua
-PLAYER: scripts/engine/framework/scroll_activator/scroll_activator_player.lua
-PLAYER: scripts/engine/framework/spell_activator/spell_activator.lua
-PLAYER: scripts/engine/framework/spell_activator/spell_activator_player.lua
+PLAYER: scripts/engine/framework/quest_monitor/quest_monitor_player.lua
+PLAYER: scripts/engine/framework/universal_reputation/special_titles/special_titles_player.lua
+PLAYER: scripts/engine/framework/universal_reputation/special_titles/special_titles_settings.lua
+PLAYER: scripts/engine/framework/object_management/object_management_player.lua
 PLAYER: scripts/jmcg_Influence/Quest_Logic.lua
 PLAYER: scripts/jmcg_Influence/bard_controller.lua
 PLAYER: scripts/jmcg_Influence/bard_ring_ui.lua
@@ -23,18 +23,10 @@ PLAYER: scripts/patchs/bards_questpat.lua
 PLAYER: scripts/herbalism/herbalish_p.lua
 PLAYER: scripts/herbalism/herbalish_alchemy.lua
 PLAYER: scripts/skill/bard_skill_final.lua
-PLAYER: scripts/who_knocked/ua_player.lua
-PLAYER: scripts/who_knocked/ua_event_bridge.lua
-PLAYER: scripts/who_knocked/who_settings/who_player.lua
-PLAYER: scripts/who_knocked/who_settings/who_settings.lua
-PLAYER: scripts/who_knocked/who_settings/who_data.lua
-
-
-
-
-
-
-
-
-
+PLAYER: scripts/engine/framework/npc_schedule/npc_schedule_player.lua
+PLAYER: scripts/engine/framework/chronicle_activator/chronicle_player.lua
+PLAYER: scripts/engine/framework/chronicle_activator/chronicle_settings.lua
+PLAYER: scripts/engine/framework/spell_activator/spell_activator_player.lua
+MENU: scripts/engine/framework/universal_menu/universal_key_renderer.lua
+PLAYER: scripts/engine/framework/universal_reputation/reputation_player.lua
 
